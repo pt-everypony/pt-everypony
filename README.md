@@ -8,12 +8,13 @@ Welcome everypony!
 
 Nominate yourself/anyone today on straw
 
-![](https://files.catbox.moe/clqsni.gif) [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/dy6dvr.gifv)
+![](https://files.catbox.moe/xipll1.gif)
+ [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/xipll1.gif)
 
-Rules & more info will be on straw, to request a removal of a problematic person please head to the Atabook with more evidence by sending screenshots links or doc link with their github.
+![](https://files.catbox.moe/4tehk7.gif): Rules & more info will be on straw, to request a removal of a problematic person please head to the Atabook with more evidence by sending screenshots links or doc link with their github. ![](https://files.catbox.moe/3pf6g6.gif)
 
 Fell free to recommend more categories & make this acc grow 
-bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶)
+bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https://files.catbox.moe/8cmssh.gif)
 
 # ${\color{#905231}꒰ \space CA \color{#A36037}T \color{#AF723B}E \color{#B78045}GO \color{#AF723B}R \color{#A36037}I \color{#905231}ES \space ꒱}$
 
