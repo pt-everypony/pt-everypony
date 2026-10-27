@@ -8,7 +8,7 @@ Welcome everypony!
 
 Nominate yourself/anyone today on straw
 
-[straw](https://pt-everypony.straw.page)
+![](https://files.catbox.moe/clqsni.gif) [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/dy6dvr.gifv)
 
 Rules & more info will be on straw, to request a removal of a problematic person please head to the Atabook with more evidence by sending screenshots links or doc link with their github.
 
