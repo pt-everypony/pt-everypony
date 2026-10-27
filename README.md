@@ -26,4 +26,8 @@ o
 
 **${\color{#CDD537}‿  ◟ \space EV \color{#BBC327}E \color{#A1A821}R \color{#8E9800}YT \color{#A1A821}H \color{#BBC327}I \color{#CDD537}NG \color{#CDD537} ◞  ‿}$**
 
-▶
+<details>
+<summary>  ${\color{#4B4C3B}Example}$</summary>
+$$\color{#87896A}it's\ in\ the\ name\ you\ can\ nominate\ as\ everything\ and\ anything!\ fruit,\ food,\ objects,\ animals,\ aesthetics\ etc..\ there's\ no\ limit\ for\ this\ for\ example\ if\ someone\ nominate\ themselves\ as\ just\ a\ car\ you\ can\ pick\ a\ different\ car\ model/brand\ ,\ this\ category\ is\ mostly\ made\ for\ neurodivergent\ people\ and\ alterhumans\ who\ make\ it\ part\ of\ their\ identity/gender\ but\ everyone\ is\ welcome\ you\ if\ you\ only\ like\ it\ ^_^!!$$
+
+</details>
