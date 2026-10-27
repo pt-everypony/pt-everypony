@@ -8,4 +8,4 @@ o
 
 ![](https://files.catbox.moe/vghbur.jpg)
 
-## ${\color{#905231}꒰ \space CH \color{#A36037}A \color{#AF723B}R \color{#B78045}AC \color{#AF723B}T \color{#A36037}E \color{#905231}RS \space ꒱}$
+**${\color{#689031}─ \space CH \color{#7FA337}A \color{#8FA337}R \color{#ACC442}AC \color{#8FA337}T \color{#7FA337}E \color{#689031}RS \space ─}$**
