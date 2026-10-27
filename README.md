@@ -6,7 +6,7 @@ o
 
 # ${\color{#905231}꒰ \space CA \color{#A36037}T \color{#AF723B}E \color{#B78045}GO \color{#AF723B}R \color{#A36037}I \color{#905231}ES \space ꒱}$
 
-![](https://files.catbox.moe/29mkdh.png)
+![](https://files.catbox.moe/kpkje9.png)
 
 **${\color{#BF2A24}‿  ◟ \space CH \color{#D34128}A \color{#E2522B}R \color{#E2742B}AC \color{#E2522B}T \color{#D34128}E \color{#BF2A24}RS \color{#BF2A24} ◞  ‿}$**
 
