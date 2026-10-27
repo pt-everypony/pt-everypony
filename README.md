@@ -8,5 +8,10 @@ o
 
 ![](https://files.catbox.moe/gk18ut.png)
 
-**${\color{#689031}─ \space CH \color{#7FA337}A \color{#8FA337}R \color{#ACC442}AC \color{#8FA337}T \color{#7FA337}E \color{#689031}RS}$ ![](https://files.catbox.moe/dy6dvr.gif) ${\color{#689031} ─}$**
-![](https://files.catbox.moe/b1w7a9.jpg)
+**${\color{#689031}‿  ◟ \space CH \color{#7FA337}A \color{#8FA337}R \color{#ACC442}AC \color{#8FA337}T \color{#7FA337}E \color{#689031}RS \color{#689031} ◞  ‿}$**
+
+![](https://files.catbox.moe/iagaj1.png)
+
+**${\color{#BF2A24}‿  ◟ \space FI \color{#D34128}C \color{#E2522B}T \color{#E2742B}IO \color{#E2522B}N \color{#D34128}K \color{#BF2A24}IN \color{#BF2A24} ◞  ‿}$**
+
+![](https://files.catbox.moe/iagaj1.png)
