@@ -2,7 +2,18 @@
     
 ![](https://files.catbox.moe/4cuk6c.gif)
 
-o
+${\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
+
+Welcome everypony!
+
+Nominate yourself/anyone today on straw
+
+[straw](https://pt-everypony.straw.page)
+
+Rules & more info will be on straw, to request a removal of a problematic person please head to the Atabook with more evidence by sending screenshots links or doc link with their github.
+
+Fell free to recommend more categories & make this acc grow 
+bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶)
 
 # ${\color{#905231}꒰ \space CA \color{#A36037}T \color{#AF723B}E \color{#B78045}GO \color{#AF723B}R \color{#A36037}I \color{#905231}ES \space ꒱}$
 
