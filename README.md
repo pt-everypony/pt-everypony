@@ -6,7 +6,7 @@ o
 
 # ${\color{#905231}꒰ \space CA \color{#A36037}T \color{#AF723B}E \color{#B78045}GO \color{#AF723B}R \color{#A36037}I \color{#905231}ES \space ꒱}$
 
-![](https://files.catbox.moe/gk18ut.png)
+![](https://files.catbox.moe/vi906i.png)
 
 **${\color{#BF2A24}‿  ◟ \space CH \color{#D34128}A \color{#E2522B}R \color{#E2742B}AC \color{#E2522B}T \color{#D34128}E \color{#BF2A24}RS \color{#BF2A24} ◞  ‿}$**
 
@@ -27,7 +27,13 @@ o
 **${\color{#CDD537}‿  ◟ \space EV \color{#BBC327}E \color{#A1A821}R \color{#8E9800}YT \color{#A1A821}H \color{#BBC327}I \color{#CDD537}NG \color{#CDD537} ◞  ‿}$**
 
 <details>
-<summary>  ${\color{#4B4C3B}Example}$</summary>
-$$\color{#87896A}it's\ in\ the\ name\ you\ can\ nominate\ as\ everything\ and\ anything!\ fruit,\ food,\ objects,\ animals,\ aesthetics\ etc..\ there's\ no\ limit\ for\ this\ for\ example\ if\ someone\ nominate\ themselves\ as\ just\ a\ car\ you\ can\ pick\ a\ different\ car\ model/brand\ ,\ this\ category\ is\ mostly\ made\ for\ neurodivergent\ people\ and\ alterhumans\ who\ make\ it\ part\ of\ their\ identity/gender\ but\ everyone\ is\ welcome\ you\ if\ you\ only\ like\ it\ ^_^!!$$
-
+<summary>  $${\color{#4B4C3B}Example}$$</summary>
+$${\color{#87896A}it's\ in\ the\ name\ you\ can\ nominate\ as\ everything\ and\ anything!}$$
+$${\color{#87896A}fruit,\ food,\ objects,\ animals,\ aesthetics\ etc..}$$
+$${\color{#87896A}there's\ no\ limit\ for\ this\ for\ example\ if\ someone\ nominate}$$
+$${\color{#87896A}themselves\ as\ just\ a\ car\ you\ can\ pick\ a\ different\ car\ model/brand}$$
+$${\color{#87896A},\ this\ category\ is\ mostly\ made\ for\ neurodivergent\ people}$$
+$${\color{#87896A}and\ alterhumans\ who\ make\ it\ part\ of\ their\ identity/gender}$$
+$${\color{#87896A}but\ everyone\ is\ welcome\ you\ if\ you\ only\ like\ it\ !!}$$
+  
 </details>
