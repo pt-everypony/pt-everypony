@@ -1,6 +1,5 @@
   <div align="center">
 
-  ![](https://files.catbox.moe/tm6ri9.png)
 
 Welcome everypony!
 
@@ -20,7 +19,7 @@ bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https:
 
 ![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category more than one but won't be adding more than one character/thing for everyone to have a chance to be added! you can request to be removed or changed, scroll down and click on the arrows to read more about the categories with example/note.
 
-![](https://files.catbox.moe/6ywgs4.png)
+![](https://files.catbox.moe/0dne14.png)
 
 ${\color{#505050}Nominate\ other's\ that\ you\ found\ cool,\ you\ can't\ submit\ yourself\ but\ if\ you\ want}$
 ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ be\ the\ judge\ for\ that.}$
