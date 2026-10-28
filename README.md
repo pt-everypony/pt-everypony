@@ -43,7 +43,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 
 <details>
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
-  $${\color{#87896A} you can submit any type of fictkin!}$$ 
+  $${\color{#87896A}you\ can\ submit\ any\ type\ of\ fictkin!}$$ 
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "character"\ shipper!}$$
   
 </details>
