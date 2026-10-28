@@ -5,7 +5,7 @@ Welcome everypony!
 
 ${\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
 
-${\color{#505050} account \color{#5B5B5B}created \color{#656565}:\ 10/ \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
+${\color{#505050} account \color{#5B5B5B}created \color{#656565}ated:\ \color{#7A7A7A}10/ \color{#8E8E8E}24/ \color{#7A7A7A}2\color{#656565}0 \color{#5B5B5B}2 \color{#505050}6}$
 
 Nominate yourself/anyone today on straw
 
