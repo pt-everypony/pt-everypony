@@ -37,16 +37,22 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 
 **${\color{#BF2A24}‿  ◟ \space CH \color{#D34128}A \color{#E2522B}R \color{#E2742B}AC \color{#E2522B}T \color{#D34128}E \color{#BF2A24}RS \color{#BF2A24} ◞  ‿}$**
 
+<details>
+<summary>  $${\color{#4B4C3B}Note}$$</summary>
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "character"!}$$
+  
+</details>
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#689031}‿  ◟ \space FI \color{#7FA337}C \color{#8FA337}T \color{#ACC442}IO \color{#8FA337}N \color{#7FA337}K \color{#689031}INS \color{#689031} ◞  ‿}$**
 
-<details>
+details>
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
   $${\color{#87896A}you\ can\ submit\ any\ type\ of\ fictkin!}$$ 
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "character"\ shipper!}$$
   
-</details>
+</details><
 
 ![](https://files.catbox.moe/iagaj1.png)
 
