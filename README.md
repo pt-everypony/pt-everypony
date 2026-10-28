@@ -3,9 +3,9 @@
 
 Welcome everypony!
 
-${\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
+${\tiny\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
 
-${\color{#505050} account \color{#5B5B5B}created \color{#656565}ated:\ \color{#7A7A7A}10/ \color{#8E8E8E}24/ \color{#7A7A7A}2\color{#656565}0 \color{#5B5B5B}2 \color{#505050}6}$
+${\tiny\color{#502916} acc \color{#66351C}ou \color{#7A3F22}nt\ \color{#874625}cre \color{#935429}ated:\ 10/ \color{#874625}24 \color{#7A3F22}/ \color{#66351C}20 \color{#502916}26}$
 
 Nominate yourself/anyone today on straw
 
