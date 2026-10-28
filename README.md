@@ -10,7 +10,7 @@ Nominate yourself/anyone today on straw
 ![](https://files.catbox.moe/xipll1.gif)
  [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/xipll1.gif)
 
-![](https://files.catbox.moe/4tehk7.gif): Rules & more info will be on straw, to request a removal of a problematic person please head to the Atabook with more evidence by sending screenshots links or doc link with their github. ![](https://files.catbox.moe/3pf6g6.gif)
+![](https://files.catbox.moe/4tehk7.gif): Rules & more info will be on straw, to request a removal of a problematic person please head to the [Atabook](https://pt-everypony.atabook.org/) with more evidence by sending screenshots links or doc link with their github. ![](https://files.catbox.moe/3pf6g6.gif)
 
 Fell free to recommend more categories & make this acc grow 
 bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https://files.catbox.moe/8cmssh.gif)
