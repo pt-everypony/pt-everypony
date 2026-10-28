@@ -15,7 +15,7 @@ Nominate yourself/anyone today on straw
 Fell free to recommend more categories & make this acc grow 
 bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https://files.catbox.moe/8cmssh.gif)
 
-![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category but won't be adding more than one character/thing for everyone to have a chance to be added! you can request to be removed or changed, scroll down and click on the arrows to read more about the categories with example/note.
+![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category more than one but won't be adding more than one character/thing for everyone to have a chance to be added! you can request to be removed or changed, scroll down and click on the arrows to read more about the categories with example/note.
 
   <div align="left">
 
@@ -40,6 +40,13 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#689031}‿  ◟ \space FI \color{#7FA337}C \color{#8FA337}T \color{#ACC442}IO \color{#8FA337}N \color{#7FA337}K \color{#689031}INS \color{#689031} ◞  ‿}$**
+
+<details>
+<summary>  $${\color{#4B4C3B}Note}$$</summary>
+  $${\color{#87896A} you can submit any type of fictkin!}$$ 
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "character"\ shipper!}$$
+  
+</details>
 
 ![](https://files.catbox.moe/iagaj1.png)
 
