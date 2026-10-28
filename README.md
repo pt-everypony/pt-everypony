@@ -1,6 +1,6 @@
   <div align="center">
 
-![](https://files.catbox.moe/9pjlan.png)
+![]([https://files.catbox.moe/9pjlan.png](https://files.catbox.moe/x6ucor.png))
 
 ![](https://files.catbox.moe/4cuk6c.gif)
 
@@ -52,4 +52,4 @@ $${\color{#87896A}but\ everyone\ is\ welcome\ you\ if\ you\ only\ like\ it\ !!}$
   
 </details>
 
-![](https://files.catbox.moe/hgvnjz.png)
+![](https://files.catbox.moe/hxjoup.png)
