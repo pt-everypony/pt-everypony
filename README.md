@@ -1,5 +1,6 @@
   <div align="center">
 
+![](https://files.catbox.moe/jx77lu.jpg)
 
 Welcome everypony!
 
@@ -37,6 +38,10 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
+
+  <div align="right">
+
+![](https://files.catbox.moe/qce69s.gif)
 
   <div align="center">
     
@@ -105,3 +110,5 @@ $${\color{#87896A}but\ everyone\ is\ welcome\ if\ you\ only\ like\ it\ !!}$$
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "apple"!}$$
   
 </details>
+
+![](https://files.catbox.moe/p1cqnl.gif)
