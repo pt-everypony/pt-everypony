@@ -1,5 +1,6 @@
   <div align="center">
-  
+
+  ![](https://files.catbox.moe/tm6ri9.png)
 
 Welcome everypony!
 
@@ -7,7 +8,7 @@ ${\tiny\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ 
 
 ${\tiny\color{#502916} acc \color{#66351C}ou \color{#7A3F22}nt\ \color{#874625}cre \color{#935429}ated:\ 10/ \color{#874625}24 \color{#7A3F22}/ \color{#66351C}20 \color{#502916}26}$
 
-Nominate yourself/anyone today on straw
+Nominate yourself/anyone today on straw!
 
 ![](https://files.catbox.moe/xipll1.gif)
  [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/xipll1.gif)
