@@ -1,6 +1,5 @@
   <div align="center">
-
-![]([https://files.catbox.moe/9pjlan.png](https://files.catbox.moe/x6ucor.png))
+  
 
 ![](https://files.catbox.moe/4cuk6c.gif)
 
@@ -18,6 +17,22 @@ Nominate yourself/anyone today on straw
 Fell free to recommend more categories & make this acc grow 
 bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https://files.catbox.moe/8cmssh.gif)
 
+![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category but won't be adding more than one character/thing for everyone to have a chance to be added! scroll down and click on the arrows to read more about the categories with example/note.
+
+  <div align="left">
+
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$
+
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$
+
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$
+
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$
+
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
+
+  <div align="center">
+    
 # ${\color{#905231}꒰ \space CA \color{#A36037}T \color{#AF723B}E \color{#B78045}GO \color{#AF723B}R \color{#A36037}I \color{#905231}ES \space ꒱}$
 
 ![](https://files.catbox.moe/mah4wc.png)
@@ -32,9 +47,24 @@ bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https:
 
 **${\color{#CC9543}‿  ◟ \space YU \color{#E5A74B}M \color{#E5C14B}E \color{#E5D84B}SH \color{#E5C14B}I \color{#E5A74B}P \color{#CC9543}S \color{#CC9543} ◞  ‿}$**
 
+<details>
+<summary>  $${\color{#4B4C3B}Note}$$</summary>
+$${\color{#87896A}Let\ me\ know\ of\ any\ problematic\ yume,\ yumeshippers\ of\ irl\ people\ are\ unwelcomed!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ yumeship's\ with\ "character"!}$$
+  
+</details>
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#B4002A}‿  ◟ \space \color{#CE0030}S \color{#FF003B}H \color{#FF3060}I \color{#FF2256}P \color{#CE0030}S \color{#B4002A} ◞  ‿}$**
+
+<details>
+<summary>  $${\color{#4B4C3B}Note}$$</summary>
+  $${\color{#87896A}I\ don't\ know\ alot\ of\ ships\ so\ let\ me\ know\ if\ any\ of}$$ 
+  $${\color{#87896A}them\ is\ problematic\ in\ some\ way!\ proship/darkship\ are\ not\ allowed\ here.}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shipper!}$$
+  
+</details>
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -49,7 +79,6 @@ $${\color{#87896A}themselves\ as\ just\ a\ car\ you\ can\ pick\ a\ different\ ca
 $${\color{#87896A},\ this\ category\ is\ mostly\ made\ for\ neurodivergent\ people}$$
 $${\color{#87896A}and\ alterhumans\ who\ make\ it\ part\ of\ their\ identity/gender}$$
 $${\color{#87896A}but\ everyone\ is\ welcome\ you\ if\ you\ only\ like\ it\ !!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "apple"!}$$
   
 </details>
-
-![](https://files.catbox.moe/hxjoup.png)
