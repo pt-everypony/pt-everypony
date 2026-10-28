@@ -8,10 +8,7 @@ ${\tiny\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ 
 
 ${\tiny\color{#502916} acc \color{#66351C}ou \color{#7A3F22}nt\ \color{#874625}cre \color{#935429}ated:\ 10/ \color{#874625}24 \color{#7A3F22}/ \color{#66351C}20 \color{#502916}26}$
 
-Nominate yourself/anyone today on straw!
-
-![](https://files.catbox.moe/xipll1.gif)
- [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/xipll1.gif)
+Nominate yourself/anyone today on [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/xipll1.gif)
 
 ![](https://files.catbox.moe/4tehk7.gif): Rules & more info will be on straw, to request a removal of a problematic person please head to the [Atabook](https://pt-everypony.atabook.org/) with more evidence by sending screenshots links or doc link with their github. ![](https://files.catbox.moe/3pf6g6.gif)
 
