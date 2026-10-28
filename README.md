@@ -52,7 +52,7 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "charact
   $${\color{#87896A}you\ can\ submit\ any\ type\ of\ fictkin!}$$ 
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "character"\ shipper!}$$
   
-</details><
+</details>
 
 ![](https://files.catbox.moe/iagaj1.png)
 
