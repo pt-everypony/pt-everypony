@@ -17,9 +17,16 @@ bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https:
 
 ![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category more than one but won't be adding more than one character/thing for everyone to have a chance to be added! you can request to be removed or changed, scroll down and click on the arrows to read more about the categories with example/note.
 
+![](https://files.catbox.moe/6ywgs4.png)
+
+${\color{#505050}Nominate\ other's\ that\ you\ found\ cool,\ you\ can't\ submit\ yourself\ but\ if\ you\ want}$
+${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ be\ the\ judge\ for\ that.}$
+
   <div align="left">
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$
+
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$
 
@@ -61,6 +68,7 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "
 <details>
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
 $${\color{#87896A}Let\ me\ know\ of\ any\ problematic\ yume,\ yumeshippers\ of\ irl\ people\ are\ unwelcomed!}$$
+  $${\color{#87896A}Your\ can\ submit\ any\ type\ of\ yumeships!}$$
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ yumeship's\ with\ "character"!}$$
   
 </details>
@@ -73,6 +81,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ yumeship's\ with\ "c
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
   $${\color{#87896A}I\ don't\ know\ alot\ of\ ships\ so\ let\ me\ know\ if\ any\ of}$$ 
   $${\color{#87896A}them\ is\ problematic\ in\ some\ way!\ proship/darkship\ are\ not\ allowed\ here.}$$
+  $${\color{#87896A}Your\ can\ submit\ any\ type\ of\ ships!}$$
+  
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shipper!}$$
   
 </details>
@@ -89,7 +99,7 @@ $${\color{#87896A}there's\ no\ limit\ for\ this\ for\ example\ if\ someone\ nomi
 $${\color{#87896A}themselves\ as\ just\ a\ car\ you\ can\ pick\ a\ different\ car\ model/brand}$$
 $${\color{#87896A},\ this\ category\ is\ mostly\ made\ for\ neurodivergent\ people}$$
 $${\color{#87896A}and\ alterhumans\ who\ make\ it\ part\ of\ their\ identity/gender}$$
-$${\color{#87896A}but\ everyone\ is\ welcome\ you\ if\ you\ only\ like\ it\ !!}$$
+$${\color{#87896A}but\ everyone\ is\ welcome\ if\ you\ only\ like\ it\ !!}$$
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "apple"!}$$
   
 </details>
