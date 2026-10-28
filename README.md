@@ -108,5 +108,5 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "apple"!
   
 </details>
 
-[sv1nzxu}(https://github.com/sv1nzxu) is pony town's **golden retriever**!
+[sv1nzxu](https://github.com/sv1nzxu) is pony town's **golden retriever**!
 ![](https://files.catbox.moe/x3ev40.png)
