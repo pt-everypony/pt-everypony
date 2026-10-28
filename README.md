@@ -1,11 +1,9 @@
   <div align="center">
   
 
-![](https://files.catbox.moe/4cuk6c.gif)
+![](https://files.catbox.moe/53jv68.png)
 
 ${\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
-
-Welcome everypony!
 
 Nominate yourself/anyone today on straw
 
@@ -17,7 +15,7 @@ Nominate yourself/anyone today on straw
 Fell free to recommend more categories & make this acc grow 
 bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https://files.catbox.moe/8cmssh.gif)
 
-![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category but won't be adding more than one character/thing for everyone to have a chance to be added! scroll down and click on the arrows to read more about the categories with example/note.
+![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category but won't be adding more than one character/thing for everyone to have a chance to be added! you can request to be removed or changed, scroll down and click on the arrows to read more about the categories with example/note.
 
   <div align="left">
 
