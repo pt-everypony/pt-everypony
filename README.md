@@ -2,7 +2,7 @@
 
 ![](https://files.catbox.moe/kr1hdc.png)
 
-$\big{\textsf{Welcome everypony!}}$
+$\large{\textsf{ᥕᥱᥣᥴ᥆mᥱ ᥱ᥎ᥱrᥡp᥆ᥒᥡ.ᐟ}}$
 
 ${\tiny\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
 
