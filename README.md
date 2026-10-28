@@ -5,6 +5,8 @@ Welcome everypony!
 
 ${\color{#505050}in \color{#5B5B5B}s \color{#656565}pir \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
 
+${\color{#505050} account \color{#5B5B5B}created \color{#656565}:\ 10/ \color{#7A7A7A}ed\ b \color{#8E8E8E}y\ ev \color{#7A7A7A}er\color{#656565}y \color{#5B5B5B}o \color{#505050}ne!}$
+
 Nominate yourself/anyone today on straw
 
 ![](https://files.catbox.moe/xipll1.gif)
