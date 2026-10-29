@@ -64,9 +64,15 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "cha
 
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
+${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
+
+${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
+
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
 
 ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
+
+${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
 
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
@@ -87,7 +93,11 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ 
   
 </details>
 
+${\color{#689031}಄}$ [BluuJayymes](https://github.com/BluuJayymes) fictkin/heavykins's **Leon Kennedy** (Resident evil).ᐟ
+
 ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
+
+${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/heavykins's **Wemmbu**.ᐟ
 
 ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
 
