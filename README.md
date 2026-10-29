@@ -82,6 +82,8 @@ ${\color{#BF2A24}಄}$ [doomsdayduo](https://github.com/DOOMSDAYDUO) is pony tow
 
 ${\color{#BF2A24}಄}$ [D3V0TION](https://github.com/D3V0TION) is pony town's **Ivan** (Bad Things).ᐟ
 
+${\color{#BF2A24}಄}$ [DANZNC](https://github.com/DANZNC) is pony town's **Travis Rapid** (The Moon I Rot Behind).ᐟ
+
 ${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is pony town's **Directorfies** (UUSMP).ᐟ
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
