@@ -151,16 +151,16 @@ ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337**
 
 ![](https://files.catbox.moe/iagaj1.png)
 
-**${\color{#00B47E}‿  ◟ \space \color{#00CE74}P \color{#00FFB6}A \color{#2FFFE3}I \color{#00FFB6}R \color{#00CE74}S \color{#00B47E} ◞  ‿}$**
+**${\color{#00B47E}‿  ◟ \space \color{#00CE74}P \color{#00FFB6}A \color{#30FFBD}I \color{#00FFB6}R \color{#00CE74}S \color{#00B47E} ◞  ‿}$**
 
 <details>
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
   $${\color{#87896A}Nominate\ yourself\ and\ your\ friend\ or\ partner!}$$ 
   $${\color{#87896A}It\ can\ be\ a\ ship\ or\ just\ too\ characters\ as\ a\ duo!}$$
   
-$${\color{#87896A}Example\ for\ this\ category(ship):\ @username1\ and\ @username2\ as\ pony\ town's\ "character1"\ and\ "character2"\ couple!}$$
+$${\color{#87896A}Example\ for\ this\ category(ship):\ @username1\ and\ @username2\ as}$$ $${\color{#87896A}pony\ town's\ "character1"\ and\ "character2"\ couple!}$$
 
-$${\color{#87896A}Example\ for\ this\ category(duo):\ @username1\ and\ @username2\ as\ pony\ town's\ "character1"\ and\ "character2"\ duo!}$$
+$${\color{#87896A}Example\ for\ this\ category(duo):\ @username1\ and\ @username2\ as}$$ $${\color{#87896A}pony\ town's\ "character1"\ and\ "character2"\ duo!}$$
 
 </details>
 
