@@ -10,13 +10,21 @@ ${\tiny\color{#502916} acc \color{#66351C}ou \color{#7A3F22}nt\ \color{#874625}c
 
 Nominate yourself/anyone today on [straw](https://pt-everypony.straw.page) ![](https://files.catbox.moe/xipll1.gif)
 
-![](https://files.catbox.moe/4tehk7.gif): Rules & more info will be on straw, to request a removal of a problematic person please head to the [Atabook](https://pt-everypony.atabook.org/) with more evidence by sending screenshots links or doc link with their github. ![](https://files.catbox.moe/3pf6g6.gif)
+![](https://files.catbox.moe/4tehk7.gif): Rules & more info will be on straw, to request a removal of a problematic person please head to the [Atabook](https://pt-everypony.atabook.org/) with more evidence by sending screenshots links or doc link with their github ![](https://files.catbox.moe/3pf6g6.gif)
 
 Fell free to recommend more categories & make this acc grow 
 bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https://files.catbox.moe/8cmssh.gif)
 
-![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category more than one but won't be adding more than one character/thing for everyone to have a chance to be added! you can request to be removed or changed, scroll down and click on the arrows to read more about the categories with example/note.
+![](https://files.catbox.moe/4tehk7.gif): You can nominate in every category more than one but won't be adding more than one character/thing for everyone to have a chance to be added! you can request to be removed or changed, scroll down and click on the arrows to read more about the categories with example/note ![](https://files.catbox.moe/vkmxh2.gif)
 
+  <div align="center">
+    
+![](https://files.catbox.moe/clqsni.gif) ${\color{#AD7037}Seen\ this\ pony\ in\ game?\ this\ is\ the\ acc\ mascot!\ ---->}$ ![](https://files.catbox.moe/ubw7cn.gif)
+
+${\color{#935429}(yes\ I'm\ aware\ of\ its\ ugliness\ I'm\ tired\ to\ make\ sum\ good)}$
+
+  <div align="center">
+    
 ![](https://files.catbox.moe/6ywgs4.png)
 
 ${\color{#505050}Nominate\ other's\ that\ you\ found\ cool,\ you\ can't\ submit\ yourself\ but\ if\ you\ want}$
@@ -38,7 +46,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 
   <div align="right">
 
-![](https://files.catbox.moe/ubw7cn.gif) ![](https://files.catbox.moe/qce69s.gif)
+![](https://files.catbox.moe/qce69s.gif)
 
   <div align="center">
     
