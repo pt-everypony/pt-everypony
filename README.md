@@ -200,6 +200,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shi
 
 ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
 
+${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#00B47E}‿  ◟ \space \color{#00CE74}P \color{#00FFB6}A \color{#30FFBD}I \color{#00FFB6}R \color{#00CE74}S \color{#00B47E} ◞  ‿}$**
