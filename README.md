@@ -108,6 +108,8 @@ ${\color{#BF2A24}಄}$ [MaceGrounds](https://github.com/MaceGrounds) is pony tow
 
 ${\color{#BF2A24}಄}$ [MissingTextuer](https://github.com/MissingTextuer) is pony town's **Fangsworth** (Regretevator).ᐟ
 
+${\color{#BF2A24}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) is pony town's **Takaba** (Jujutsu Kaisen).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
@@ -201,6 +203,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shi
 </details>
 
 ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1 **Batarou** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
 
