@@ -75,11 +75,11 @@ ${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town'
 <details>
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
   $${\color{#87896A}you\ can\ submit\ any\ type\ of\ fictkin!}$$ 
-$${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "character"\ shipper!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ "character"\ shipper!}$$
   
 </details>
 
-${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin's **Aubree**.ᐟ
+${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
