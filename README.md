@@ -161,6 +161,7 @@ ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337**
 $${\color{#87896A}Example\ for\ this\ category(ship):\ @username1\ and\ @username2\ as}$$ $${\color{#87896A}pony\ town's\ "character1"\ and\ "character2"\ couple!}$$
 
 $${\color{#87896A}Example\ for\ this\ category(duo):\ @username1\ and\ @username2\ as}$$ $${\color{#87896A}pony\ town's\ "character1"\ and\ "character2"\ duo!}$$
+$${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characters\ name\ if\ they\ have\ one.}$$
 
 </details>
 
