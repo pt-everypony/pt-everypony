@@ -34,9 +34,9 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ 
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$
 
@@ -88,6 +88,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ 
 ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
 
 ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
+
+${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin/heavykins's **Viktor** (Arcane).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
