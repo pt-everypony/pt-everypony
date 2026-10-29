@@ -74,6 +74,8 @@ ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony t
 
 ${\color{#BF2A24}಄}$ [Doxdxo](https://github.com/Doxdxo) is pony town's **Camille Arno** (Arknights Endfield).ᐟ
 
+${\color{#BF2A24}಄}$ [doomsdayduo](https://github.com/DOOMSDAYDUO) is pony town's **Spokeishere**.ᐟ
+
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
@@ -87,6 +89,8 @@ ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is po
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
 ${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town's **Jaden_man**.ᐟ
+
+${\color{#BF2A24}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) is pony town's **Planetlord**.ᐟ
 
 ${\color{#BF2A24}಄}$ [planticnurii](https://github.com/planticnurii) is pony town's **Andrew** (Bad Things).ᐟ
 
