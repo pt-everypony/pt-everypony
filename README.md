@@ -86,7 +86,7 @@ ${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is po
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
-${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (forsaken).ᐟ
+${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
 
