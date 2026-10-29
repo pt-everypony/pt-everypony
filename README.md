@@ -66,11 +66,11 @@ ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony t
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
 
+${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
+
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
 ${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town's **Jaden_man**.ᐟ
-
-${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
 
 ${\color{#BF2A24}಄}$ [planticnurii](https://github.com/planticnurii) is pony town's **Andrew** (Bad Things).ᐟ
 
