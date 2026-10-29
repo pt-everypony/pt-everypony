@@ -88,6 +88,8 @@ ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony
 
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
+${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
+
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
 ${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town's **Jaden_man**.ᐟ
@@ -101,6 +103,8 @@ ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
 
 ${\color{#BF2A24}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pony town's **Mafioso**.ᐟ
+
+${\color{#BF2A24}಄}$ [Stars-Traveler](https://github.com/Stars-Traveler) is pony town's **Lumine** (Genshin Impact).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -118,6 +122,8 @@ ${\color{#689031}಄}$ [BluuJayymes](https://github.com/BluuJayymes) fictkin/hea
 ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
 
 ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/heavykins's **Wemmbu**.ᐟ
+
+${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
 
 ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
 
