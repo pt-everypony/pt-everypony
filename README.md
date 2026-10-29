@@ -126,7 +126,12 @@ ${\color{#BF2A24}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHU
 
 ${\color{#BF2A24}಄}$ [Stars-Traveler](https://github.com/Stars-Traveler) is pony town's **Lumine** (Genshin Impact).ᐟ
 
+${\color{#BF2A24}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Booker** (Drawnout).ᐟ
+
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
+
+${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
+
 
 ![](https://files.catbox.moe/iagaj1.png)
 
