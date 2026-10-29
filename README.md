@@ -62,11 +62,17 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "charact
   
 </details>
 
-${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **davesprite** (Homestuck).ᐟ
+${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
 
-${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **wifies**.ᐟ
+${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
-${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town's **jaden_man**.ᐟ
+${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town's **Jaden_man**.ᐟ
+
+${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
+
+${\color{#BF2A24}಄}$ [planticnurii](https://github.com/planticnurii) is pony town's **Andrew** (Bad Things).ᐟ
+
+${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
