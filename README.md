@@ -19,7 +19,7 @@ bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https:
 
   <div align="center">
     
-![](https://files.catbox.moe/clqsni.gif) ${\color{#AD7037}Seen\ this\ pony\ in\ game?\ this\ is\ the\ acc\ mascot!\ ——>}$ ![](https://files.catbox.moe/ubw7cn.gif)
+![](https://files.catbox.moe/clqsni.gif) ${\color{#AD7037}Seen\ this\ pony\ in\ game?\ this\ is\ the\ acc\ mascot!\ —>}$ ![](https://files.catbox.moe/ubw7cn.gif)
 
 ${\color{#935429}(yes\ I'm\ aware\ of\ its\ ugliness\ I'm\ tired\ to\ make\ sum\ good)}$
 
