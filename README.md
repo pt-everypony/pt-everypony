@@ -191,7 +191,7 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 
 </details>
 
-${\color{#00B47E}಄}$ [itrap-2245](https://github.com/itrap-2245) & [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) as pony town's **frozendebt** couple.ᐟ
+${\color{#00B47E}಄}$ [itrap-2245](https://github.com/itrap-2245) & [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) as pony town's **Frozendebt** couple.ᐟ
 
 ${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](https://github.com/inf3ct3dd) as pony town's **Pokerface** (chance x noli eni au) couple.ᐟ 
 
