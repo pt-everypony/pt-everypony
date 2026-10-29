@@ -80,6 +80,8 @@ ${\color{#BF2A24}಄}$ [Doxdxo](https://github.com/Doxdxo) is pony town's **Cami
 
 ${\color{#BF2A24}಄}$ [doomsdayduo](https://github.com/DOOMSDAYDUO) is pony town's **Spokeishere**.ᐟ
 
+${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is pony town's **Directorfies**.ᐟ
+
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
@@ -88,9 +90,13 @@ ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town'
 
 ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
 
+{\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's **Eunoia** (Frozen Soul/Dream Game).ᐟ
+
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
+
+${\color{#BF2A24}಄}$ [MaceGrounds](https://github.com/MaceGrounds) is pony town's **Parrotx2**.ᐟ
 
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
@@ -155,7 +161,9 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ y
 
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
-${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link** (The Legend of Zelda) yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
 
