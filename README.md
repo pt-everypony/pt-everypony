@@ -62,6 +62,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "cha
   
 </details>
 
+${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
+
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
 
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
