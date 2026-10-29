@@ -58,7 +58,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 
 <details>
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
-$${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "character"!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "character"!}$$
   
 </details>
 
@@ -81,7 +81,7 @@ ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's 
 <details>
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
   $${\color{#87896A}you\ can\ submit\ any\ type\ of\ fictkin!}$$ 
-$${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ "character"\ shipper!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ "character"!}$$
   
 </details>
 
@@ -134,7 +134,7 @@ $${\color{#87896A}themselves\ as\ just\ a\ car\ you\ can\ pick\ a\ different\ ca
 $${\color{#87896A},\ this\ category\ is\ mostly\ made\ for\ neurodivergent\ people}$$
 $${\color{#87896A}and\ alterhumans\ who\ make\ it\ part\ of\ their\ identity/gender}$$
 $${\color{#87896A}but\ everyone\ is\ welcome\ if\ you\ only\ like\ it\ !!}$$
-$${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "apple"!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "apple"!}$$
   
 </details>
 
