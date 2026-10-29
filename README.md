@@ -162,6 +162,8 @@ ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavyki
 
 ${\color{#689031}಄}$ [Sxarixiez](https://github.com/Sxarixiez) fictkin/heavykins's **Spokeishere** (Unstable SMP).ᐟ
 
+${\color{#689031}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) fictkin/heavykins's **Mafioso**.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#CC9543}‿  ◟ \space YU \color{#E5A74B}M \color{#E5C14B}E \color{#E5D84B}SH \color{#E5C14B}I \color{#E5A74B}P \color{#CC9543}S \color{#CC9543} ◞  ‿}$**
