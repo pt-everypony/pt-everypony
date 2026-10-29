@@ -62,6 +62,12 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ ponytown's\ "charact
   
 </details>
 
+${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **davesprite** (Homestuck).ᐟ
+
+${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **wifies**.ᐟ
+
+${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town's **jaden_man**.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#689031}‿  ◟ \space FI \color{#7FA337}C \color{#8FA337}T \color{#ACC442}IO \color{#8FA337}N \color{#7FA337}K \color{#689031}INS \color{#689031} ◞  ‿}$**
@@ -73,6 +79,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "
   
 </details>
 
+${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin's **Aubree**.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#CC9543}‿  ◟ \space YU \color{#E5A74B}M \color{#E5C14B}E \color{#E5D84B}SH \color{#E5C14B}I \color{#E5A74B}P \color{#CC9543}S \color{#CC9543} ◞  ‿}$**
@@ -81,9 +89,11 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/havykin's\ "
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
 $${\color{#87896A}Let\ me\ know\ of\ any\ problematic\ yume,\ yumeshippers\ of\ irl\ people\ are\ unwelcomed!}$$
   $${\color{#87896A}Your\ can\ submit\ any\ type\ of\ yumeships!}$$
-$${\color{#87896A}Example\ for\ this\ category:\ @username\ yumeship's\ with\ "character"!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ "character's"\ yumeshipper!}$$
   
 </details>
+
+${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) **1x1x1x1's** yumeshipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
