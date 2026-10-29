@@ -104,6 +104,8 @@ ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony
 
 ${\color{#BF2A24}಄}$ [MaceGrounds](https://github.com/MaceGrounds) is pony town's **Parrotx2**.ᐟ
 
+${\color{#BF2A24}಄}$ [MissingTextuer](https://github.com/MissingTextuer) is pony town's **Fangsworth** (Regretevator).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
