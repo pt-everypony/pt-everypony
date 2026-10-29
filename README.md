@@ -147,7 +147,7 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shi
   
 </details>
 
-${\color{#B4002A}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
+${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
