@@ -115,6 +115,8 @@ ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's
 
 ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin/heavykins's **Viktor** (Arcane).ᐟ
 
+${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
+
 ${\color{#689031}಄}$ [Sxarixiez](https://github.com/Sxarixiez) fictkin/heavykins's **Spokeishere** (Unstable SMP).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
@@ -164,6 +166,8 @@ $${\color{#87896A}Example\ for\ this\ category(duo):\ @username1\ and\ @username
 $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characters\ name\ if\ they\ have\ one.}$$
 
 </details>
+
+${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](https://github.com/inf3ct3dd) as pony town's **Pokerface** (chance x noli eni au) couple.ᐟ 
 
 ![](https://files.catbox.moe/iagaj1.png)
 
