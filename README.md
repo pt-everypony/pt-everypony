@@ -97,7 +97,7 @@ ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's
 <summary>  $${\color{#4B4C3B}Note}$$</summary>
 $${\color{#87896A}Let\ me\ know\ of\ any\ problematic\ yume,\ yumeshippers\ of\ irl\ people\ are\ unwelcomed!}$$
   $${\color{#87896A}Your\ can\ submit\ any\ type\ of\ yumeships!}$$
-$${\color{#87896A}Example\ for\ this\ category:\ @username\ "character's"\ yumeshipper!}$$
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ yumeshipper!}$$
   
 </details>
 
