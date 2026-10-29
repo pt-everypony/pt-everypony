@@ -98,6 +98,8 @@ ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's 
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
 
+${\color{#BF2A24}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pony town's **Mafioso**.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#689031}‿  ◟ \space FI \color{#7FA337}C \color{#8FA337}T \color{#ACC442}IO \color{#8FA337}N \color{#7FA337}K \color{#689031}INS \color{#689031} ◞  ‿}$**
@@ -172,6 +174,8 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 </details>
 
 ${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](https://github.com/inf3ct3dd) as pony town's **Pokerface** (chance x noli eni au) couple.ᐟ 
+
+${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride duo** (Lifesteal) duo.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
