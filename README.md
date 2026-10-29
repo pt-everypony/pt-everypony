@@ -93,7 +93,7 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ "character's"\ yumes
   
 </details>
 
-${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) **1x1x1x1's** yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
