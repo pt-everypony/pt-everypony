@@ -64,6 +64,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "cha
 
 ${\color{#BF2A24}಄}$ [astrobarrage](https://github.com/astrobarrage) is pony town's **fluixon**.ᐟ
 
+${\color{#BF2A24}಄}$ [Aspenolia](https://github.com/Aspenolia) is pony town's **Azurewrath/Aspen**.ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
@@ -79,6 +81,10 @@ ${\color{#BF2A24}಄}$ [Doxdxo](https://github.com/Doxdxo) is pony town's **Cami
 ${\color{#BF2A24}಄}$ [doomsdayduo](https://github.com/DOOMSDAYDUO) is pony town's **Spokeishere**.ᐟ
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
+
+${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
+
+${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
 ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
 
@@ -124,6 +130,8 @@ ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cudd
 ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/heavykins's **Wemmbu**.ᐟ
 
 ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
+
+${\color{#689031}಄}$ [itrap-2245](https://github.com/itrap-2245) fictkin/heavykins's **Itrapped**.ᐟ
 
 ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
 
