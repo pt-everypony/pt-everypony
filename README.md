@@ -95,6 +95,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ "character's"\ yumes
 
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#B4002A}‿  ◟ \space \color{#CE0030}S \color{#FF003B}H \color{#FF3060}I \color{#FF2256}P \color{#CE0030}S \color{#B4002A} ◞  ‿}$**
