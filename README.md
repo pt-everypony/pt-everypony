@@ -158,9 +158,9 @@ ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337**
   $${\color{#87896A}Nominate\ yourself\ and\ your\ friend\ or\ partner!}$$ 
   $${\color{#87896A}It\ can\ be\ a\ ship\ or\ just\ too\ characters\ as\ a\ duo!}$$
   
-$${\color{#87896A}Example\ for\ this\ category(ship):\ @username1\ &\ @username2\ as\ pony town's "character1"\ &\ "character2"\ couple!}$$
+$${\color{#87896A}Example\ for\ this\ category(ship):\ @username1\ and\ @username2\ as\ pony\ town's\ "character1"\ and\ "character2"\ couple!}$$
 
-$${\color{#87896A}Example\ for\ this\ category(duo):\ @username1\ &\ @username2\ as\ pony town's "character1"\ &\ "character2"\ duo!}$$
+$${\color{#87896A}Example\ for\ this\ category(duo):\ @username1\ and\ @username2\ as\ pony\ town's\ "character1"\ and\ "character2"\ duo!}$$
 
 </details>
 
