@@ -90,7 +90,7 @@ ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town'
 
 ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
 
-{\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's **Eunoia** (Frozen Soul/Dream Game).ᐟ
+${\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's **Eunoia** (Frozen Soul/Dream Game).ᐟ
 
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
