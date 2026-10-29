@@ -68,6 +68,8 @@ ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony t
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
 
+${\color{#BF2A24}಄}$ [camycatyy](https://github.com/camycatyy) is pony town's **Niko** (Oneshot).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -138,6 +140,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ y
 </details>
 
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
+
+${\color{#BF2A24}಄}$ [camycatyy](https://github.com/camycatyy) is **Link** (The Legend of Zelda) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
 
