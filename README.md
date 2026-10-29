@@ -87,6 +87,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ 
 
 ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
 
+${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#CC9543}‿  ◟ \space YU \color{#E5A74B}M \color{#E5C14B}E \color{#E5D84B}SH \color{#E5C14B}I \color{#E5A74B}P \color{#CC9543}S \color{#CC9543} ◞  ‿}$**
@@ -116,6 +118,8 @@ ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **As
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shipper!}$$
   
 </details>
+
+${\color{#B4002A}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
