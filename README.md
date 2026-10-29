@@ -36,7 +36,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ 
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$
 
@@ -62,6 +62,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "cha
   
 </details>
 
+${\color{#BF2A24}಄}$ [astrobarrage](https://github.com/astrobarrage) is pony town's **fluixon**.ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
@@ -70,9 +72,17 @@ ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is po
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
 
+${\color{#BF2A24}಄}$ [Doxdxo](https://github.com/Doxdxo) is pony town's **Camille Arno** (Arknights Endfield).ᐟ
+
+${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
+
 ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
 
+${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
+
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
+
+${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
@@ -81,6 +91,8 @@ ${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town'
 ${\color{#BF2A24}಄}$ [planticnurii](https://github.com/planticnurii) is pony town's **Andrew** (Bad Things).ᐟ
 
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
+
+${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -102,6 +114,8 @@ ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/h
 ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
 
 ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin/heavykins's **Viktor** (Arcane).ᐟ
+
+${\color{#689031}಄}$ [Sxarixiez](https://github.com/Sxarixiez) fictkin/heavykins's **Spokeishere** (Unstable SMP).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
