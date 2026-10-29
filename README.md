@@ -40,7 +40,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](ht
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 
