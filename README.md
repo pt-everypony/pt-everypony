@@ -38,7 +38,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 
   <div align="right">
 
-![](https://files.catbox.moe/lofh7e.gif) ![](https://files.catbox.moe/qce69s.gif)
+![](https://files.catbox.moe/ubw7cn.gif) ![](https://files.catbox.moe/qce69s.gif)
 
   <div align="center">
     
