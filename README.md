@@ -80,9 +80,13 @@ ${\color{#BF2A24}಄}$ [Doxdxo](https://github.com/Doxdxo) is pony town's **Cami
 
 ${\color{#BF2A24}಄}$ [doomsdayduo](https://github.com/DOOMSDAYDUO) is pony town's **Spokeishere**.ᐟ
 
-${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is pony town's **Directorfies**.ᐟ
+${\color{#BF2A24}಄}$ [D3V0TION](https://github.com/D3V0TION) is pony town's **Ivan** (Bad Things).ᐟ
+
+${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is pony town's **Directorfies** (UUSMP).ᐟ
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
+
+${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is **Chance** (forsaken).ᐟ
 
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
 
@@ -117,6 +121,8 @@ ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's 
 ${\color{#BF2A24}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pony town's **Mafioso**.ᐟ
 
 ${\color{#BF2A24}಄}$ [Stars-Traveler](https://github.com/Stars-Traveler) is pony town's **Lumine** (Genshin Impact).ᐟ
+
+${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -199,11 +205,13 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 
 </details>
 
+${\color{#00B47E}಄}$ [CloveredFields](https://github.com/Cloveredfields) & [MaceGrounds](https://github.com/MaceGrounds) as pony town's **odyssey** (UUSMP) duo.ᐟ
+
 ${\color{#00B47E}಄}$ [itrap-2245](https://github.com/itrap-2245) & [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) as pony town's **Frozendebt** couple.ᐟ
 
 ${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](https://github.com/inf3ct3dd) as pony town's **Pokerface** (chance x noli eni au) couple.ᐟ 
 
-${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride duo** (Lifesteal) duo.ᐟ
+${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
