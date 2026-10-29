@@ -141,7 +141,7 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ y
 
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
-${\color{#BF2A24}಄}$ [camycatyy](https://github.com/camycatyy) is **Link** (The Legend of Zelda) yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link** (The Legend of Zelda) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
 
