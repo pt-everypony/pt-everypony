@@ -90,6 +90,8 @@ ${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is po
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
+${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
+
 ${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
@@ -189,6 +191,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ y
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's** (hazbin hotel)yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
 
