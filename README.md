@@ -144,6 +144,8 @@ ${\color{#BF2A24}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) is 
 
 ${\color{#BF2A24}಄}$ [mydigitalescape](https://github.com/mydigitalescape) is pony town's **Robert Chase** (House MD).ᐟ
 
+${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
