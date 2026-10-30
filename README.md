@@ -194,7 +194,7 @@ ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/h
 
 ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
 
-${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy ** (Hetalia).ᐟ
+${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
 
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
 
