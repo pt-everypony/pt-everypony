@@ -142,6 +142,8 @@ ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony t
 
 ${\color{#BF2A24}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) is pony town's **Reo Mikage**.ᐟ
 
+${\color{#BF2A24}಄}$ [reynanns](https://github.com/reynanns) is pony town's **Patrick Jane** (Mentalist Show).ᐟ
+
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
