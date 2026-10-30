@@ -120,6 +120,8 @@ ${\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's 
 
 ${\color{#BF2A24}಄}$ [kyanmakozume](https://github.com/kyanmakozume) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
 
+${\color{#BF2A24}಄}$ [kapobeztia](https://github.com/kapobeztia) is pony town's **Dedan** (OFF).ᐟ
+
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
 ${\color{#BF2A24}಄}$ [lcorp-wingfounder](https://github.com/lcorp-wingfounder) is pony town's **Ayin** (Lobotomy Corporation).ᐟ
