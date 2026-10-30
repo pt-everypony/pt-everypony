@@ -112,6 +112,8 @@ ${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's 
 
 ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is pony town's **Loki Laufeyson** (Marvel).ᐟ
 
+${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony town's **Mapicc**.ᐟ
+
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
 
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
@@ -228,6 +230,8 @@ ${\color{#689031}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion)
 ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
 
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
+
+${\color{#689031}಄}$ [Gatita-here](https://github.com/Gatita-here) fictkin/heavykins's **GroxMC**.ᐟ
 
 ${\color{#689031}಄}$ [itrap-2245](https://github.com/itrap-2245) fictkin/heavykins's **Itrapped**.ᐟ
 
