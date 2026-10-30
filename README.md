@@ -38,7 +38,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK)
 
