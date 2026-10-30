@@ -68,6 +68,8 @@ ${\color{#BF2A24}಄}$ [Aspenolia](https://github.com/Aspenolia) is pony town's 
 
 ${\color{#BF2A24}಄}$ [ajthepeach](https://github.com/ajthepeach) is pony town's **Arthur Kirkland** (Hetalia).ᐟ
 
+${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
@@ -92,6 +94,8 @@ ${\color{#BF2A24}಄}$ [DANZNC](https://github.com/DANZNC) is pony town's **Trav
 
 ${\color{#BF2A24}಄}$ [deathdelivery](https://github.com/deathdelivery) is pony town's **Volo** (Pokemon).ᐟ
 
+${\color{#BF2A24}಄}$ [deanwnchstr](https://github.com/deanwnchstr) is pony town's **Dean Winchester**.ᐟ
+
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
@@ -99,6 +103,8 @@ ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony tow
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
 
 ${\color{#BF2A24}಄}$ [fuwafuransu](https://github.com/fuwafuransu) is pony town's **Francis Bonnefoy** (Hetalia).ᐟ
+
+${\color{#BF2A24}಄}$ [fragileflaw](https://github.com/fragileflaw) is pony town's **Zodiac** (Moon Knight).ᐟ
 
 ${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
@@ -115,6 +121,10 @@ ${\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's 
 ${\color{#BF2A24}಄}$ [kyanmakozume](https://github.com/kyanmakozume) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
 
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
+
+${\color{#BF2A24}಄}$ [lcorp-wingfounder](https://github.com/lcorp-wingfounder) is pony town's **Ayin** (Lobotomy Corporation).ᐟ
+
+${\color{#BF2A24}಄}$ [lovelydrug](https://github.com/lovelydrug) is pony town's **Jumperwho**.ᐟ
 
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
 
@@ -141,6 +151,8 @@ ${\color{#BF2A24}಄}$ [planticnurii](https://github.com/planticnurii) is pony t
 ${\color{#BF2A24}಄}$ [Pixel8tedfaygo](https://github.com/Pixel8tedfaygo) is pony town's **Gamzee** (Homestuck).ᐟ
 
 ${\color{#BF2A24}಄}$ [poisonedritual](https://github.com/poisonedritual) is pony town's **Twotime**.ᐟ
+
+${\color{#BF2A24}಄}$ [Purzuer](https://github.com/Purzuer) is pony town's **Pursuer** (Pokemon).ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
@@ -170,16 +182,19 @@ ${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony
 
 ${\color{#BF2A24}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) is pony town's **Shelly** (Dandy's World).ᐟ
 
-${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
-
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
+
+${\color{#BF2A24}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) is pony town's **Sebek Zigvolt** (Disney Twisted Wonderland).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
+${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
+
+${\color{#BF2A24}಄}$ [5W33TCH0C0L4T3](https://github.com/5W33TCH0C0L4T3) is pony town's **Shea Bianchi** (The Moon I Rot Behind).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -199,6 +214,8 @@ ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cudd
 ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/heavykins's **Wemmbu**.ᐟ
 
 ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
+
+${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
 ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
 
@@ -248,7 +265,13 @@ ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (
 
 ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's**  (hazbin hotel) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [fragileflaw](https://github.com/fragileflaw) is **Jake Lockley's** (Moon Knight) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [lovelydrug](https://github.com/lovelydrug) is **Sylus's** yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
 
@@ -271,6 +294,8 @@ ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337**
 ${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1 **Batarou** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [nxvocaine](https://github.com/nxvocaine) N.1 **Kiribaku** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) N.1 **Sebskully** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
 
@@ -330,5 +355,7 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "app
 </details>
 
 ${\color{#CDD537}಄}$ [sv1nzxu](https://github.com/sv1nzxu) is pony town's **golden retriever**.ᐟ
+
+${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
 ![](https://files.catbox.moe/x3ev40.png)
