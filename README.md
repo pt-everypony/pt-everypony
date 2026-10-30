@@ -245,6 +245,8 @@ ${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1
 
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
 
+${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh** shipper.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#00B47E}‿  ◟ \space \color{#00CE74}P \color{#00FFB6}A \color{#30FFBD}I \color{#00FFB6}R \color{#00CE74}S \color{#00B47E} ◞  ‿}$**
