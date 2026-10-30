@@ -206,6 +206,8 @@ ${\color{#BF2A24}಄}$ [THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEAT
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
 
+${\color{#BF2A24}಄}$ [vraxyn](https://github.com/vraxyn) is pony town's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
+
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
@@ -264,6 +266,8 @@ ${\color{#689031}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHU
 ${\color{#689031}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) fictkin/heavykins's **Gabriel** (Ultrakill).ᐟ
 
 ${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) fictkin/heavykins's **Shelly** (Dandy's World).ᐟ
+
+${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
 
 ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
 
