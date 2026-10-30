@@ -80,6 +80,8 @@ ${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is po
 
 ${\color{#BF2A24}಄}$ [chick-habit](https://github.com/chick-habit) is pony town's **Murdoc Niccals** (Gorillaz).ᐟ
 
+${\color{#BF2A24}಄}$ [cweemcubed](https://github.com/cweemcubed) is pony town's **Bottle** (BFDI).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -199,6 +201,8 @@ ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) is pony town's **Sebek Zigvolt** (Disney Twisted Wonderland).ᐟ
+
+${\color{#BF2A24}಄}$ [THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEATH) is pony town's **Roronao Zoro** (One Piece).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
 
