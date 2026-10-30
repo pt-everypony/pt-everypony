@@ -66,6 +66,8 @@ ${\color{#BF2A24}಄}$ [astrobarrage](https://github.com/astrobarrage) is pony t
 
 ${\color{#BF2A24}಄}$ [Aspenolia](https://github.com/Aspenolia) is pony town's **Azurewrath/Aspen**.ᐟ
 
+${\color{#BF2A24}಄}$ [ajthepeach](https://github.com/ajthepeach) is pony town's **Arthur Kirkland** (Hetalia).ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
@@ -91,6 +93,8 @@ ${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is po
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
+
+${\color{#BF2A24}಄}$ [fuwafuransu](https://github.com/fuwafuransu) is pony town's **Francis Bonnefoy** (Hetalia).ᐟ
 
 ${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
@@ -152,6 +156,8 @@ ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi** (PJSK).ᐟ
 
+${\color{#BF2A24}಄}$ [toruugojo](https://github.com/toruugojo) is pony town's **Kenma Kozume** (Haikyuu.ᐟ
+
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
 
@@ -173,6 +179,8 @@ ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cudd
 ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/heavykins's **Wemmbu**.ᐟ
 
 ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
+
+${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy ** (Hetalia).ᐟ
 
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
 
@@ -251,6 +259,8 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 </details>
 
 ${\color{#00B47E}಄}$ [CloveredFields](https://github.com/Cloveredfields) & [MaceGrounds](https://github.com/MaceGrounds) as pony town's **odyssey** (UUSMP) duo.ᐟ
+
+${\color{#00B47E}಄}$ [fuwafuransu](https://github.com/fuwafuransu) & [ajthepeach](https://github.com/ajthepeach) as pony town's **Fruk/Ukfr** (Hetalia) platonic duo.ᐟ
 
 ${\color{#00B47E}಄}$ [god-of-stories](https://github.com/god-of-stories) & [mydigitalescape](https://github.com/mydigitalescape) as pony town's **Brodinsons**  (Thor and Loki from Marvel) familial.ᐟ
 
