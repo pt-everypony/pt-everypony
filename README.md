@@ -32,7 +32,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar)
 
@@ -137,6 +137,8 @@ ${\color{#BF2A24}಄}$ [planticnurii](https://github.com/planticnurii) is pony t
 
 ${\color{#BF2A24}಄}$ [Pixel8tedfaygo](https://github.com/Pixel8tedfaygo) is pony town's **Gamzee** (Homestuck).ᐟ
 
+${\color{#BF2A24}಄}$ [poisonedritual](https://github.com/poisonedritual) is pony town's **Twotime**.ᐟ
+
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
@@ -194,6 +196,8 @@ ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's
 ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin/heavykins's **Viktor** (Arcane).ᐟ
 
 ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
+
+${\color{#689031}಄}$ [poisonedRitual](https://github.com/poisonedritual) fictkin/heavykins's **Twotime**.ᐟ
 
 ${\color{#689031}಄}$ [Sxarixiez](https://github.com/Sxarixiez) fictkin/heavykins's **Spokeishere** (Unstable SMP).ᐟ
 
