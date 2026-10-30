@@ -138,6 +138,8 @@ ${\color{#BF2A24}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is 
 
 ${\color{#BF2A24}಄}$ [sirencore](https://github.com/sirencore) is pony town's **One** (BFDI).ᐟ
 
+${\color{#BF2A24}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) is pony town's **Gabriel** (Ultrakill).ᐟ
+
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi** (PJSK).ᐟ
@@ -175,6 +177,8 @@ ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavyki
 ${\color{#689031}಄}$ [Sxarixiez](https://github.com/Sxarixiez) fictkin/heavykins's **Spokeishere** (Unstable SMP).ᐟ
 
 ${\color{#689031}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) fictkin/heavykins's **Mafioso**.ᐟ
+
+${\color{#689031}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) fictkin/heavykins's **Gabriel** (Ultrakill).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
