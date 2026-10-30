@@ -192,7 +192,7 @@ ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cudd
 
 ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
 
-${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's** (hazbin hotel)yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's**  (hazbin hotel)yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
 
