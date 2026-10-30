@@ -108,6 +108,9 @@ ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Sl
 
 ${\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's **Eunoia** (Frozen Soul/Dream Game).ᐟ
 
+${\color{#BF2A24}಄}$ [kyanmakozume](https://github.com/kyanmakozume) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
+
+
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
@@ -155,8 +158,6 @@ ${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi** (PJSK).ᐟ
-
-${\color{#BF2A24}಄}$ [kyanmakozume](https://github.com/kyanmakozume) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
 
