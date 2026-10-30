@@ -184,6 +184,8 @@ ${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony
 
 ${\color{#BF2A24}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) is pony town's **Shelly** (Dandy's World).ᐟ
 
+${\color{#BF2A24}಄}$ [Squidoww](https://github.com/Squidoww) is pony town's **Squiddo** (Lifesteal).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
