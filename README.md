@@ -94,6 +94,8 @@ ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony
 
 ${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
+${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is pony town's **Loki Laufeyson** (Marvel).ᐟ
+
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
 
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
@@ -112,6 +114,8 @@ ${\color{#BF2A24}಄}$ [MissingTextuer](https://github.com/MissingTextuer) is po
 
 ${\color{#BF2A24}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) is pony town's **Takaba** (Jujutsu Kaisen).ᐟ
 
+${\color{#BF2A24}಄}$ [mydigitalescape](https://github.com/mydigitalescape) is pony town's **Robert Chase** (House MD).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
@@ -123,6 +127,8 @@ ${\color{#BF2A24}಄}$ [promiseduo](https://github.com/promiseduo) is pony town'
 ${\color{#BF2A24}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) is pony town's **Planetlord**.ᐟ
 
 ${\color{#BF2A24}಄}$ [planticnurii](https://github.com/planticnurii) is pony town's **Andrew** (Bad Things).ᐟ
+
+${\color{#BF2A24}಄}$ [Pixel8tedfaygo](https://github.com/Pixel8tedfaygo) is pony town's **Gamzee** (Homestuck).ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
@@ -139,6 +145,8 @@ ${\color{#BF2A24}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is 
 ${\color{#BF2A24}಄}$ [sirencore](https://github.com/sirencore) is pony town's **One** (BFDI).ᐟ
 
 ${\color{#BF2A24}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) is pony town's **Gabriel** (Ultrakill).ᐟ
+
+${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony town's **Jack** (Cultfamily).ᐟ
 
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
 
@@ -166,6 +174,8 @@ ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/h
 
 ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
 
+${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
+
 ${\color{#689031}಄}$ [itrap-2245](https://github.com/itrap-2245) fictkin/heavykins's **Itrapped**.ᐟ
 
 ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
@@ -179,6 +189,8 @@ ${\color{#689031}಄}$ [Sxarixiez](https://github.com/Sxarixiez) fictkin/heavyki
 ${\color{#689031}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) fictkin/heavykins's **Mafioso**.ᐟ
 
 ${\color{#689031}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) fictkin/heavykins's **Gabriel** (Ultrakill).ᐟ
+
+${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -239,6 +251,8 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 </details>
 
 ${\color{#00B47E}಄}$ [CloveredFields](https://github.com/Cloveredfields) & [MaceGrounds](https://github.com/MaceGrounds) as pony town's **odyssey** (UUSMP) duo.ᐟ
+
+${\color{#00B47E}಄}$ [god-of-stories](https://github.com/god-of-stories) & [mydigitalescape](https://github.com/mydigitalescape) as pony town's **Brodinsons**  (Thor and Loki from Marvel) familial.ᐟ
 
 ${\color{#00B47E}಄}$ [itrap-2245](https://github.com/itrap-2245) & [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) as pony town's **Frozendebt** couple.ᐟ
 
