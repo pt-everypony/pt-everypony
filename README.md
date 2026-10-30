@@ -158,6 +158,8 @@ ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **
 
 ${\color{#BF2A24}಄}$ [toruugojo](https://github.com/toruugojo) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
 
+${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
+
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
 
