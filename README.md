@@ -200,6 +200,8 @@ ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin
 
 ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
 
+${\color{#689031}಄}$ [poisonedritual](https://github.com/poisonedritual) fictkin/heavykins's **Twotime**.ᐟ
+
 ${\color{#689031}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) fictkin/heavykins's **Reo Mikage**.ᐟ
 
 ${\color{#689031}಄}$ [rickgriimes](https://github.com/rickgriimes) fictkin/heavykins's **Q!Cellbit** (QSMP 1).ᐟ
