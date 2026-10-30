@@ -34,7 +34,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork)
 
@@ -89,6 +89,8 @@ ${\color{#BF2A24}಄}$ [doomsdayduo](https://github.com/DOOMSDAYDUO) is pony tow
 ${\color{#BF2A24}಄}$ [D3V0TION](https://github.com/D3V0TION) is pony town's **Ivan** (Bad Things).ᐟ
 
 ${\color{#BF2A24}಄}$ [DANZNC](https://github.com/DANZNC) is pony town's **Travis Rapid** (The Moon I Rot Behind).ᐟ
+
+${\color{#BF2A24}಄}$ [deathdelivery](https://github.com/deathdelivery) is pony town's **Volo** (Pokemon).ᐟ
 
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
 
