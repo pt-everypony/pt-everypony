@@ -32,7 +32,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar)
 
@@ -74,6 +74,10 @@ ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony
 
 ${\color{#BF2A24}಄}$ [camycatyy](https://github.com/camycatyy) is pony town's **Niko** (Oneshot).ᐟ
 
+${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is pony town's **Directorfies** (UUSMP).ᐟ
+
+${\color{#BF2A24}಄}$ [chick-habit](https://github.com/chick-habit) is pony town's **Murdoc Niccals** (Gorillaz).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -87,8 +91,6 @@ ${\color{#BF2A24}಄}$ [D3V0TION](https://github.com/D3V0TION) is pony town's **
 ${\color{#BF2A24}಄}$ [DANZNC](https://github.com/DANZNC) is pony town's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
-
-${\color{#BF2A24}಄}$ [Cloveredfields](https://github.com/Cloveredfields) is pony town's **Directorfies** (UUSMP).ᐟ
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
