@@ -96,6 +96,8 @@ ${\color{#BF2A24}಄}$ [deathdelivery](https://github.com/deathdelivery) is pony
 
 ${\color{#BF2A24}಄}$ [deanwnchstr](https://github.com/deanwnchstr) is pony town's **Dean Winchester**.ᐟ
 
+${\color{#BF2A24}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) is pony town's **Raphael** (TMNT 2012).ᐟ
+
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
@@ -221,6 +223,8 @@ ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavyki
 
 ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
+${\color{#689031}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) fictkin/heavykins's **Blitz** (Helluva Boss).ᐟ
+
 ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
 
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
@@ -266,6 +270,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ y
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) is **Verosika's** (Helluva Boss) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's**  (hazbin hotel) yumeshipper.ᐟ
 
