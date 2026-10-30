@@ -306,6 +306,8 @@ ${\color{#00B47E}಄}$ [itrap-2245](https://github.com/itrap-2245) & [SONNELLINO
 
 ${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](https://github.com/inf3ct3dd) as pony town's **Pokerface** (chance x noli eni au) couple.ᐟ 
 
+${\color{#00B47E}಄}$ [mikethebrave](https://github.com/mikethebrave) & [Appendice11](https://github.com/Appendice11) as pony town's **Byler** (Mike Wheeler and Will Byers) couple.ᐟ
+
 ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](https://github.com/sasukyo) as pony town's **Naruto Uzumaki & Sasuke Uchiha** duo.ᐟ
 
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
