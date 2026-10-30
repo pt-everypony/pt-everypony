@@ -156,7 +156,7 @@ ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi** (PJSK).ᐟ
 
-${\color{#BF2A24}಄}$ [toruugojo](https://github.com/toruugojo) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
+${\color{#BF2A24}಄}$ [kyanmakozume](https://github.com/kyanmakozume) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
 
