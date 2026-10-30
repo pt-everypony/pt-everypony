@@ -144,6 +144,8 @@ ${\color{#BF2A24}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) is pony town'
 
 ${\color{#BF2A24}಄}$ [reynanns](https://github.com/reynanns) is pony town's **Patrick Jane** (Mentalist Show).ᐟ
 
+${\color{#BF2A24}಄}$ [reflectivesea](https://github.com/reflectivesea) is pony town's **Padparadscha** (Houseki no Kuni).ᐟ
+
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
@@ -159,6 +161,8 @@ ${\color{#BF2A24}಄}$ [sirencore](https://github.com/sirencore) is pony town's 
 ${\color{#BF2A24}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) is pony town's **Gabriel** (Ultrakill).ᐟ
 
 ${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony town's **Jack** (Cultfamily).ᐟ
+
+${\color{#BF2A24}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) is pony town's **Shelly** (Dandy's World).ᐟ
 
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
 
@@ -214,6 +218,8 @@ ${\color{#689031}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHU
 
 ${\color{#689031}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) fictkin/heavykins's **Gabriel** (Ultrakill).ᐟ
 
+${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) fictkin/heavykins's **Shelly** (Dandy's World).ᐟ
+
 ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
@@ -257,6 +263,8 @@ ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337**
 ${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1 **Batarou** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) N.1 **Moonshell** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh** shipper.ᐟ
 
