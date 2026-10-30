@@ -42,7 +42,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx)
 
   <div align="right">
 
@@ -99,6 +99,8 @@ ${\color{#BF2A24}಄}$ [deanwnchstr](https://github.com/deanwnchstr) is pony tow
 ${\color{#BF2A24}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) is pony town's **Raphael** (TMNT 2012).ᐟ
 
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
+
+${\color{#BF2A24}಄}$ [Epaxialfx](https://github.com/Epaxialfx) is pony town's **Epaxialfx** (MCYT).ᐟ
 
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
@@ -270,6 +272,8 @@ $${\color{#87896A}Let\ me\ know\ of\ any\ problematic\ yume,\ yumeshippers\ of\ 
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ yumeshipper!}$$
   
 </details>
+
+${\color{#CC9543}಄}$ [act-of-love](https://github.com/act-of-love) is **Arthur Morgan's** (RDR2) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
