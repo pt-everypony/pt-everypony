@@ -40,7 +40,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](ht
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$
 
@@ -110,7 +110,6 @@ ${\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's 
 
 ${\color{#BF2A24}಄}$ [kyanmakozume](https://github.com/kyanmakozume) is pony town's **Kenma Kozume** (Haikyuu).ᐟ
 
-
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
@@ -141,6 +140,8 @@ ${\color{#BF2A24}಄}$ [poisonedritual](https://github.com/poisonedritual) is po
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
+${\color{#BF2A24}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) is pony town's **Reo Mikage**.ᐟ
+
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
@@ -162,6 +163,8 @@ ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
+
+${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
@@ -197,7 +200,9 @@ ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin
 
 ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
 
-${\color{#689031}಄}$ [poisonedRitual](https://github.com/poisonedritual) fictkin/heavykins's **Twotime**.ᐟ
+${\color{#689031}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) fictkin/heavykins's **Reo Mikage**.ᐟ
+
+${\color{#689031}಄}$ [rickgriimes](https://github.com/rickgriimes) fictkin/heavykins's **Q!Cellbit** (QSMP 1).ᐟ
 
 ${\color{#689031}಄}$ [Sxarixiez](https://github.com/Sxarixiez) fictkin/heavykins's **Spokeishere** (Unstable SMP).ᐟ
 
