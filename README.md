@@ -32,7 +32,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
 
@@ -42,7 +42,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta)
 
   <div align="right">
 
@@ -69,6 +69,8 @@ ${\color{#BF2A24}಄}$ [Aspenolia](https://github.com/Aspenolia) is pony town's 
 ${\color{#BF2A24}಄}$ [ajthepeach](https://github.com/ajthepeach) is pony town's **Arthur Kirkland** (Hetalia).ᐟ
 
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
+
+${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
 
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
@@ -154,6 +156,8 @@ ${\color{#BF2A24}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) i
 
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
+${\color{#BF2A24}಄}$ [nnyanruto](https://github.com/nnyanruto) is pony town's **Naruto Uzumaki**.ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
@@ -204,6 +208,8 @@ ${\color{#BF2A24}಄}$ [Squidoww](https://github.com/Squidoww) is pony town's **
 
 ${\color{#BF2A24}಄}$ [sharpestvictory](https://github.com/sharpestvictory) is pony town's **Roy** (Spooky Month).ᐟ
 
+${\color{#BF2A24}಄}$ [sasukyo](https://github.com/sasukyo) is pony town's **Sasuke Uchiha**.ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
@@ -218,11 +224,15 @@ ${\color{#BF2A24}಄}$ [vraxyn](https://github.com/vraxyn) is pony town's **Mats
 
 ${\color{#BF2A24}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is pony town's **Tricky** (Madness Combat).ᐟ
 
+${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **Kris Dreemurr** (Deltarune).ᐟ
+
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
 
 ${\color{#BF2A24}಄}$ [5W33TCH0C0L4T3](https://github.com/5W33TCH0C0L4T3) is pony town's **Shea Bianchi** (The Moon I Rot Behind).ᐟ
+
+${\color{#BF2A24}಄}$ [01yaoimaster](https://github.com/01yaoimaster) is pony town's **Scag** (Regretevator).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -377,7 +387,7 @@ ${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](h
 
 ${\color{#00B47E}಄}$ [mikethebrave](https://github.com/mikethebrave) & [Appendice11](https://github.com/Appendice11) as pony town's **Byler** (Mike Wheeler and Will Byers) couple.ᐟ
 
-${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](https://github.com/sasukyo) as pony town's **Naruto Uzumaki & Sasuke Uchiha** duo.ᐟ
+${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](https://github.com/sasukyo) as pony town's **Naruto Uzumaki & Sasuke Uchiha** couple.ᐟ
 
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
