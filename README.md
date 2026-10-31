@@ -168,7 +168,7 @@ ${\color{#BF2A24}಄}$ [Pixel8tedfaygo](https://github.com/Pixel8tedfaygo) is po
 
 ${\color{#BF2A24}಄}$ [poisonedritual](https://github.com/poisonedritual) is pony town's **Twotime**.ᐟ
 
-${\color{#BF2A24}಄}$ [Purzuer](https://github.com/Purzuer) is pony town's **Pursuer** (Pokemon).ᐟ
+${\color{#BF2A24}಄}$ [Purzuer](https://github.com/Purzuer) is pony town's **Pursuer** (Die of Death).ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
