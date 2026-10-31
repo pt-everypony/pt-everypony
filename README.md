@@ -86,6 +86,8 @@ ${\color{#BF2A24}಄}$ [cweemcubed](https://github.com/cweemcubed) is pony town'
 
 ${\color{#BF2A24}಄}$ [childofsuns](https://github.com/childofsuns) is pony town's **Lando Norris** (F1).ᐟ
 
+${\color{#BF2A24}಄}$ [commandersilly](https://github.com/commandersilly) is pony town's **Igor** (Tyler The Creator's album IGOR).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -215,8 +217,6 @@ ${\color{#BF2A24}಄}$ [Squidoww](https://github.com/Squidoww) is pony town's **
 ${\color{#BF2A24}಄}$ [sharpestvictory](https://github.com/sharpestvictory) is pony town's **Roy** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [sasukyo](https://github.com/sasukyo) is pony town's **Sasuke Uchiha**.ᐟ
-
-${\color{#BF2A24}಄}$ [commandersilly](https://github.com/commandersilly) is pony town's **Igor** (Tyler The Creator's album IGOR).ᐟ
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
