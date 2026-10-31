@@ -148,6 +148,8 @@ ${\color{#BF2A24}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) is 
 
 ${\color{#BF2A24}಄}$ [mydigitalescape](https://github.com/mydigitalescape) is pony town's **Robert Chase** (House MD).ᐟ
 
+${\color{#BF2A24}಄}$ [moxxarellaa](https://github.com/moxxarellaa) is pony town's **Infected** (Regretevator).ᐟ
+
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
@@ -197,6 +199,8 @@ ${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony
 ${\color{#BF2A24}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) is pony town's **Shelly** (Dandy's World).ᐟ
 
 ${\color{#BF2A24}಄}$ [Squidoww](https://github.com/Squidoww) is pony town's **Squiddo** (Lifesteal).ᐟ
+
+${\color{#BF2A24}಄}$ [sharpestvictory](https://github.com/sharpestvictory) is pony town's **Roy** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
