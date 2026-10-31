@@ -32,7 +32,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
 
@@ -150,6 +150,8 @@ ${\color{#BF2A24}಄}$ [mydigitalescape](https://github.com/mydigitalescape) is 
 
 ${\color{#BF2A24}಄}$ [moxxarellaa](https://github.com/moxxarellaa) is pony town's **Infected** (Regretevator).ᐟ
 
+${\color{#BF2A24}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) is pony town's **Power** (Chainsaw Man).ᐟ
+
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
@@ -213,6 +215,8 @@ ${\color{#BF2A24}಄}$ [THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEAT
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
 
 ${\color{#BF2A24}಄}$ [vraxyn](https://github.com/vraxyn) is pony town's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
+
+${\color{#BF2A24}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is pony town's **Tricky** (Madness Combat).ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
@@ -305,9 +309,13 @@ ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (L
 
 ${\color{#CC9543}಄}$ [lovelydrug](https://github.com/lovelydrug) is **Sylus's** yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [name](https://github.com/mydearmeIancholy) is **Demoman's** (Team Fortress 2) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is **Vox's** yumeshipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -356,6 +364,8 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 ${\color{#00B47E}಄}$ [CloveredFields](https://github.com/Cloveredfields) & [MaceGrounds](https://github.com/MaceGrounds) as pony town's **odyssey** (UUSMP) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [denguemon](https://github.com/denguemon) & [pawzu](https://github.com/pawzu) as pony town's **Lee Namyi & Shin Joong Hyun** duo.ᐟ
+
+${\color{#00B47E}಄}$ [Ddeaniebeanie](https://github.com/Ddeaniebeanie) & [ssam-moosetracks](https://github.com/ssam-moosetracks) as pony town's **Sam & Dean** duo.ᐟ
 
 ${\color{#00B47E}಄}$ [fuwafuransu](https://github.com/fuwafuransu) & [ajthepeach](https://github.com/ajthepeach) as pony town's **Fruk/Ukfr** (Hetalia) platonic duo.ᐟ
 
