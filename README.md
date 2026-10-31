@@ -405,6 +405,8 @@ ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](htt
 
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
+${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#CDD537}‿  ◟ \space EV \color{#BBC327}E \color{#A1A821}R \color{#8E9800}YT \color{#A1A821}H \color{#BBC327}I \color{#CDD537}NG \color{#CDD537} ◞  ‿}$**
