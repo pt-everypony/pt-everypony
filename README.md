@@ -84,6 +84,8 @@ ${\color{#BF2A24}಄}$ [chick-habit](https://github.com/chick-habit) is pony tow
 
 ${\color{#BF2A24}಄}$ [cweemcubed](https://github.com/cweemcubed) is pony town's **Bottle** (BFDI).ᐟ
 
+${\color{#BF2A24}಄}$ [childofsuns](https://github.com/childofsuns) is pony town's **Lando Norris** (F1).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -175,6 +177,8 @@ ${\color{#BF2A24}಄}$ [Pixel8tedfaygo](https://github.com/Pixel8tedfaygo) is po
 ${\color{#BF2A24}಄}$ [poisonedritual](https://github.com/poisonedritual) is pony town's **Twotime**.ᐟ
 
 ${\color{#BF2A24}಄}$ [Purzuer](https://github.com/Purzuer) is pony town's **Pursuer** (Die of Death).ᐟ
+
+${\color{#BF2A24}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) is pony town's **Fez**.ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
@@ -276,6 +280,8 @@ ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavyki
 ${\color{#689031}಄}$ [poisonedritual](https://github.com/poisonedritual) fictkin/heavykins's **Twotime**.ᐟ
 
 ${\color{#689031}಄}$ [princezammies](https://github.com/princezammies) fictkin/heavykins's **Red-haired Shanks** (One Piece).ᐟ
+
+${\color{#689031}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) fictkin/heavykins's **Fez**.ᐟ
 
 ${\color{#689031}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) fictkin/heavykins's **Reo Mikage**.ᐟ
 
