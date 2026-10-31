@@ -186,6 +186,8 @@ ${\color{#BF2A24}಄}$ [reflectivesea](https://github.com/reflectivesea) is pony
 
 ${\color{#BF2A24}಄}$ [RadiantCity](https://github.com/RadiantCity) is pony town's **Iqie** (Band Insomniacks).ᐟ
 
+${\color{#BF2A24}಄}$ [ringodemon](https://github.com/ringodemon) is pony town's **Edward Elric** (Fullmetal Alchemist).ᐟ
+
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
@@ -290,6 +292,8 @@ ${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzian
 ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
 
 ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
+
+${\color{#689031}಄}$ [5P-25](https://github.com/5P-25) fictkin/heavykins's **Five Pebbles** (Rain World).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
