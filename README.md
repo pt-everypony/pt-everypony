@@ -72,6 +72,8 @@ ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's 
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
 
+${\color{#BF2A24}಄}$ [bunnypaws](https://github.com/bunnypaws) is pony town's **Lady Killer** (Calling All Villains).ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
@@ -233,6 +235,8 @@ ${\color{#BF2A24}಄}$ [vraxyn](https://github.com/vraxyn) is pony town's **Mats
 ${\color{#BF2A24}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is pony town's **Tricky** (Madness Combat).ᐟ
 
 ${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **Kris Dreemurr** (Deltarune).ᐟ
+
+${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal**.ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
