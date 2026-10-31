@@ -389,6 +389,8 @@ ${\color{#00B47E}಄}$ [denguemon](https://github.com/denguemon) & [pawzu](https
 
 ${\color{#00B47E}಄}$ [Ddeaniebeanie](https://github.com/Ddeaniebeanie) & [ssam-moosetracks](https://github.com/ssam-moosetracks) as pony town's **Sam & Dean** duo.ᐟ
 
+${\color{#00B47E}಄}$ [emojaymerrick](https://github.com/emojaymerrick) & [winterf0gg](https://github.com/winterf0gg) as pony town's **Davekat** (Dave x Karkat) couple.ᐟ
+
 ${\color{#00B47E}಄}$ [fuwafuransu](https://github.com/fuwafuransu) & [ajthepeach](https://github.com/ajthepeach) as pony town's **Fruk/Ukfr** (Hetalia) platonic duo.ᐟ
 
 ${\color{#00B47E}಄}$ [god-of-stories](https://github.com/god-of-stories) & [mydigitalescape](https://github.com/mydigitalescape) as pony town's **Brodinsons**  (Thor and Loki from Marvel) familial.ᐟ
