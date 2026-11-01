@@ -120,6 +120,8 @@ ${\color{#BF2A24}಄}$ [fuwafuransu](https://github.com/fuwafuransu) is pony tow
 
 ${\color{#BF2A24}಄}$ [fragileflaw](https://github.com/fragileflaw) is pony town's **Zodiac** (Moon Knight).ᐟ
 
+${\color{#BF2A24}಄}$ [Fleta-Z](https://github.com/Fleta-Z) is pony town's **Fleta Z** (Metal Cardbots).ᐟ
+
 ${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
 ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is pony town's **Loki Laufeyson** (Marvel).ᐟ
