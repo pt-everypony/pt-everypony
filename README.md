@@ -363,6 +363,8 @@ ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **As
 
 ${\color{#CC9543}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is **Vox's** yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [velvettoru](https://github.com/velvettoru) is **Satoru Gojo's** yumeshipper.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#B4002A}‿  ◟ \space \color{#CE0030}S \color{#FF003B}H \color{#FF3060}I \color{#FF2256}P \color{#CE0030}S \color{#B4002A} ◞  ‿}$**
@@ -389,7 +391,7 @@ ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1
 
 ${\color{#FF3060}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) N.1 **Moonshell** shipper.ᐟ
 
-${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh** shipper.ᐟ
+${\color{#FF3060}಄}$ [velvettoru](https://github.com/velvettoru) N.1 **Satoru gojo** shipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
