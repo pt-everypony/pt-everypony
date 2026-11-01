@@ -279,7 +279,7 @@ ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/hea
 
 ${\color{#689031}಄}$ [forgedshadows](https://github.com/forgedshadows) fictkin/heavykins's **Rumia** (Touhou Project).ᐟ
 
-${\color{#BF2A24}಄}$ [FORENSIC-AUTOPSY](https://github.com/FORENSIC-AUTOPSY) fictkin/heavykins's **Boothill** (Honkai Star Rail).ᐟ
+${\color{#689031}಄}$ [FORENSIC-AUTOPSY](https://github.com/FORENSIC-AUTOPSY) fictkin/heavykins's **Boothill** (Honkai Star Rail).ᐟ
 
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
 
