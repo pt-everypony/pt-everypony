@@ -345,7 +345,7 @@ ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (L
 
 ${\color{#CC9543}಄}$ [lovelydrug](https://github.com/lovelydrug) is **Sylus's** yumeshipper.ᐟ
 
-${\color{#CC9543}಄}$ [name](https://github.com/mydearmeIancholy) is **Demoman's** (Team Fortress 2) yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) is **Demoman's** (Team Fortress 2) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
 
