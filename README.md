@@ -32,13 +32,13 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK)
 
@@ -318,6 +318,8 @@ ${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzian
 ${\color{#689031}಄}$ [starfollower](https://github.com/starfollower) fictkin/heavykins's **Rocket** (Phighting).ᐟ
 
 ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
+
+${\color{#689031}಄}$ [velvettoru](https://github.com/velvettoru) fictkin/heavykins's **Manjiro Sano** (Tokyo Revengers).ᐟ
 
 ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
 
