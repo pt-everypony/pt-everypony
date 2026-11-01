@@ -36,7 +36,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY)
 
@@ -220,6 +220,8 @@ ${\color{#BF2A24}಄}$ [sharpestvictory](https://github.com/sharpestvictory) is 
 
 ${\color{#BF2A24}಄}$ [sasukyo](https://github.com/sasukyo) is pony town's **Sasuke Uchiha**.ᐟ
 
+${\color{#BF2A24}಄}$ [starfollower](https://github.com/starfollower) is pony town's **Rocket** (Phighting!).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
@@ -236,7 +238,7 @@ ${\color{#BF2A24}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is 
 
 ${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **Kris Dreemurr** (Deltarune).ᐟ
 
-${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal**.ᐟ
+${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal** (Pokemon).ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
@@ -270,6 +272,8 @@ ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's *
 ${\color{#689031}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) fictkin/heavykins's **Blitz** (Helluva Boss).ᐟ
 
 ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
+
+${\color{#689031}಄}$ [forgedshadows](https://github.com/forgedshadows) fictkin/heavykins's **Rumia** (Touhou Project).ᐟ
 
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
 
@@ -330,6 +334,8 @@ ${\color{#CC9543}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion)
 ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's**  (hazbin hotel) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [fragileflaw](https://github.com/fragileflaw) is **Jake Lockley's** (Moon Knight) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [fragileflaw](https://github.com/fragileflaw) is **Akuma's** (Street Fighter) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
 
