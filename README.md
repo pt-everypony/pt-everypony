@@ -130,8 +130,6 @@ ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is po
 
 ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony town's **Mapicc**.ᐟ
 
-${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
-
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
 ${\color{#BF2A24}಄}$ [iwanttoholdyourhand](https://github.com/iwanttoholdyourhand) is pony town's **James Madison**.ᐟ
@@ -245,6 +243,8 @@ ${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **
 ${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal** (Pokemon).ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
+
+${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
 
 ${\color{#BF2A24}಄}$ [2099s](https://github.com/2099s) is pony town's **Miguel O'Hara** (ATSV/Marvel Comics).ᐟ
 
