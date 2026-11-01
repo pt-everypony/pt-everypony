@@ -186,6 +186,8 @@ ${\color{#BF2A24}಄}$ [Purzuer](https://github.com/Purzuer) is pony town's **Pu
 
 ${\color{#BF2A24}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) is pony town's **Fez**.ᐟ
 
+${\color{#BF2A24}಄}$ [perishallmortals](https://github.com/perishallmortals) is pony town's **beelzebub** (Helluva Boss).ᐟ
+
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
 ${\color{#BF2A24}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) is pony town's **Reo Mikage**.ᐟ
