@@ -34,6 +34,8 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
 
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI)
+
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvoidstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen)
@@ -92,6 +94,8 @@ ${\color{#BF2A24}಄}$ [commandersilly](https://github.com/commandersilly) is po
 
 ${\color{#BF2A24}಄}$ [craig-tucker](https://github.com/craig-tucker) is pony town's **Craig Tucker** (South Park).ᐟ
 
+${\color{#BF2A24}಄}$ [cozywarmth](https://github.com/cozywarmth) is pony town's **Dazai Osamu** (Bungo Stray Dogs).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -149,6 +153,8 @@ ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony t
 ${\color{#BF2A24}಄}$ [lcorp-wingfounder](https://github.com/lcorp-wingfounder) is pony town's **Ayin** (Lobotomy Corporation).ᐟ
 
 ${\color{#BF2A24}಄}$ [lovelydrug](https://github.com/lovelydrug) is pony town's **Jumperwho**.ᐟ
+
+${\color{#BF2A24}಄}$ [LAWRlE](https://github.com/LAWRlE) is pony town's **Lawrie** (Brawl Stars).ᐟ
 
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
 
@@ -297,6 +303,8 @@ ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin
 
 ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
 
+${\color{#689031}಄}$ [Iiquidsmooth](https://github.com/Iiquidsmooth) fictkin/heavykins's **Eggchan**.ᐟ
+
 ${\color{#689031}಄}$ [poisonedritual](https://github.com/poisonedritual) fictkin/heavykins's **Twotime**.ᐟ
 
 ${\color{#689031}಄}$ [princezammies](https://github.com/princezammies) fictkin/heavykins's **Red-haired Shanks** (One Piece).ᐟ
@@ -386,6 +394,8 @@ ${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1
 ${\color{#FF3060}಄}$ [nxvocaine](https://github.com/nxvocaine) N.1 **Kiribaku** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) N.1 **Sebskully** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
 
