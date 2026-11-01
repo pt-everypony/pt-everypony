@@ -34,9 +34,9 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
 
@@ -46,7 +46,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [livingforest](https://github.com/livingforest)
 
   <div align="right">
 
@@ -138,6 +138,8 @@ ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is po
 
 ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony town's **Mapicc**.ᐟ
 
+${\color{#BF2A24}಄}$ [hood-net](https://github.com/hood-net) is pony town's **Jason Todd** (DC).ᐟ
+
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
 ${\color{#BF2A24}಄}$ [iwanttoholdyourhand](https://github.com/iwanttoholdyourhand) is pony town's **James Madison**.ᐟ
@@ -224,7 +226,7 @@ ${\color{#BF2A24}಄}$ [sirencore](https://github.com/sirencore) is pony town's 
 
 ${\color{#BF2A24}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) is pony town's **Gabriel** (Ultrakill).ᐟ
 
-${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony town's **Jack** (Cultfamily).ᐟ
+${\color{#BF2A24}಄}$ [steampunkitty](https://github.com/steampunkitty) is pony town's **Lammy** (Um Jammer Lammy).ᐟ
 
 ${\color{#BF2A24}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) is pony town's **Shelly** (Dandy's World).ᐟ
 
@@ -235,6 +237,8 @@ ${\color{#BF2A24}಄}$ [sharpestvictory](https://github.com/sharpestvictory) is 
 ${\color{#BF2A24}಄}$ [sasukyo](https://github.com/sasukyo) is pony town's **Sasuke Uchiha**.ᐟ
 
 ${\color{#BF2A24}಄}$ [starfollower](https://github.com/starfollower) is pony town's **Rocket** (Phighting!).ᐟ
+
+${\color{#BF2A24}಄}$ [smith-kingsley](https://github.com/smith-kingsley) is pony town's **Ollie Plimsolls** (league of gentlemen).ᐟ
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
@@ -257,6 +261,8 @@ ${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **
 ${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal** (Pokemon).ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
+
+${\color{#BF2A24}಄}$ [yubelsrevenge](https://github.com/yubelsrevenge) is pony town's **Judai Yuki** (Yugioh GX).ᐟ
 
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
 
@@ -328,6 +334,8 @@ ${\color{#689031}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) fictkin
 ${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) fictkin/heavykins's **Shelly** (Dandy's World).ᐟ
 
 ${\color{#689031}಄}$ [starfollower](https://github.com/starfollower) fictkin/heavykins's **Rocket** (Phighting).ᐟ
+
+${\color{#689031}಄}$ [steampunkitty](https://github.com/steampunkitty) fictkin/heavykins's **Lammy** (Um Jammer Lammy).ᐟ
 
 ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
 
