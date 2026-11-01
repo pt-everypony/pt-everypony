@@ -339,7 +339,7 @@ ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Ab
 
 ${\color{#CC9543}಄}$ [fragileflaw](https://github.com/fragileflaw) is **Jake Lockley's** (Moon Knight) yumeshipper.ᐟ
 
-${\color{#CC9543}಄}$ [fragileflaw](https://github.com/fragileflaw) is **Akuma's** (Street Fighter) yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [forgedshadows](https://github.com/forgedshadows) is **Akuma's** (Street Fighter) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
 
