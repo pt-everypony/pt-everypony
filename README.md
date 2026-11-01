@@ -90,6 +90,8 @@ ${\color{#BF2A24}಄}$ [childofsuns](https://github.com/childofsuns) is pony tow
 
 ${\color{#BF2A24}಄}$ [commandersilly](https://github.com/commandersilly) is pony town's **Igor** (Tyler The Creator's album IGOR).ᐟ
 
+${\color{#BF2A24}಄}$ [craig-tucker](https://github.com/craig-tucker) is pony town's **Craig Tucker** (South Park).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
