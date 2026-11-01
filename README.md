@@ -114,6 +114,8 @@ ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **
 
 ${\color{#BF2A24}಄}$ [Epaxialfx](https://github.com/Epaxialfx) is pony town's **Epaxialfx** (MCYT).ᐟ
 
+${\color{#BF2A24}಄}$ [esticrayon](https://github.com/esticrayon) is pony town's **Kyoko Kirigiri** (Danganronpa).ᐟ
+
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
@@ -312,6 +314,8 @@ ${\color{#689031}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHU
 ${\color{#689031}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) fictkin/heavykins's **Gabriel** (Ultrakill).ᐟ
 
 ${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) fictkin/heavykins's **Shelly** (Dandy's World).ᐟ
+
+${\color{#689031}಄}$ [starfollower](https://github.com/starfollower) fictkin/heavykins's **Rocket** (Phighting).ᐟ
 
 ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
 
