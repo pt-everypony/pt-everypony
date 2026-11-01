@@ -242,6 +242,8 @@ ${\color{#BF2A24}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) is 
 
 ${\color{#BF2A24}಄}$ [THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEATH) is pony town's **Roronao Zoro** (One Piece).ᐟ
 
+${\color{#BF2A24}಄}$ [TrenchDogs](https://github.com/TrenchDogs) is pony town's **Carrie** (Ersatz).ᐟ
+
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
 
 ${\color{#BF2A24}಄}$ [vraxyn](https://github.com/vraxyn) is pony town's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
