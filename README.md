@@ -216,6 +216,8 @@ ${\color{#BF2A24}಄}$ [RadiantCity](https://github.com/RadiantCity) is pony tow
 
 ${\color{#BF2A24}಄}$ [ringodemon](https://github.com/ringodemon) is pony town's **Edward Elric** (Fullmetal Alchemist).ᐟ
 
+${\color{#BF2A24}಄}$ [rydenyuri](https://github.com/rydenyuri) is pony town's **Ryan Ross** (Panic At The Disco).ᐟ
+
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
