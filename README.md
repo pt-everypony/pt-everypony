@@ -486,4 +486,6 @@ ${\color{#CDD537}಄}$ [sv1nzxu](https://github.com/sv1nzxu) is pony town's **go
 
 ${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
+${\color{#CDD537}಄}$ [PixieStixxPT](https://github.com/PixieStixxPT) is pony town's **Silliest Clown / SillyString**.ᐟ
+
 ![](https://files.catbox.moe/x3ev40.png)
