@@ -423,6 +423,8 @@ ${\color{#FF3060}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) N.1
 
 ${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh** shipper.ᐟ
 
+${\color{#FF3060}಄}$ [rydenyuri](https://github.com/rydenyuri) N.1 **Rydens** shipper.ᐟ
+
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) N.1 **Moonshell** shipper.ᐟ
