@@ -74,6 +74,8 @@ ${\color{#BF2A24}಄}$ [Aspenolia](https://github.com/Aspenolia) is pony town's 
 
 ${\color{#BF2A24}಄}$ [ajthepeach](https://github.com/ajthepeach) is pony town's **Arthur Kirkland** (Hetalia).ᐟ
 
+${\color{#BF2A24}಄}$ [applemorph](https://github.com/applemorph) is pony town's **Kim Dokja**.ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
