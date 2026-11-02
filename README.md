@@ -480,6 +480,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "app
   
 </details>
 
+${\color{#CDD537}಄}$ [pwppy](https://github.com/pwppy) is pony town's **Puppy**.ᐟ
+
 ${\color{#CDD537}಄}$ [sv1nzxu](https://github.com/sv1nzxu) is pony town's **golden retriever**.ᐟ
 
 ${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
