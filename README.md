@@ -291,6 +291,8 @@ ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/h
 
 ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
 
+${\color{#689031}಄}$ [casino-flush](https://github.com/casino-flush) fictkin/heavykins's **Chance** (Forsaken).ᐟ
+
 ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
 ${\color{#689031}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) fictkin/heavykins's **Blitz** (Helluva Boss).ᐟ
@@ -363,6 +365,8 @@ ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cudd
 
 ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [casino-flush](https://github.com/casino-flush) is **Mello/Mihael Keehl's** (Death Note) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) is **Verosika's** (Helluva Boss) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's**  (hazbin hotel) yumeshipper.ᐟ
@@ -430,6 +434,8 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 </details>
 
 ${\color{#00B47E}಄}$ [CloveredFields](https://github.com/Cloveredfields) & [MaceGrounds](https://github.com/MaceGrounds) as pony town's **odyssey** (UUSMP) duo.ᐟ
+
+${\color{#00B47E}಄}$ [casino-flush](https://github.com/casino-flush) & [prizeflush](https://github.com/prizeflush) as pony town's **Doublefedora** couple.ᐟ
 
 ${\color{#00B47E}಄}$ [denguemon](https://github.com/denguemon) & [pawzu](https://github.com/pawzu) as pony town's **Lee Namyi & Shin Joong Hyun** duo.ᐟ
 
