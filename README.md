@@ -48,7 +48,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [livingforest](https://github.com/livingforest)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [livingforest](https://github.com/livingforest) ⸝ [lonesomestreet](https://github.com/lonesomestreet)
 
   <div align="right">
 
@@ -128,6 +128,8 @@ ${\color{#BF2A24}಄}$ [Epaxialfx](https://github.com/Epaxialfx) is pony town's 
 
 ${\color{#BF2A24}಄}$ [esticrayon](https://github.com/esticrayon) is pony town's **Kyoko Kirigiri** (Danganronpa).ᐟ
 
+${\color{#BF2A24}಄}$ [evilmustdie](https://github.com/evilmustdie) is pony town's **Val Velocity** (Ttlotfk).ᐟ
+
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
@@ -137,6 +139,8 @@ ${\color{#BF2A24}಄}$ [fuwafuransu](https://github.com/fuwafuransu) is pony tow
 ${\color{#BF2A24}಄}$ [fragileflaw](https://github.com/fragileflaw) is pony town's **Zodiac** (Moon Knight).ᐟ
 
 ${\color{#BF2A24}಄}$ [Fleta-Z](https://github.com/Fleta-Z) is pony town's **Fleta Z** (Metal Cardbots).ᐟ
+
+${\color{#BF2A24}಄}$ [flaskofvodka](https://github.com/flaskofvodka) is pony town's **Tom** (Eddsworld).ᐟ
 
 ${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
@@ -151,6 +155,8 @@ ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town'
 ${\color{#BF2A24}಄}$ [iwanttoholdyourhand](https://github.com/iwanttoholdyourhand) is pony town's **James Madison**.ᐟ
 
 ${\color{#BF2A24}಄}$ [Jeverus](https://github.com/Jeverus) is pony town's **Slasher** (Forsaken).ᐟ
+
+${\color{#BF2A24}಄}$ [jsschlatt](https://github.com/jsschlatt) is pony town's **Jschlatt** (MCYT).ᐟ
 
 ${\color{#BF2A24}಄}$ [kittyypop](https://github.com/kittyypop) is pony town's **Eunoia** (Frozen Soul/Dream Game).ᐟ
 
@@ -264,6 +270,8 @@ ${\color{#BF2A24}಄}$ [THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEAT
 
 ${\color{#BF2A24}಄}$ [TrenchDogs](https://github.com/TrenchDogs) is pony town's **Carrie** (Ersatz).ᐟ
 
+${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
+
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
 
 ${\color{#BF2A24}಄}$ [vraxyn](https://github.com/vraxyn) is pony town's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
@@ -320,6 +328,8 @@ ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/hea
 ${\color{#689031}಄}$ [forgedshadows](https://github.com/forgedshadows) fictkin/heavykins's **Rumia** (Touhou Project).ᐟ
 
 ${\color{#689031}಄}$ [FORENSIC-AUTOPSY](https://github.com/FORENSIC-AUTOPSY) fictkin/heavykins's **Boothill** (Honkai Star Rail).ᐟ
+
+${\color{#689031}಄}$ [flaskofvodka](https://github.com/flaskofvodka) fictkin/heavykins's **Tom** (Eddsworld).ᐟ
 
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
 
@@ -480,6 +490,8 @@ ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](htt
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
+
+${\color{#00B47E}಄}$ [zemifhhh](https://github.com/zemifhhh) & [flaskofvodka](https://github.com/flaskofvodka) as pony town's **TomTord** (Eddsworld) couple.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
