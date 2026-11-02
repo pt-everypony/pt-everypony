@@ -82,6 +82,8 @@ ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) i
 
 ${\color{#BF2A24}಄}$ [bunnypaws](https://github.com/bunnypaws) is pony town's **Lady Killer** (Calling All Villains).ᐟ
 
+${\color{#BF2A24}಄}$ [Blame-John](https://github.com/Blame-John) is pony town's **John Shedletsky** (Roblox).ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
