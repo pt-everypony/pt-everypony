@@ -276,6 +276,8 @@ ${\color{#BF2A24}಄}$ [5W33TCH0C0L4T3](https://github.com/5W33TCH0C0L4T3) is po
 
 ${\color{#BF2A24}಄}$ [01yaoimaster](https://github.com/01yaoimaster) is pony town's **Scag** (Regretevator).ᐟ
 
+${\color{#BF2A24}಄}$ [1-upboy](https://github.com/1-upboy) is pony town's **Mario** (Super Mario bros).ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#689031}‿  ◟ \space FI \color{#7FA337}C \color{#8FA337}T \color{#ACC442}IO \color{#8FA337}N \color{#7FA337}K \color{#689031}INS \color{#689031} ◞  ‿}$**
