@@ -248,6 +248,8 @@ ${\color{#BF2A24}಄}$ [starfollower](https://github.com/starfollower) is pony t
 
 ${\color{#BF2A24}಄}$ [smith-kingsley](https://github.com/smith-kingsley) is pony town's **Ollie Plimsolls** (league of gentlemen).ᐟ
 
+${\color{#BF2A24}಄}$ [sxphyrin](https://github.com/sxphyrin) is pony town's **Lilia Vanrouge** (Disney Twisted Wonderland).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
