@@ -40,7 +40,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen)
 
@@ -252,6 +252,8 @@ ${\color{#BF2A24}಄}$ [smith-kingsley](https://github.com/smith-kingsley) is po
 
 ${\color{#BF2A24}಄}$ [sxphyrin](https://github.com/sxphyrin) is pony town's **Lilia Vanrouge** (Disney Twisted Wonderland).ᐟ
 
+${\color{#BF2A24}಄}$ [spam-tune](https://github.com/spam-tune) is pony town's **Tenna** (Deltarune).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
@@ -434,6 +436,8 @@ ${\color{#FF3060}಄}$ [rydenyuri](https://github.com/rydenyuri) N.1 **Rydens** 
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) N.1 **Moonshell** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [spam-tune](https://github.com/spam-tune) N.1 **Spamtenna** shipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
