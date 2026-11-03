@@ -86,7 +86,7 @@ ${\color{#BF2A24}಄}$ [Blame-John](https://github.com/Blame-John) is pony town'
 
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
-${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokemon).ᐟ
+${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokémon).ᐟ
 
 ${\color{#BF2A24}಄}$ [camycatyy](https://github.com/camycatyy) is pony town's **Niko** (Oneshot).ᐟ
 
