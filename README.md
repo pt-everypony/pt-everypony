@@ -104,6 +104,8 @@ ${\color{#BF2A24}಄}$ [craig-tucker](https://github.com/craig-tucker) is pony t
 
 ${\color{#BF2A24}಄}$ [cozywarmth](https://github.com/cozywarmth) is pony town's **Dazai Osamu** (Bungo Stray Dogs).ᐟ
 
+${\color{#BF2A24}಄}$ [CherrieJam](https://github.com/CherrieJam) is pony town's **Windblade** (Transformers).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -123,6 +125,8 @@ ${\color{#BF2A24}಄}$ [deanwnchstr](https://github.com/deanwnchstr) is pony tow
 ${\color{#BF2A24}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) is pony town's **Raphael** (TMNT 2012).ᐟ
 
 ${\color{#BF2A24}಄}$ [dr-vanta](https://github.com/dr-vanta) is pony town's **Dr Vanta** (Loomian Legacy).ᐟ
+
+${\color{#BF2A24}಄}$ [dandypilled](https://github.com/dandypilled) is pony town's **Dandy** (Dandy's World).ᐟ
 
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
 
@@ -194,6 +198,10 @@ ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) i
 
 ${\color{#BF2A24}಄}$ [nnyanruto](https://github.com/nnyanruto) is pony town's **Naruto Uzumaki**.ᐟ
 
+${\color{#BF2A24}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) is pony town's **Natural Harmonia Gropius** (Pokémon).ᐟ
+
+${\color{#BF2A24}಄}$ [NikaMokochi](https://github.com/NikaMokochi) is pony town's **Pizza Guy** (Pizza Game Beta).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
@@ -216,6 +224,8 @@ ${\color{#BF2A24}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosio
 
 ${\color{#BF2A24}಄}$ [perishallmortals](https://github.com/perishallmortals) is pony town's **Beelzebub** (Helluva Boss).ᐟ
 
+${\color{#BF2A24}಄}$ [Puppipilled](https://github.com/Puppipilled) is pony town's **Stan Marsh** (South Park).ᐟ
+
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
 ${\color{#BF2A24}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) is pony town's **Reo Mikage**.ᐟ
@@ -229,6 +239,8 @@ ${\color{#BF2A24}಄}$ [RadiantCity](https://github.com/RadiantCity) is pony tow
 ${\color{#BF2A24}಄}$ [ringodemon](https://github.com/ringodemon) is pony town's **Edward Elric** (Fullmetal Alchemist).ᐟ
 
 ${\color{#BF2A24}಄}$ [rydenyuri](https://github.com/rydenyuri) is pony town's **Ryan Ross** (Panic At The Disco).ᐟ
+
+${\color{#BF2A24}಄}$ [rainedscythe](https://github.com/rainedscythe) is pony town's **Hugo Vlad** (ZZZ).ᐟ
 
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
@@ -309,6 +321,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ 
   
 </details>
 
+${\color{#689031}಄}$ [AppleBurst](https://github.com/AppleBurst) fictkin/heavykins's **AndreW2002** (Collinlock16 Continuity).ᐟ
+
 ${\color{#689031}಄}$ [BluuJayymes](https://github.com/BluuJayymes) fictkin/heavykins's **Leon Kennedy** (Resident evil).ᐟ
 
 ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
@@ -324,6 +338,8 @@ ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's *
 ${\color{#689031}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) fictkin/heavykins's **Blitz** (Helluva Boss).ᐟ
 
 ${\color{#689031}಄}$ [dr-vanta](https://github.com/dr-vanta) fictkin/heavykins's **Dr Vanta** (Loomian Legacy).ᐟ
+
+${\color{#689031}಄}$ [dandypilled](https://github.com/dandypilled) fictkin/heavykins's **Dandy** (Dandy's World).ᐟ
 
 ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
 
@@ -346,6 +362,8 @@ ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin
 ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
 
 ${\color{#689031}಄}$ [Iiquidsmooth](https://github.com/Iiquidsmooth) fictkin/heavykins's **Eggchan**.ᐟ
+
+${\color{#689031}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) fictkin/heavykins's **Natural Harmonia Gropius** (Pokémon).ᐟ
 
 ${\color{#689031}಄}$ [poisonedritual](https://github.com/poisonedritual) fictkin/heavykins's **Twotime**.ᐟ
 
@@ -397,6 +415,8 @@ ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (
 
 ${\color{#CC9543}಄}$ [casino-flush](https://github.com/casino-flush) is **Mello/Mihael Keehl's** (Death Note) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [CherrieJam](https://github.com/CherrieJam) is **Starscream's** (Transformers) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) is **Verosika's** (Helluva Boss) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's**  (hazbin hotel) yumeshipper.ᐟ
@@ -407,11 +427,17 @@ ${\color{#CC9543}಄}$ [forgedshadows](https://github.com/forgedshadows) is **Ak
 
 ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is **Dot Barrett's** (Mashle) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [lovelydrug](https://github.com/lovelydrug) is **Sylus's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) is **Demoman's** (Team Fortress 2) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) is **Natural Harmonia Gropius's** (Pokémon) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [rydenyuri](https://github.com/rydenyuri) is **Verity's** (MC) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
 
@@ -433,7 +459,11 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shi
   
 </details>
 
+${\color{#FF3060}಄}$ [dandypilled](https://github.com/dandypilled) N.1 **flowerberry** shipper.ᐟ
+
 ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) N.1 **Sakusuorei** (Windbreaker) shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1 **Batarou** shipper.ᐟ
 
@@ -475,6 +505,8 @@ ${\color{#00B47E}಄}$ [denguemon](https://github.com/denguemon) & [pawzu](https
 
 ${\color{#00B47E}಄}$ [Ddeaniebeanie](https://github.com/Ddeaniebeanie) & [ssam-moosetracks](https://github.com/ssam-moosetracks) as pony town's **Sam & Dean** duo.ᐟ
 
+${\color{#00B47E}಄}$ [decayingcorpses](https://github.com/decayingcorpses) & [promiseduo](https://github.com/promiseduo) as pony town's **patchbreakers** (UUSMP) duo.ᐟ
+
 ${\color{#00B47E}಄}$ [emojaymerrick](https://github.com/emojaymerrick) & [winterf0gg](https://github.com/winterf0gg) as pony town's **Davekat** (Dave x Karkat) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [fuwafuransu](https://github.com/fuwafuransu) & [ajthepeach](https://github.com/ajthepeach) as pony town's **Fruk/Ukfr** (Hetalia) platonic duo.ᐟ
@@ -511,6 +543,8 @@ $${\color{#87896A}but\ everyone\ is\ welcome\ if\ you\ only\ like\ it\ !!}$$
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "apple"!}$$
   
 </details>
+
+${\color{#CDD537}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is pony town's **Kiwi**.ᐟ
 
 ${\color{#CDD537}಄}$ [pwppy](https://github.com/pwppy) is pony town's **Puppy**.ᐟ
 
