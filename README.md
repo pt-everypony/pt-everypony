@@ -294,7 +294,7 @@ ${\color{#BF2A24}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is 
 
 ${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **Kris Dreemurr** (Deltarune).ᐟ
 
-${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal** (Pokemon).ᐟ
+${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal** (Pokémon).ᐟ
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
