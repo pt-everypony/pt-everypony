@@ -36,7 +36,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [50Ocigarettes](https://github.com/50Ocigarettes)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy)
 
