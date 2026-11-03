@@ -27,7 +27,7 @@ ${\color{#E2522B}NOTE:}$ I love yall but please don't spam me about the same per
 + please specify which category you want to be on I can't tell if you want to be on "everything category" when you only say "pony town's" I might mix it up with the character category.
 + for the pairs category tell me if it's a couple or a duo (or something else like familia etc) if you don't say it I will automatically assume and put it as a duo.
 
-+ If you didn't get added than you probably forgot to put your GitHub or the character is already got taken.
++ If you didn't get added then you probably forgot to put your GitHub or the character is already got taken.
 
   <div align="center">
     
