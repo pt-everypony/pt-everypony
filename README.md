@@ -44,11 +44,11 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK) ⸝ [lonesomestreet](https://github.com/lonesomestreet)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK) ⸝ [lonesomestreet](https://github.com/lonesomestreet) ⸝ [MangoestMango](https://github.com/MangoestMango)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [livingforest](https://github.com/livingforest)
 
@@ -107,6 +107,10 @@ ${\color{#BF2A24}಄}$ [craig-tucker](https://github.com/craig-tucker) is pony t
 ${\color{#BF2A24}಄}$ [cozywarmth](https://github.com/cozywarmth) is pony town's **Dazai Osamu** (Bungo Stray Dogs).ᐟ
 
 ${\color{#BF2A24}಄}$ [CherrieJam](https://github.com/CherrieJam) is pony town's **Windblade** (Transformers).ᐟ
+
+${\color{#BF2A24}಄}$ [chipwhisp](https://github.com/chipwhisp) is pony town's **Spiderman Noir**.ᐟ
+
+${\color{#BF2A24}಄}$ [calemholic](https://github.com/calemholic) is pony town's **Calem** (Pokémon).ᐟ
 
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
@@ -172,6 +176,8 @@ ${\color{#BF2A24}಄}$ [kyanmakozume](https://github.com/kyanmakozume) is pony t
 
 ${\color{#BF2A24}಄}$ [kapobeztia](https://github.com/kapobeztia) is pony town's **Dedan** (OFF).ᐟ
 
+${\color{#BF2A24}಄}$ [kniferrific](https://github.com/kniferrific) is pony town's **Itzskeetxd662** (Itzskeet_playz ARG).ᐟ
+
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
 ${\color{#BF2A24}಄}$ [lcorp-wingfounder](https://github.com/lcorp-wingfounder) is pony town's **Ayin** (Lobotomy Corporation).ᐟ
@@ -196,6 +202,8 @@ ${\color{#BF2A24}಄}$ [moxxarellaa](https://github.com/moxxarellaa) is pony tow
 
 ${\color{#BF2A24}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) is pony town's **Power** (Chainsaw Man).ᐟ
 
+${\color{#BF2A24}಄}$ [MangoestMango](https://github.com/MangoestMango) is pony town's **Falsity**.ᐟ
+
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [nnyanruto](https://github.com/nnyanruto) is pony town's **Naruto Uzumaki**.ᐟ
@@ -206,7 +214,7 @@ ${\color{#BF2A24}಄}$ [NikaMokochi](https://github.com/NikaMokochi) is pony tow
 
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
-${\color{#BF2A24}಄}$ [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pony town's **GroxMC** (MCYT).ᐟ
+${\color{#BF2A24}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) is pony town's **GroxMC** (MCYT).ᐟ
 
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
@@ -286,6 +294,8 @@ ${\color{#BF2A24}಄}$ [THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEAT
 
 ${\color{#BF2A24}಄}$ [TrenchDogs](https://github.com/TrenchDogs) is pony town's **Carrie** (Ersatz).ᐟ
 
+${\color{#BF2A24}಄}$ [T0R4X](https://github.com/T0R4X) is pony town's **Medic** (TF2).ᐟ
+
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
@@ -312,6 +322,8 @@ ${\color{#BF2A24}಄}$ [01yaoimaster](https://github.com/01yaoimaster) is pony t
 
 ${\color{#BF2A24}಄}$ [1-upboy](https://github.com/1-upboy) is pony town's **Mario** (Super Mario bros).ᐟ
 
+${\color{#BF2A24}಄}$ [2ulloxCaptor](https://github.com/2ulloxCaptor) is pony town's **Sollux** (Homestuck).ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#689031}‿  ◟ \space FI \color{#7FA337}C \color{#8FA337}T \color{#ACC442}IO \color{#8FA337}N \color{#7FA337}K \color{#689031}INS \color{#689031} ◞  ‿}$**
@@ -334,6 +346,8 @@ ${\color{#689031}಄}$ [Chemicalshot](https://github.com/CHEMICALSHOT) fictkin/h
 ${\color{#689031}಄}$ [camycatyy](https://github.com/camycatyy) fictkin/heavykins's **Niko** (Oneshot).ᐟ
 
 ${\color{#689031}಄}$ [casino-flush](https://github.com/casino-flush) fictkin/heavykins's **Chance** (Forsaken).ᐟ
+
+${\color{#689031}಄}$ [CosmeticStar](https://github.com/CosmeticStar) fictkin/heavykins's **Mommy Mearest** (Friday Night Funkin).ᐟ
 
 ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
@@ -361,9 +375,13 @@ ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's
 
 ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin/heavykins's **Viktor** (Arcane).ᐟ
 
+${\color{#689031}಄}$ [kniferrific](https://github.com/kniferrific) fictkin/heavykins's **Itzskeetxd662** (Itzskeet_playz ARG).ᐟ
+
 ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
 
 ${\color{#689031}಄}$ [Iiquidsmooth](https://github.com/Iiquidsmooth) fictkin/heavykins's **Eggchan**.ᐟ
+
+${\color{#689031}಄}$ [MangoestMango](https://github.com/MangoestMango) fictkin/heavykins's **Falsity**.ᐟ
 
 ${\color{#689031}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) fictkin/heavykins's **Natural Harmonia Gropius** (Pokémon).ᐟ
 
@@ -388,6 +406,8 @@ ${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzian
 ${\color{#689031}಄}$ [starfollower](https://github.com/starfollower) fictkin/heavykins's **Rocket** (Phighting).ᐟ
 
 ${\color{#689031}಄}$ [steampunkitty](https://github.com/steampunkitty) fictkin/heavykins's **Lammy** (Um Jammer Lammy).ᐟ
+
+${\color{#689031}಄}$ [T0R4X](https://github.com/T0R4X) fictkin/heavykins's **Medic** (TF2).ᐟ
 
 ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
 
@@ -419,6 +439,9 @@ ${\color{#CC9543}಄}$ [casino-flush](https://github.com/casino-flush) is **Mell
 
 ${\color{#CC9543}಄}$ [CherrieJam](https://github.com/CherrieJam) is **Starscream's** (Transformers) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [CosmeticStar](https://github.com/CosmeticStar) is **Elliott's**
+(Stardew Valley) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) is **Verosika's** (Helluva Boss) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Abel's**  (hazbin hotel) yumeshipper.ᐟ
@@ -440,6 +463,8 @@ ${\color{#CC9543}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) i
 ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [rydenyuri](https://github.com/rydenyuri) is **Verity's** (MC) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [starfollower](https://github.com/starfollower) is **Sword's** (Phighting) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
 
@@ -482,6 +507,8 @@ ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1
 ${\color{#FF3060}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) N.1 **Moonshell** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [spam-tune](https://github.com/spam-tune) N.1 **Spamtenna** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [T0R4X](https://github.com/T0R4X) N.1 **Swordvan** (TF2) shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) N.1 **Colashop** shipper.ᐟ
 
@@ -528,6 +555,8 @@ ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](htt
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
+
+${\color{#00B47E}಄}$ [T0R4X](https://github.com/T0R4X) & [Noctiluvancy](https://github.com/Noctiluvancy) as pony town's **Heavymedic** (TF2) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [zemifhhh](https://github.com/zemifhhh) & [flaskofvodka](https://github.com/flaskofvodka) as pony town's **TomTord** (Eddsworld) couple.ᐟ
 
