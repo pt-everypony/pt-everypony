@@ -38,11 +38,11 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
   <div align="left">
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [50Ocigarettes](https://github.com/50Ocigarettes)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [50Ocigarettes](https://github.com/50Ocigarettes) ⸝ [purefatal](https://github.com/purefatal)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart)
 
@@ -50,7 +50,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK) ⸝ [lonesomestreet](https://github.com/lonesomestreet) ⸝ [MangoestMango](https://github.com/MangoestMango)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [livingforest](https://github.com/livingforest)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Cuddle\ Bug:}$ [Epaxialfx](https://github.com/Epaxialfx) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [livingforest](https://github.com/livingforest) ⸝ [KNIFERRIFIC](https://github.com/KNIFERRIFIC)
 
   <div align="right">
 
@@ -77,6 +77,8 @@ ${\color{#BF2A24}಄}$ [Aspenolia](https://github.com/Aspenolia) is pony town's 
 ${\color{#BF2A24}಄}$ [ajthepeach](https://github.com/ajthepeach) is pony town's **Arthur Kirkland** (Hetalia).ᐟ
 
 ${\color{#BF2A24}಄}$ [applemorph](https://github.com/applemorph) is pony town's **Kim Dokja**.ᐟ
+
+${\color{#BF2A24}಄}$ [andreslopper](https://github.com/andreslopper) is pony town's **Opera** (Mairimashita Iruma Kun).ᐟ
 
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
@@ -178,6 +180,8 @@ ${\color{#BF2A24}಄}$ [kapobeztia](https://github.com/kapobeztia) is pony town'
 
 ${\color{#BF2A24}಄}$ [kniferrific](https://github.com/kniferrific) is pony town's **Itzskeetxd662** (Itzskeet_playz ARG).ᐟ
 
+${\color{#BF2A24}಄}$ [Kaban0z](https://github.com/Kaban0z) is pony town's **Adelaide-Dream** (Frozen Soul).ᐟ
+
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
 ${\color{#BF2A24}಄}$ [lcorp-wingfounder](https://github.com/lcorp-wingfounder) is pony town's **Ayin** (Lobotomy Corporation).ᐟ
@@ -235,6 +239,8 @@ ${\color{#BF2A24}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosio
 ${\color{#BF2A24}಄}$ [perishallmortals](https://github.com/perishallmortals) is pony town's **Beelzebub** (Helluva Boss).ᐟ
 
 ${\color{#BF2A24}಄}$ [Puppipilled](https://github.com/Puppipilled) is pony town's **Stan Marsh** (South Park).ᐟ
+
+${\color{#BF2A24}಄}$ [PandemoniumParty](https://github.com/PandemoniumParty) is pony town's **Uzuki** (Under Night In-Birth II).ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
@@ -494,9 +500,13 @@ ${\color{#FF3060}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) N.1 **Sakus
 
 ${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1 **Batarou** shipper.ᐟ
 
+${\color{#FF3060}಄}$ [MothlightSys](https://github.com/MothlightSys) N.1 **Biohazard** shipper.ᐟ
+
 ${\color{#FF3060}಄}$ [nxvocaine](https://github.com/nxvocaine) N.1 **Kiribaku** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) N.1 **Sebskully** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [Pixel8tedfaygo](https://github.com/Pixel8tedfaygo) N.1 **Erigam** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh** shipper.ᐟ
 
@@ -551,6 +561,8 @@ ${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](h
 ${\color{#00B47E}಄}$ [mikethebrave](https://github.com/mikethebrave) & [Appendice11](https://github.com/Appendice11) as pony town's **Byler** (Mike Wheeler and Will Byers) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](https://github.com/sasukyo) as pony town's **Naruto Uzumaki & Sasuke Uchiha** couple.ᐟ
+
+${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [MangoestMango](https://github.com/MangoestMango) as pony town's **Xqree & Falsity** duo.ᐟ
 
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
