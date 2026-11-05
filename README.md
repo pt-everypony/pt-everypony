@@ -581,8 +581,6 @@ ${\color{#CDD537}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is pony tow
 
 ${\color{#CDD537}಄}$ [pwppy](https://github.com/pwppy) is pony town's **Puppy**.ᐟ
 
-${\color{#CDD537}಄}$ [sv1nzxu](https://github.com/sv1nzxu) is pony town's **golden retriever**.ᐟ
-
 ${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
 ${\color{#CDD537}಄}$ [PixieStixxPT](https://github.com/PixieStixxPT) is pony town's **Silliest Clown / SillyString**.ᐟ
