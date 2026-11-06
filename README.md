@@ -44,7 +44,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart) ⸝ [sketchyremorse](https://github.com/sketchyremorse)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
 
@@ -144,6 +144,8 @@ ${\color{#BF2A24}಄}$ [esticrayon](https://github.com/esticrayon) is pony town'
 
 ${\color{#BF2A24}಄}$ [evilmustdie](https://github.com/evilmustdie) is pony town's **Val Velocity** (Ttlotfk).ᐟ
 
+${\color{#BF2A24}಄}$ [erisolsprites](https://github.com/erisolsprites) is pony town's **Erisolsprite**.ᐟ
+
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
@@ -219,6 +221,8 @@ ${\color{#BF2A24}಄}$ [NikaMokochi](https://github.com/NikaMokochi) is pony tow
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) is pony town's **GroxMC** (MCYT).ᐟ
+
+${\color{#BF2A24}಄}$ [oraclegordon](https://github.com/oraclegordon) is pony town's **Barbara Gordon**.ᐟ
 
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
@@ -567,6 +571,8 @@ ${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [Mang
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
+
+${\color{#00B47E}಄}$ [subsp4ce](https://github.com/subsp4ce) & [cometcarnage](https://github.com/cometcarnage) as pony town's **Subkit** (Subspace and Medkit) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [T0R4X](https://github.com/T0R4X) & [Noctiluvancy](https://github.com/Noctiluvancy) as pony town's **Heavymedic** (TF2) couple.ᐟ
 
