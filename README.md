@@ -80,6 +80,8 @@ ${\color{#BF2A24}಄}$ [applemorph](https://github.com/applemorph) is pony town'
 
 ${\color{#BF2A24}಄}$ [andreslopper](https://github.com/andreslopper) is pony town's **Opera** (Mairimashita Iruma Kun).ᐟ
 
+${\color{#BF2A24}಄}$ [AntoneIIi](https://github.com/AntoneIIi) is pony town's **Kimi Antonelli**.ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -194,6 +196,8 @@ ${\color{#BF2A24}಄}$ [LAWRlE](https://github.com/LAWRlE) is pony town's **Lawr
 
 ${\color{#BF2A24}಄}$ [lonesomestreet](https://github.com/lonesomestreet) is pony town's **Graham Coxon** (Blur).ᐟ
 
+${\color{#BF2A24}಄}$ [Iwasbehindit](https://github.com/Iwasbehindit) is pony town's **Alex Kralie** (Marble Hornets).ᐟ
+
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
 
 ${\color{#BF2A24}಄}$ [MaceGrounds](https://github.com/MaceGrounds) is pony town's **Parrotx2**.ᐟ
@@ -223,6 +227,8 @@ ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is po
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) is pony town's **GroxMC** (MCYT).ᐟ
 
 ${\color{#BF2A24}಄}$ [oraclegordon](https://github.com/oraclegordon) is pony town's **Barbara Gordon**.ᐟ
+
+${\color{#BF2A24}಄}$ [OutCold800](https://github.com/OutCold800) is pony town's **Ice Bear** (Medved).ᐟ
 
 ${\color{#BF2A24}಄}$ [pupfies](https://github.com/pupfies) is pony town's **Wifies**.ᐟ
 
@@ -261,6 +267,8 @@ ${\color{#BF2A24}಄}$ [ringodemon](https://github.com/ringodemon) is pony town'
 ${\color{#BF2A24}಄}$ [rydenyuri](https://github.com/rydenyuri) is pony town's **Ryan Ross** (Panic At The Disco).ᐟ
 
 ${\color{#BF2A24}಄}$ [rainedscythe](https://github.com/rainedscythe) is pony town's **Hugo Vlad** (ZZZ).ᐟ
+
+${\color{#BF2A24}಄}$ [ReplicaOfAffection](https://github.com/ReplicaOfAffection) is pony town's **Fukua** (Skullgirls).ᐟ
 
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
@@ -332,7 +340,7 @@ ${\color{#BF2A24}಄}$ [01yaoimaster](https://github.com/01yaoimaster) is pony t
 
 ${\color{#BF2A24}಄}$ [1-upboy](https://github.com/1-upboy) is pony town's **Mario** (Super Mario bros).ᐟ
 
-${\color{#BF2A24}಄}$ [2ulloxCaptor](https://github.com/2ulloxCaptor) is pony town's **Sollux** (Homestuck).ᐟ
+${\color{#BF2A24}಄}$ [2ulloxCaptor](https://github.com/2ulloxCaptor) is pony town's **2ullox** (Homestuck).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -465,6 +473,8 @@ ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (L
 ${\color{#CC9543}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is **Dot Barrett's** (Mashle) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [lovelydrug](https://github.com/lovelydrug) is **Sylus's** yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [Iwasbehindit](https://github.com/Iwasbehindit) is **Khonshu's** (Moonknight)yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) is **Demoman's** (Team Fortress 2) yumeshipper.ᐟ
 
