@@ -82,6 +82,8 @@ ${\color{#BF2A24}಄}$ [andreslopper](https://github.com/andreslopper) is pony t
 
 ${\color{#BF2A24}಄}$ [AntoneIIi](https://github.com/AntoneIIi) is pony town's **Kimi Antonelli**.ᐟ
 
+${\color{#BF2A24}಄}$ [amechanirl](https://github.com/amechanirl) is pony town's **Ame-Chan/Kangel** (Needy Streamer Overdose).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -115,6 +117,10 @@ ${\color{#BF2A24}಄}$ [CherrieJam](https://github.com/CherrieJam) is pony town'
 ${\color{#BF2A24}಄}$ [chipwhisp](https://github.com/chipwhisp) is pony town's **Spiderman Noir**.ᐟ
 
 ${\color{#BF2A24}಄}$ [calemholic](https://github.com/calemholic) is pony town's **Calem** (Pokémon).ᐟ
+
+${\color{#BF2A24}಄}$ [Crazybloxer](https://github.com/Crazybloxer) is pony town's **Crazyblox** (Roblox/Floodescape).ᐟ
+
+${\color{#BF2A24}಄}$ [coinsflips](https://github.com/coinsflips) is pony town's **Chance** (Forsaken).ᐟ
 
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
@@ -159,8 +165,6 @@ ${\color{#BF2A24}಄}$ [fragileflaw](https://github.com/fragileflaw) is pony tow
 ${\color{#BF2A24}಄}$ [Fleta-Z](https://github.com/Fleta-Z) is pony town's **Fleta Z** (Metal Cardbots).ᐟ
 
 ${\color{#BF2A24}಄}$ [flaskofvodka](https://github.com/flaskofvodka) is pony town's **Tom** (Eddsworld).ᐟ
-
-${\color{#BF2A24}಄}$ [gamblersi](https://github.com/gamblersi) is pony town's **Chance** (Forsaken).ᐟ
 
 ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is pony town's **Loki Laufeyson** (Marvel).ᐟ
 
@@ -314,6 +318,8 @@ ${\color{#BF2A24}಄}$ [TrenchDogs](https://github.com/TrenchDogs) is pony town'
 
 ${\color{#BF2A24}಄}$ [T0R4X](https://github.com/T0R4X) is pony town's **Medic** (TF2).ᐟ
 
+${\color{#BF2A24}಄}$ [theresonatingpulse](https://github.com/theresonatingpulse) is pony town's **Cooler Boombox Skin** (Phighting).ᐟ
+
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
@@ -329,6 +335,10 @@ ${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is po
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
 ${\color{#BF2A24}಄}$ [yubelsrevenge](https://github.com/yubelsrevenge) is pony town's **Judai Yuki** (Yugioh GX).ᐟ
+
+${\color{#BF2A24}಄}$ [yurinpd](https://github.com/yurinpd) is pony town's **Sancho** (Limbus Company).ᐟ
+
+${\color{#BF2A24}಄}$ [zydr4t3](https://github.com/zydr4t3) is pony town's **Dan Mandel** (Dan VS.).ᐟ
 
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
 
@@ -367,6 +377,8 @@ ${\color{#689031}಄}$ [casino-flush](https://github.com/casino-flush) fictkin/h
 
 ${\color{#689031}಄}$ [CosmeticStar](https://github.com/CosmeticStar) fictkin/heavykins's **Mommy Mearest** (Friday Night Funkin).ᐟ
 
+${\color{#689031}಄}$ [Crazybloxer](https://github.com/Crazybloxer) fictkin/heavykins's **Crazyblox** (Roblox/Floodescape).ᐟ
+
 ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
 ${\color{#689031}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) fictkin/heavykins's **Blitz** (Helluva Boss).ᐟ
@@ -400,6 +412,8 @@ ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavyki
 ${\color{#689031}಄}$ [Iiquidsmooth](https://github.com/Iiquidsmooth) fictkin/heavykins's **Eggchan**.ᐟ
 
 ${\color{#689031}಄}$ [MangoestMango](https://github.com/MangoestMango) fictkin/heavykins's **Falsity**.ᐟ
+
+${\color{#689031}಄}$ [MissingTextuer](https://github.com/MissingTextuer) fictkin/heavykins's **Fangsworth** (Regretevator).ᐟ
 
 ${\color{#689031}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) fictkin/heavykins's **Natural Harmonia Gropius** (Pokémon).ᐟ
 
@@ -467,6 +481,8 @@ ${\color{#CC9543}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is **Ab
 ${\color{#CC9543}಄}$ [fragileflaw](https://github.com/fragileflaw) is **Jake Lockley's** (Moon Knight) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [forgedshadows](https://github.com/forgedshadows) is **Akuma's** (Street Fighter) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [f4ng3d0utt](https://github.com/f4ng3d0utt) is **Toji Fushiguro** (Jujutsu Kaisen) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [H41ko0](https://github.com/H41ko0) is **Fire Ring's** (Let Him Go) yumeshipper.ᐟ
 
@@ -612,5 +628,7 @@ ${\color{#CDD537}಄}$ [pwppy](https://github.com/pwppy) is pony town's **Puppy*
 ${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
 ${\color{#CDD537}಄}$ [PixieStixxPT](https://github.com/PixieStixxPT) is pony town's **Silliest Clown / SillyString**.ᐟ
+
+${\color{#CDD537}಄}$ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) is pony town's **Cat Shark**.ᐟ
 
 ![](https://files.catbox.moe/x3ev40.png)
