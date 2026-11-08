@@ -162,7 +162,7 @@ ${\color{#BF2A24}಄}$ [fuwafuransu](https://github.com/fuwafuransu) is pony tow
 
 ${\color{#BF2A24}಄}$ [fragileflaw](https://github.com/fragileflaw) is pony town's **Zodiac** (Moon Knight).ᐟ
 
-{\color{#BF2A24}಄}$ [fou11egacy](https://github.com/fou11egacy) is pony town's **Childe** (Genshin).ᐟ
+${\color{#BF2A24}಄}$ [fou11egacy](https://github.com/fou11egacy) is pony town's **Childe** (Genshin).ᐟ
 
 ${\color{#BF2A24}಄}$ [Fleta-Z](https://github.com/Fleta-Z) is pony town's **Fleta Z** (Metal Cardbots).ᐟ
 
