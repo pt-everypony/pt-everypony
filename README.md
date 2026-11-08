@@ -162,6 +162,8 @@ ${\color{#BF2A24}಄}$ [fuwafuransu](https://github.com/fuwafuransu) is pony tow
 
 ${\color{#BF2A24}಄}$ [fragileflaw](https://github.com/fragileflaw) is pony town's **Zodiac** (Moon Knight).ᐟ
 
+{\color{#BF2A24}಄}$ [fou11egacy](https://github.com/fou11egacy) is pony town's **Childe** (Genshin).ᐟ
+
 ${\color{#BF2A24}಄}$ [Fleta-Z](https://github.com/Fleta-Z) is pony town's **Fleta Z** (Metal Cardbots).ᐟ
 
 ${\color{#BF2A24}಄}$ [flaskofvodka](https://github.com/flaskofvodka) is pony town's **Tom** (Eddsworld).ᐟ
@@ -320,6 +322,8 @@ ${\color{#BF2A24}಄}$ [T0R4X](https://github.com/T0R4X) is pony town's **Medic*
 
 ${\color{#BF2A24}಄}$ [theresonatingpulse](https://github.com/theresonatingpulse) is pony town's **Cooler Boombox Skin** (Phighting).ᐟ
 
+${\color{#BF2A24}಄}$ [thirdlotusprince](https://github.com/thirdlotusprince) is pony town's **Nezha** (Kego Monkie Kid).ᐟ
+
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
@@ -337,6 +341,8 @@ ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yao
 ${\color{#BF2A24}಄}$ [yubelsrevenge](https://github.com/yubelsrevenge) is pony town's **Judai Yuki** (Yugioh GX).ᐟ
 
 ${\color{#BF2A24}಄}$ [yurinpd](https://github.com/yurinpd) is pony town's **Sancho** (Limbus Company).ᐟ
+
+${\color{#BF2A24}಄}$ [yaoikat](https://github.com/yaoikat) is pony town's **Armand** (The Vampire Chronicles).ᐟ
 
 ${\color{#BF2A24}಄}$ [zydr4t3](https://github.com/zydr4t3) is pony town's **Dan Mandel** (Dan VS.).ᐟ
 
@@ -596,6 +602,8 @@ ${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [Mang
 
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
+${\color{#00B47E}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) & [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) as pony town's **Fez** (Fez & Offline Fez) duo.ᐟ
+
 ${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
 
 ${\color{#00B47E}಄}$ [subsp4ce](https://github.com/subsp4ce) & [cometcarnage](https://github.com/cometcarnage) as pony town's **Subkit** (Subspace and Medkit) duo.ᐟ
@@ -628,6 +636,8 @@ ${\color{#CDD537}಄}$ [pwppy](https://github.com/pwppy) is pony town's **Puppy*
 ${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
 ${\color{#CDD537}಄}$ [PixieStixxPT](https://github.com/PixieStixxPT) is pony town's **Silliest Clown / SillyString**.ᐟ
+
+${\color{#CDD537}಄}$ [pawesomerz](https://github.com/pawesomerz) is pony town's **Kitty**.ᐟ
 
 ${\color{#CDD537}಄}$ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) is pony town's **Cat Shark**.ᐟ
 
