@@ -174,6 +174,8 @@ ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony tow
 
 ${\color{#BF2A24}಄}$ [hood-net](https://github.com/hood-net) is pony town's **Jason Todd** (DC).ᐟ
 
+${\color{#BF2A24}಄}$ [holl0wpvrple](https://github.com/holl0wpvrple) is pony town's **Satoru Gojo**.ᐟ
+
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
 ${\color{#BF2A24}಄}$ [iwanttoholdyourhand](https://github.com/iwanttoholdyourhand) is pony town's **James Madison**.ᐟ
