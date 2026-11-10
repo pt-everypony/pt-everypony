@@ -471,9 +471,13 @@ ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's *
 
 ${\color{#689031}಄}$ [velvettoru](https://github.com/velvettoru) fictkin/heavykins's **Manjiro Sano** (Tokyo Revengers).ᐟ
 
+${\color{#689031}಄}$ [voidpup](https://github.com/voidpup) fictkin/heavykins's **Noli** (Roblox/Forsaken).ᐟ
+
 ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
 
 ${\color{#689031}಄}$ [5P-25](https://github.com/5P-25) fictkin/heavykins's **Five Pebbles** (Rain World).ᐟ
+
+${\color{#689031}಄}$ [0SEVN7](https://github.com/0SEVN7) fictkin/heavykins's **007n7** (Roblox/Forsaken).ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
