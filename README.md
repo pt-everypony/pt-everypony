@@ -84,6 +84,8 @@ ${\color{#BF2A24}಄}$ [AntoneIIi](https://github.com/AntoneIIi) is pony town's 
 
 ${\color{#BF2A24}಄}$ [amechanirl](https://github.com/amechanirl) is pony town's **Ame-Chan/Kangel** (Needy Streamer Overdose).ᐟ
 
+${\color{#BF2A24}಄}$ [Atychiphxbia](https://github.com/Atychiphxbia) is pony town's **Predisaster Medkit** (Phighting).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -91,6 +93,8 @@ ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) i
 ${\color{#BF2A24}಄}$ [bunnypaws](https://github.com/bunnypaws) is pony town's **Lady Killer** (Calling All Villains).ᐟ
 
 ${\color{#BF2A24}಄}$ [Blame-John](https://github.com/Blame-John) is pony town's **John Shedletsky** (Roblox).ᐟ
+
+${\color{#BF2A24}಄}$ [BoxTheCannibalContainer](https://github.com/BoxTheCannibalContainer) is pony town's **Spool** (Objectified).ᐟ
 
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
@@ -232,6 +236,10 @@ ${\color{#BF2A24}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) i
 
 ${\color{#BF2A24}಄}$ [NikaMokochi](https://github.com/NikaMokochi) is pony town's **Pizza Guy** (Pizza Game Beta).ᐟ
 
+${\color{#BF2A24}಄}$ [Nadd-nadd](https://github.com/Nadd-nadd) is pony town's **Katsuki Bakugo** (MHA).ᐟ
+
+${\color{#BF2A24}಄}$ [null-leader](https://github.com/null-leader) is pony town's **Loppezz** (MCYT).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) is pony town's **GroxMC** (MCYT).ᐟ
@@ -328,6 +336,8 @@ ${\color{#BF2A24}಄}$ [theresonatingpulse](https://github.com/theresonatingpuls
 
 ${\color{#BF2A24}಄}$ [thirdlotusprince](https://github.com/thirdlotusprince) is pony town's **Nezha** (Kego Monkie Kid).ᐟ
 
+${\color{#BF2A24}಄}$ [Trickzterrr](https://github.com/Trickzterrr) is pony town's **Ultron**.ᐟ
+
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
@@ -408,6 +418,8 @@ ${\color{#689031}಄}$ [flaskofvodka](https://github.com/flaskofvodka) fictkin/h
 ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictkin/heavykins's **Loki Laufeyson** (Marvel).ᐟ
 
 ${\color{#689031}಄}$ [Gatita-here](https://github.com/Gatita-here) fictkin/heavykins's **GroxMC** (MCYT).ᐟ
+
+${\color{#689031}಄}$ [hopeIesslydevoted](https://github.com/hopeIesslydevoted) fictkin/heavykins's **mizuki akiyama**.ᐟ
 
 ${\color{#689031}಄}$ [itrap-2245](https://github.com/itrap-2245) fictkin/heavykins's **Itrapped**.ᐟ
 
@@ -613,6 +625,8 @@ ${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [
 ${\color{#00B47E}಄}$ [subsp4ce](https://github.com/subsp4ce) & [cometcarnage](https://github.com/cometcarnage) as pony town's **Subkit** (Subspace and Medkit) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [T0R4X](https://github.com/T0R4X) & [Noctiluvancy](https://github.com/Noctiluvancy) as pony town's **Heavymedic** (TF2) couple.ᐟ
+
+${\color{#00B47E}಄}$ [voidpup](https://github.com/voidpup) & [0SEVN7](https://github.com/0SEVN7) as pony town's **Noli & 007n7** (Roblox/Forsaken) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [zemifhhh](https://github.com/zemifhhh) & [flaskofvodka](https://github.com/flaskofvodka) as pony town's **TomTord** (Eddsworld) couple.ᐟ
 
