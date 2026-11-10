@@ -86,6 +86,8 @@ ${\color{#BF2A24}಄}$ [amechanirl](https://github.com/amechanirl) is pony town'
 
 ${\color{#BF2A24}಄}$ [Atychiphxbia](https://github.com/Atychiphxbia) is pony town's **Predisaster Medkit** (Phighting).ᐟ
 
+${\color{#BF2A24}಄}$ [abyssegoistT](https://github.com/abyssegoistT) is pony town's **X** (To Be Hero X).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -543,6 +545,8 @@ ${\color{#CC9543}಄}$ [velvettoru](https://github.com/velvettoru) is **Satoru G
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ n.1\ "shipname"\ shipper!}$$
   
 </details>
+
+${\color{#FF3060}಄}$ [abyssegoistT](https://github.com/abyssegoistT) N.1 **Shadowvanilla** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [dandypilled](https://github.com/dandypilled) N.1 **flowerberry** shipper.ᐟ
 
