@@ -100,6 +100,8 @@ ${\color{#BF2A24}಄}$ [Blame-John](https://github.com/Blame-John) is pony town'
 
 ${\color{#BF2A24}಄}$ [BoxTheCannibalContainer](https://github.com/BoxTheCannibalContainer) is pony town's **Spool** (Objectified).ᐟ
 
+${\color{#BF2A24}಄}$ [bannysuperman](https://github.com/bannysuperman) is pony town's **Clark Kent** (DC).ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokémon).ᐟ
