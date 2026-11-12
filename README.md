@@ -40,7 +40,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [50Ocigarettes](https://github.com/50Ocigarettes) ⸝ [purefatal](https://github.com/purefatal)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy) ⸝ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) ⸝ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper)
 
@@ -87,6 +87,8 @@ ${\color{#BF2A24}಄}$ [amechanirl](https://github.com/amechanirl) is pony town'
 ${\color{#BF2A24}಄}$ [Atychiphxbia](https://github.com/Atychiphxbia) is pony town's **Predisaster Medkit** (Phighting).ᐟ
 
 ${\color{#BF2A24}಄}$ [abyssegoistT](https://github.com/abyssegoistT) is pony town's **X** (To Be Hero X).ᐟ
+
+${\color{#BF2A24}಄}$ [AdiosT0reador](https://github.com/AdiosT0reador) is pony town's **Bobette Carolynne** (Dandy's World).ᐟ
 
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
@@ -302,7 +304,7 @@ ${\color{#BF2A24}಄}$ [Stars-Traveler](https://github.com/Stars-Traveler) is po
 
 ${\color{#BF2A24}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Booker** (Drawnout).ᐟ
 
-${\color{#BF2A24}಄}$ [sirencore](https://github.com/sirencore) is pony town's **One** (BFDI).ᐟ
+${\color{#BF2A24}಄}$ [sweetdovey](https://github.com/sweetdovey) is pony town's **One** (BFDI).ᐟ
 
 ${\color{#BF2A24}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) is pony town's **Gabriel** (Ultrakill).ᐟ
 
@@ -324,6 +326,12 @@ ${\color{#BF2A24}಄}$ [sxphyrin](https://github.com/sxphyrin) is pony town's **
 
 ${\color{#BF2A24}಄}$ [spam-tune](https://github.com/spam-tune) is pony town's **Tenna** (Deltarune).ᐟ
 
+${\color{#BF2A24}಄}$ [sanguinesilence](https://github.com/sanguinesilence) is pony town's **Blot The Ink Blob** (Dandy's World).ᐟ
+
+${\color{#BF2A24}಄}$ [SweetSlingshot](https://github.com/SweetSlingshot) is pony town's **Slingshot** (Phighting).ᐟ
+
+${\color{#BF2A24}಄}$ [sea-shantyyy](https://github.com/sea-shantyyy) is pony town's **Telamon**.ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
@@ -341,6 +349,8 @@ ${\color{#BF2A24}಄}$ [theresonatingpulse](https://github.com/theresonatingpuls
 ${\color{#BF2A24}಄}$ [thirdlotusprince](https://github.com/thirdlotusprince) is pony town's **Nezha** (Kego Monkie Kid).ᐟ
 
 ${\color{#BF2A24}಄}$ [Trickzterrr](https://github.com/Trickzterrr) is pony town's **Ultron**.ᐟ
+
+${\color{#BF2A24}಄}$ [thatorangecatt](https://github.com/thatorangecatt) is pony town's **Shion Tatsunami** (Saihate Station).ᐟ
 
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
@@ -459,7 +469,7 @@ ${\color{#689031}಄}$ [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHU
 
 ${\color{#689031}಄}$ [Supreme-Angel](https://github.com/Supreme-Angel) fictkin/heavykins's **Gabriel** (Ultrakill).ᐟ
 
-${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) fictkin/heavykins's **Shelly** (Dandy's World).ᐟ
+${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) fictkin/heavykins's **Shelly** (DwitheringpetalsWorld).ᐟ
 
 ${\color{#689031}಄}$ [starfollower](https://github.com/starfollower) fictkin/heavykins's **Rocket** (Phighting).ᐟ
 
@@ -474,6 +484,8 @@ ${\color{#689031}಄}$ [velvettoru](https://github.com/velvettoru) fictkin/heavy
 ${\color{#689031}಄}$ [voidpup](https://github.com/voidpup) fictkin/heavykins's **Noli** (Roblox/Forsaken).ᐟ
 
 ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
+
+${\color{#689031}಄}$ [witheringpetals](https://github.com/witheringpetals) fictkin/heavykins's **Azurewrath**.ᐟ
 
 ${\color{#689031}಄}$ [5P-25](https://github.com/5P-25) fictkin/heavykins's **Five Pebbles** (Rain World).ᐟ
 
@@ -530,6 +542,8 @@ ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yum
 
 ${\color{#CC9543}಄}$ [rydenyuri](https://github.com/rydenyuri) is **Verity's** (MC) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [ringodemon](https://github.com/ringodemon) is **Kimblee's** (Fullmetal Alchemist) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [starfollower](https://github.com/starfollower) is **Sword's** (Phighting) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
@@ -537,6 +551,8 @@ ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **As
 ${\color{#CC9543}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is **Vox's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [velvettoru](https://github.com/velvettoru) is **Satoru Gojo's** yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [witheringpetals](https://github.com/witheringpetals) is hyper-sharing **Two Time's** yumeshipper.ᐟ
 
 ![](https://files.catbox.moe/iagaj1.png)
 
@@ -626,9 +642,13 @@ ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](htt
 
 ${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [MangoestMango](https://github.com/MangoestMango) as pony town's **Xqree & Falsity** duo.ᐟ
 
+${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [ThosePizz4s](https://github.com/ThosePizz4s) & [LawrieLover](https://github.com/LawrieLover) as pony town's goated **TSMP** trio.ᐟ
+
 ${\color{#00B47E}಄}$ [PLANETLORDD](https://github.com/PLANETLORDD) & [doomsdayduo](https://github.com/DOOMSDAYDUO) as pony town's **Pride** (Lifesteal) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) & [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) as pony town's **Fez** (Fez & Offline Fez) duo.ᐟ
+
+${\color{#00B47E}಄}$ [sanguinesilence](https://github.com/sanguinesilence) & [ASTROSLAMENT](https://github.com/ASTROSLAMENT) as pony town's **Newmoon** (Blot x Astro Dandy's World) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
 
