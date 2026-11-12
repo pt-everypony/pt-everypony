@@ -274,8 +274,6 @@ ${\color{#BF2A24}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosio
 
 ${\color{#BF2A24}಄}$ [perishallmortals](https://github.com/perishallmortals) is pony town's **Beelzebub** (Helluva Boss).ᐟ
 
-${\color{#BF2A24}಄}$ [Puppipilled](https://github.com/Puppipilled) is pony town's **Stan Marsh** (South Park).ᐟ
-
 ${\color{#BF2A24}಄}$ [PandemoniumParty](https://github.com/PandemoniumParty) is pony town's **Uzuki** (Under Night In-Birth II).ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
