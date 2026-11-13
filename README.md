@@ -44,7 +44,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart) ⸝ [sketchyremorse](https://github.com/sketchyremorse)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart) ⸝ [sketchyremorse](https://github.com/sketchyremorse) ⸝ [buncest](https://github.com/buncest)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
 
@@ -164,6 +164,8 @@ ${\color{#BF2A24}಄}$ [evilmustdie](https://github.com/evilmustdie) is pony tow
 
 ${\color{#BF2A24}಄}$ [erisolsprites](https://github.com/erisolsprites) is pony town's **Erisolsprite**.ᐟ
 
+${\color{#BF2A24}಄}$ [elli0tthec00ll](https://github.com/elli0tthec00ll) is pony town's **Alyssa** (Letters From Sixteen).ᐟ
+
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
@@ -182,11 +184,15 @@ ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is po
 
 ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony town's **Mapicc**.ᐟ
 
+${\color{#BF2A24}಄}$ [greggingit](https://github.com/greggingit) is pony town's **Adler Hoffman** (Reverse 1999).ᐟ
+
 ${\color{#BF2A24}಄}$ [hood-net](https://github.com/hood-net) is pony town's **Jason Todd** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [holl0wpvrple](https://github.com/holl0wpvrple) is pony town's **Satoru Gojo**.ᐟ
 
 ${\color{#BF2A24}಄}$ [heavenslapdog](https://github.com/heavenslapdog) is pony town's **Monkie Kid** (Lego Monkie Kid).ᐟ
+
+${\color{#BF2A24}಄}$ [haloed-heathen](https://github.com/haloed-heathen) is pony town's **Good/Hot** (Object Cringe).ᐟ
 
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
@@ -372,6 +378,8 @@ ${\color{#BF2A24}಄}$ [yurinpd](https://github.com/yurinpd) is pony town's **Sa
 
 ${\color{#BF2A24}಄}$ [yaoikat](https://github.com/yaoikat) is pony town's **Armand** (The Vampire Chronicles).ᐟ
 
+${\color{#BF2A24}಄}$ [yunilaili](https://github.com/yunilaili) is pony town's **Xeladrag** (The Void Cult Roblox).ᐟ
+
 ${\color{#BF2A24}಄}$ [zydr4t3](https://github.com/zydr4t3) is pony town's **Dan Mandel** (Dan VS.).ᐟ
 
 ${\color{#BF2A24}಄}$ [17footrollingdice](https://github.com/17footrollingdice) is pony town's **Shwe** (Russian Alphabet Lore Reloaded).ᐟ
@@ -439,6 +447,8 @@ ${\color{#689031}಄}$ [itrap-2245](https://github.com/itrap-2245) fictkin/heavy
 
 ${\color{#689031}಄}$ [Jeverus](https://github.com/Jeverus) fictkin/heavykins's **Slasher** (Forsaken).ᐟ
 
+${\color{#689031}಄}$ [jaidensr](https://github.com/jaidensr) fictkin/heavykins's **Roier** (QSMP).ᐟ
+
 ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin/heavykins's **Viktor** (Arcane).ᐟ
 
 ${\color{#689031}಄}$ [kniferrific](https://github.com/kniferrific) fictkin/heavykins's **Itzskeetxd662** (Itzskeet_playz ARG).ᐟ
@@ -505,6 +515,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ "character's"\ y
 
 ${\color{#CC9543}಄}$ [act-of-love](https://github.com/act-of-love) is **Arthur Morgan's** (RDR2) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [ayatosbathwater](https://github.com/ayatosbathwater) is **Kamisato Ayato's** yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
@@ -545,6 +557,8 @@ ${\color{#CC9543}಄}$ [rydenyuri](https://github.com/rydenyuri) is **Verity's**
 ${\color{#CC9543}಄}$ [ringodemon](https://github.com/ringodemon) is **Kimblee's** (Fullmetal Alchemist) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [starfollower](https://github.com/starfollower) is **Sword's** (Phighting) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [ThosePizz4s](https://github.com/ThosePizz4s) is **Apart** (Sakamoto Days) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [VAMPIRE-SPAWN](https://github.com/VAMPIRE-SPAWN) is **Astarion's** (Baldurs Gate 3) yumeshipper.ᐟ
 
@@ -640,6 +654,8 @@ ${\color{#00B47E}಄}$ [mikethebrave](https://github.com/mikethebrave) & [Append
 
 ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](https://github.com/sasukyo) as pony town's **Naruto Uzumaki & Sasuke Uchiha** couple.ᐟ
 
+${\color{#00B47E}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) & [hollylace](https://github.com/hollylace) as pony town's **Christmasshow** (Bobette x Vee) couple.ᐟ
+
 ${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [MangoestMango](https://github.com/MangoestMango) as pony town's **Xqree & Falsity** duo.ᐟ
 
 ${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [ThosePizz4s](https://github.com/ThosePizz4s) & [LawrieLover](https://github.com/LawrieLover) as pony town's goated **TSMP** trio.ᐟ
@@ -676,6 +692,8 @@ $${\color{#87896A}but\ everyone\ is\ welcome\ if\ you\ only\ like\ it\ !!}$$
 $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "apple"!}$$
   
 </details>
+
+${\color{#CDD537}಄}$ [buncest](https://github.com/buncest) is pony town's **Bunny**.ᐟ
 
 ${\color{#CDD537}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is pony town's **Kiwi**.ᐟ
 
