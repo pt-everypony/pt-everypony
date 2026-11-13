@@ -338,6 +338,8 @@ ${\color{#BF2A24}಄}$ [SweetSlingshot](https://github.com/SweetSlingshot) is po
 
 ${\color{#BF2A24}಄}$ [sea-shantyyy](https://github.com/sea-shantyyy) is pony town's **Telamon**.ᐟ
 
+${\color{#BF2A24}಄}$ [saezushi](https://github.com/saezushi) is pony town's **Wanderer** (Genshin Impact).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
@@ -484,6 +486,8 @@ ${\color{#689031}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzian
 ${\color{#689031}಄}$ [starfollower](https://github.com/starfollower) fictkin/heavykins's **Rocket** (Phighting).ᐟ
 
 ${\color{#689031}಄}$ [steampunkitty](https://github.com/steampunkitty) fictkin/heavykins's **Lammy** (Um Jammer Lammy).ᐟ
+
+${\color{#689031}಄}$ [saezushi](https://github.com/saezushi) fictkin/heavykins's **Wanderer** (Genshin Impact).ᐟ
 
 ${\color{#689031}಄}$ [T0R4X](https://github.com/T0R4X) fictkin/heavykins's **Medic** (TF2).ᐟ
 
