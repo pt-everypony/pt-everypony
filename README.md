@@ -300,6 +300,8 @@ ${\color{#BF2A24}಄}$ [rainedscythe](https://github.com/rainedscythe) is pony t
 
 ${\color{#BF2A24}಄}$ [ReplicaOfAffection](https://github.com/ReplicaOfAffection) is pony town's **Fukua** (Skullgirls).ᐟ
 
+${\color{#BF2A24}಄}$ [ryomxnsukuna](https://github.com/ryomxnsukuna) is pony town's **Ryomen Sukuna** (Jujutsu Kaisen).ᐟ
+
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
@@ -703,11 +705,13 @@ ${\color{#CDD537}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is pony tow
 
 ${\color{#CDD537}಄}$ [pwppy](https://github.com/pwppy) is pony town's **Puppy**.ᐟ
 
-${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
-
 ${\color{#CDD537}಄}$ [PixieStixxPT](https://github.com/PixieStixxPT) is pony town's **Silliest Clown / SillyString**.ᐟ
 
 ${\color{#CDD537}಄}$ [pawesomerz](https://github.com/pawesomerz) is pony town's **Kitty**.ᐟ
+
+${\color{#CDD537}಄}$ [pur3lies](https://github.com/pur3lies) is pony town's **Jester**.ᐟ
+
+${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
 ${\color{#CDD537}಄}$ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) is pony town's **Cat Shark**.ᐟ
 
