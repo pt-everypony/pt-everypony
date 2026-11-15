@@ -94,6 +94,8 @@ ${\color{#BF2A24}಄}$ [arsonistflint](https://github.com/arsonistflint) is pony
 
 ${\color{#BF2A24}಄}$ [a1p1yuri](https://github.com/a1p1yuri) is pony town's **Fakeze** (Aregect).ᐟ
 
+${\color{#BF2A24}಄}$ [albaezdo](https://github.com/albaezdo) is pony town's **Albedo** (Genshin Impact).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -215,6 +217,8 @@ ${\color{#BF2A24}಄}$ [kapobeztia](https://github.com/kapobeztia) is pony town'
 ${\color{#BF2A24}಄}$ [kniferrific](https://github.com/kniferrific) is pony town's **Itzskeetxd662** (Itzskeet_playz ARG).ᐟ
 
 ${\color{#BF2A24}಄}$ [Kaban0z](https://github.com/Kaban0z) is pony town's **Adelaide-Dream** (Frozen Soul).ᐟ
+
+${\color{#BF2A24}಄}$ [Kurokaori](https://github.com/Kurokaori) is pony town's **Yatta The Pinata** (Dandy's World).ᐟ
 
 ${\color{#BF2A24}಄}$ [Liquidsmooth](https://github.com/Iiquidsmooth) is pony town's **Eggchan**.ᐟ
 
