@@ -23,7 +23,9 @@ bigger highly appropriate more ideas and creativity (˶ᵔ ᵕ ᵔ˶) ![](https:
 
 ${\color{#935429}(yes\ I'm\ aware\ of\ its\ ugliness\ I'm\ tired\ to\ make\ sum\ good)}$
 
-${\color{#E2522B}NOTE:}$ I love yall but please don't spam me about the same person whenever I make a mistake or they changed their github user I swear I read every gimmick no need to make your friends to come and spam about the same thing I'm not trying to be rude but it's really frustrating it does make me panic and paranoid that I did something bad with more than one person letting me know about it, if your the person who nominated than come and say it yourself or make ONE friend send it for you just please make sure to tell your friends not to send anything when you going to do it already, with much love take care💚.
+${\color{#E2522B}NOTE:}$
++ Don't spam about the same person to be added/removed/changed I see every gimmick.
++ Make sure to type your GitHub user correctly & don't add '@' in case it doesn't get sent.
 + please specify which category you want to be on I can't tell if you want to be on "everything category" when you only say "pony town's" I might mix it up with the character category.
 + for the pairs category tell me if it's a couple or a duo (or something else like familia etc) if you don't say it I will automatically assume and put it as a duo.
 
