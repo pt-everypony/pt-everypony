@@ -90,6 +90,10 @@ ${\color{#BF2A24}಄}$ [abyssegoistT](https://github.com/abyssegoistT) is pony t
 
 ${\color{#BF2A24}಄}$ [AdiosT0reador](https://github.com/AdiosT0reador) is pony town's **Bobette Carolynne** (Dandy's World).ᐟ
 
+${\color{#BF2A24}಄}$ [arsonistflint](https://github.com/arsonistflint) is pony town's **Flint Bonpyre** (Toontown Corporate Clash).ᐟ
+
+${\color{#BF2A24}಄}$ [a1p1yuri](https://github.com/a1p1yuri) is pony town's **Fakeze** (Aregect).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -301,6 +305,8 @@ ${\color{#BF2A24}಄}$ [rainedscythe](https://github.com/rainedscythe) is pony t
 ${\color{#BF2A24}಄}$ [ReplicaOfAffection](https://github.com/ReplicaOfAffection) is pony town's **Fukua** (Skullgirls).ᐟ
 
 ${\color{#BF2A24}಄}$ [ryomxnsukuna](https://github.com/ryomxnsukuna) is pony town's **Ryomen Sukuna** (Jujutsu Kaisen).ᐟ
+
+${\color{#BF2A24}಄}$ [R0TT3NB3RRY](https://github.com/R0TT3NB3RRY) is pony town's **Sprout Seedly** (Dandy’s World).ᐟ
 
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
