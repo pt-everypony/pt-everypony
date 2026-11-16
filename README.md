@@ -98,6 +98,8 @@ ${\color{#BF2A24}಄}$ [a1p1yuri](https://github.com/a1p1yuri) is pony town's **
 
 ${\color{#BF2A24}಄}$ [albaezdo](https://github.com/albaezdo) is pony town's **Albedo** (Genshin Impact).ᐟ
 
+${\color{#BF2A24}಄}$ [Aminafklol](https://github.com/Aminafklol) is pony town's **Looey** (Dandy's World).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -264,6 +266,8 @@ ${\color{#BF2A24}಄}$ [null-leader](https://github.com/null-leader) is pony tow
 
 ${\color{#BF2A24}಄}$ [N0VALIT3](https://github.com/N0VALIT3) is pony town's **Medkit** (Phighting).ᐟ
 
+${\color{#BF2A24}಄}$ [NaidenLove](https://github.com/NaidenLove) is pony town's **Dirk Strider** (Homestuck).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) is pony town's **GroxMC** (MCYT).ᐟ
@@ -374,6 +378,8 @@ ${\color{#BF2A24}಄}$ [Trickzterrr](https://github.com/Trickzterrr) is pony tow
 
 ${\color{#BF2A24}಄}$ [thatorangecatt](https://github.com/thatorangecatt) is pony town's **Shion Tatsunami** (Saihate Station).ᐟ
 
+${\color{#BF2A24}಄}$ [t0uchtonetelephone](https://github.com/t0uchtonetelephone) is pony town's **Cesar Torres** (Mandela Catalogue).ᐟ
+
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
@@ -423,6 +429,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ 
 
 ${\color{#689031}಄}$ [AppleBurst](https://github.com/AppleBurst) fictkin/heavykins's **AndreW2002** (Collinlock16 Continuity).ᐟ
 
+${\color{#689031}಄}$ [Aminafklol](https://github.com/Aminafklol) fictkin/heavykins's **Nitram** (Homestuck).ᐟ
+
 ${\color{#689031}಄}$ [BluuJayymes](https://github.com/BluuJayymes) fictkin/heavykins's **Leon Kennedy** (Resident evil).ᐟ
 
 ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
@@ -469,6 +477,8 @@ ${\color{#689031}಄}$ [KayleighJudas](https://github.com/KayleighJudas) fictkin
 
 ${\color{#689031}಄}$ [kniferrific](https://github.com/kniferrific) fictkin/heavykins's **Itzskeetxd662** (Itzskeet_playz ARG).ᐟ
 
+${\color{#689031}಄}$ [Kurokaori](https://github.com/Kurokaori) fictkin/heavykins's **Yatta The Pinata** (Dandy's World).ᐟ
+
 ${\color{#689031}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) fictkin/heavykins's **Andrew** (Bad Things).ᐟ
 
 ${\color{#689031}಄}$ [Iiquidsmooth](https://github.com/Iiquidsmooth) fictkin/heavykins's **Eggchan**.ᐟ
@@ -478,6 +488,8 @@ ${\color{#689031}಄}$ [MangoestMango](https://github.com/MangoestMango) fictkin
 ${\color{#689031}಄}$ [MissingTextuer](https://github.com/MissingTextuer) fictkin/heavykins's **Fangsworth** (Regretevator).ᐟ
 
 ${\color{#689031}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) fictkin/heavykins's **Natural Harmonia Gropius** (Pokémon).ᐟ
+
+${\color{#689031}಄}$ [NariTheMakoSh4rk](https://github.com/NariTheMakoSh4rk) fictkin/heavykins's **Contractee**.ᐟ
 
 ${\color{#689031}಄}$ [poisonedritual](https://github.com/poisonedritual) fictkin/heavykins's **Twotime**.ᐟ
 
@@ -562,7 +574,7 @@ ${\color{#CC9543}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is **Dot Ba
 
 ${\color{#CC9543}಄}$ [lovelydrug](https://github.com/lovelydrug) is **Sylus's** yumeshipper.ᐟ
 
-${\color{#CC9543}಄}$ [Iwasbehindit](https://github.com/Iwasbehindit) is **Khonshu's** (Moonknight)yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [Iwasbehindit](https://github.com/Iwasbehindit) is **Khonshu's** (Moonknight) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) is **Demoman's** (Team Fortress 2) yumeshipper.ᐟ
 
@@ -575,6 +587,8 @@ ${\color{#CC9543}಄}$ [rydenyuri](https://github.com/rydenyuri) is **Verity's**
 ${\color{#CC9543}಄}$ [ringodemon](https://github.com/ringodemon) is **Kimblee's** (Fullmetal Alchemist) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [starfollower](https://github.com/starfollower) is **Sword's** (Phighting) yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [sicklyrose](https://github.com/sicklyrose) is **Byakuya Togami's** Mirrorsharing yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [ThosePizz4s](https://github.com/ThosePizz4s) is **Apart** (Sakamoto Days) yumeshipper.ᐟ
 
