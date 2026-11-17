@@ -100,6 +100,8 @@ ${\color{#BF2A24}಄}$ [albaezdo](https://github.com/albaezdo) is pony town's **
 
 ${\color{#BF2A24}಄}$ [Aminafklol](https://github.com/Aminafklol) is pony town's **Looey** (Dandy's World).ᐟ
 
+${\color{#BF2A24}಄}$ [aeszz](https://github.com/aeszz) is pony town's **Ludwig Beilschmidt** (Hetalia).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
@@ -164,6 +166,12 @@ ${\color{#BF2A24}಄}$ [dr-vanta](https://github.com/dr-vanta) is pony town's **
 
 ${\color{#BF2A24}಄}$ [dandypilled](https://github.com/dandypilled) is pony town's **Dandy** (Dandy's World).ᐟ
 
+${\color{#BF2A24}಄}$ [dyletiming](https://github.com/dyletiming) is pony town's **Dyle** (Dandy's World).ᐟ
+
+${\color{#BF2A24}಄}$ [Davelowkey](https://github.com/Davelowkey) is pony town's **John/June Egbert** (Homestuck).ᐟ
+
+${\color{#BF2A24}಄}$ [doomedsoda](https://github.com/doomedsoda) is pony town's **Mafuyu**.ᐟ
+
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
 
 ${\color{#BF2A24}಄}$ [Epaxialfx](https://github.com/Epaxialfx) is pony town's **Epaxialfx** (MCYT).ᐟ
@@ -204,6 +212,8 @@ ${\color{#BF2A24}಄}$ [heavenslapdog](https://github.com/heavenslapdog) is pony
 
 ${\color{#BF2A24}಄}$ [haloed-heathen](https://github.com/haloed-heathen) is pony town's **Good/Hot** (Object Cringe).ᐟ
 
+${\color{#BF2A24}಄}$ [hauntedarchives](https://github.com/hauntedarchives) is pony town's **Brandon6875935** (Brandon Works).ᐟ
+
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
 ${\color{#BF2A24}಄}$ [iwanttoholdyourhand](https://github.com/iwanttoholdyourhand) is pony town's **James Madison**.ᐟ
@@ -235,6 +245,8 @@ ${\color{#BF2A24}಄}$ [LAWRlE](https://github.com/LAWRlE) is pony town's **Lawr
 ${\color{#BF2A24}಄}$ [lonesomestreet](https://github.com/lonesomestreet) is pony town's **Graham Coxon** (Blur).ᐟ
 
 ${\color{#BF2A24}಄}$ [Iwasbehindit](https://github.com/Iwasbehindit) is pony town's **Alex Kralie** (Marble Hornets).ᐟ
+
+${\color{#BF2A24}಄}$ [lilwaynxz](https://github.com/lilwaynxz) is pony town's **Captain America/Steve Rogers** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
 
@@ -317,6 +329,8 @@ ${\color{#BF2A24}಄}$ [ReplicaOfAffection](https://github.com/ReplicaOfAffectio
 ${\color{#BF2A24}಄}$ [ryomxnsukuna](https://github.com/ryomxnsukuna) is pony town's **Ryomen Sukuna** (Jujutsu Kaisen).ᐟ
 
 ${\color{#BF2A24}಄}$ [R0TT3NB3RRY](https://github.com/R0TT3NB3RRY) is pony town's **Sprout Seedly** (Dandy’s World).ᐟ
+
+${\color{#BF2A24}಄}$ [r0wlys](https://github.com/r0wlys) is pony town's **Link** (BOTW).ᐟ
 
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
@@ -453,6 +467,10 @@ ${\color{#689031}಄}$ [dr-vanta](https://github.com/dr-vanta) fictkin/heavykins
 
 ${\color{#689031}಄}$ [dandypilled](https://github.com/dandypilled) fictkin/heavykins's **Dandy** (Dandy's World).ᐟ
 
+${\color{#689031}಄}$ [dyletiming](https://github.com/dyletiming) fictkin/heavykins's **Dyle** (Dandy's World).ᐟ
+
+${\color{#689031}಄}$ [doomedsoda](https://github.com/doomedsoda) fictkin/heavykins's **Mafuyu**.ᐟ
+
 ${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
 
 ${\color{#689031}಄}$ [forgedshadows](https://github.com/forgedshadows) fictkin/heavykins's **Rumia** (Touhou Project).ᐟ
@@ -465,7 +483,9 @@ ${\color{#689031}಄}$ [god-of-stories](https://github.com/god-of-stories) fictk
 
 ${\color{#689031}಄}$ [Gatita-here](https://github.com/Gatita-here) fictkin/heavykins's **GroxMC** (MCYT).ᐟ
 
-${\color{#689031}಄}$ [hopeIesslydevoted](https://github.com/hopeIesslydevoted) fictkin/heavykins's **mizuki akiyama**.ᐟ
+${\color{#689031}಄}$ [hopeIesslydevoted](https://github.com/hopeIesslydevoted) fictkin/heavykins's **Mizuki akiyama**.ᐟ
+
+${\color{#689031}಄}$ [hauntedarchives](https://github.com/hauntedarchives) fictkin/heavykins's **Brandon6875935** (Brandon Works).ᐟ
 
 ${\color{#689031}಄}$ [itrap-2245](https://github.com/itrap-2245) fictkin/heavykins's **Itrapped**.ᐟ
 
@@ -618,6 +638,8 @@ ${\color{#FF3060}಄}$ [abyssegoistT](https://github.com/abyssegoistT) N.1 **Sha
 
 ${\color{#FF3060}಄}$ [dandypilled](https://github.com/dandypilled) N.1 **flowerberry** shipper.ᐟ
 
+${\color{#FF3060}಄}$ [dyletiming](https://github.com/dyletiming) N.1 **Timeknight/soulvester x dyle** shipper.ᐟ
+
 ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) N.1 **Sakusuorei** (Windbreaker) shipper.ᐟ
@@ -726,6 +748,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "app
 </details>
 
 ${\color{#CDD537}಄}$ [buncest](https://github.com/buncest) is pony town's **Bunny**.ᐟ
+
+${\color{#CDD537}಄}$ [dyletiming](https://github.com/dyletiming) is pony town's **Clock**.ᐟ
 
 ${\color{#CDD537}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is pony town's **Kiwi**.ᐟ
 
