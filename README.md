@@ -678,6 +678,8 @@ ${\color{#FF3060}಄}$ [MothlightSys](https://github.com/MothlightSys) N.1 **Bio
 
 ${\color{#FF3060}಄}$ [meichuu](https://github.com/meichuu) N.1 **Minewt** (Minho x Newt Maze Runner) shipper.ᐟ
 
+${\color{#FF3060}಄}$ [MxPuzzles](https://github.com/MxPuzzles) N.1 **Gunshow** shipper.ᐟ
+
 ${\color{#FF3060}಄}$ [nxvocaine](https://github.com/nxvocaine) N.1 **Kiribaku** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) N.1 **Sebskully** shipper.ᐟ
