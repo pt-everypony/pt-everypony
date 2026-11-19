@@ -372,6 +372,10 @@ ${\color{#BF2A24}಄}$ [sea-shantyyy](https://github.com/sea-shantyyy) is pony t
 
 ${\color{#BF2A24}಄}$ [saezushi](https://github.com/saezushi) is pony town's **Wanderer** (Genshin Impact).ᐟ
 
+${\color{#BF2A24}಄}$ [S9okeishere](https://github.com/S9okeishere) is pony town's **Commander** (UUSMP).ᐟ
+
+${\color{#BF2A24}಄}$ [sextaping](https://github.com/sextaping) is pony town's **Joey Jordison** (Slipknot Band).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
@@ -535,6 +539,8 @@ ${\color{#689031}಄}$ [steampunkitty](https://github.com/steampunkitty) fictkin
 
 ${\color{#689031}಄}$ [saezushi](https://github.com/saezushi) fictkin/heavykins's **Wanderer** (Genshin Impact).ᐟ
 
+${\color{#689031}಄}$ [S9okeishere](https://github.com/S9okeishere) fictkin/heavykins's **Commander** (UUSMP).ᐟ
+
 ${\color{#689031}಄}$ [T0R4X](https://github.com/T0R4X) fictkin/heavykins's **Medic** (TF2).ᐟ
 
 ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
@@ -567,7 +573,7 @@ ${\color{#CC9543}಄}$ [act-of-love](https://github.com/act-of-love) is **Arthur
 
 ${\color{#CC9543}಄}$ [ayatosbathwater](https://github.com/ayatosbathwater) is **Kamisato Ayato's** yumeshipper.ᐟ
 
-${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
+${\color{S9okeisher}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
 
@@ -601,6 +607,8 @@ ${\color{#CC9543}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) i
 ${\color{#CC9543}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) is **Natural Harmonia Gropius's** (Pokémon) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
+
+${\color{#CC9543}಄}$ [putmetorestimnotyourstosave](https://github.com/putmetorestimnotyourstosave) is **Bryan Hodukavich's** (Resident Evil Movie 2026) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [rydenyuri](https://github.com/rydenyuri) is **Verity's** (MC) yumeshipper.ᐟ
 
@@ -658,7 +666,7 @@ ${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh*
 
 ${\color{#FF3060}಄}$ [rydenyuri](https://github.com/rydenyuri) N.1 **Rydens** shipper.ᐟ
 
-${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Creamcola** shipper.ᐟ
+${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Mayabura** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) N.1 **Moonshell** shipper.ᐟ
 
@@ -720,6 +728,8 @@ ${\color{#00B47E}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosio
 
 ${\color{#00B47E}಄}$ [sanguinesilence](https://github.com/sanguinesilence) & [ASTROSLAMENT](https://github.com/ASTROSLAMENT) as pony town's **Newmoon** (Blot x Astro Dandy's World) couple.ᐟ
 
+${\color{#00B47E}಄}$ [S9okeishere](https://github.com/S9okeishere) & [1SPOKEISHERE](https://github.com/1SPOKEISHERE) as pony town's **Unspoken** (UUSMP) duo.ᐟ
+
 ${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
 
 ${\color{#00B47E}಄}$ [subsp4ce](https://github.com/subsp4ce) & [cometcarnage](https://github.com/cometcarnage) as pony town's **Subkit** (Subspace and Medkit) duo.ᐟ
@@ -727,6 +737,8 @@ ${\color{#00B47E}಄}$ [subsp4ce](https://github.com/subsp4ce) & [cometcarnage](
 ${\color{#00B47E}಄}$ [T0R4X](https://github.com/T0R4X) & [Noctiluvancy](https://github.com/Noctiluvancy) as pony town's **Heavymedic** (TF2) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [voidpup](https://github.com/voidpup) & [0SEVN7](https://github.com/0SEVN7) as pony town's **Noli & 007n7** (Roblox/Forsaken) couple.ᐟ
+
+${\color{#00B47E}಄}$ [yaoiadhd](https://github.com/yaoiadhd) & [yaoiautism](https://github.com/yaoiautism) as pony town's **Phainon & Mydei** (Honkai Star Rail) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [zemifhhh](https://github.com/zemifhhh) & [flaskofvodka](https://github.com/flaskofvodka) as pony town's **TomTord** (Eddsworld) couple.ᐟ
 
