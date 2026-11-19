@@ -114,6 +114,8 @@ ${\color{#BF2A24}಄}$ [BoxTheCannibalContainer](https://github.com/BoxTheCannib
 
 ${\color{#BF2A24}಄}$ [bannysuperman](https://github.com/bannysuperman) is pony town's **Clark Kent** (DC).ᐟ
 
+${\color{#BF2A24}಄}$ [b0nGwAtEr-o0](https://github.com/b0nGwAtEr-o0) is pony town's **Tavros Nitram** (Homestuck).ᐟ
+
 ${\color{#BF2A24}಄}$ [Chemicalshot](https://github.com/Chemicalshot) is pony town's **Wemmbu**.ᐟ
 
 ${\color{#BF2A24}಄}$ [cashreggister](https://github.com/cashreggister) is pony town's **Goomy** (Pokémon).ᐟ
@@ -264,6 +266,10 @@ ${\color{#BF2A24}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) i
 
 ${\color{#BF2A24}಄}$ [MangoestMango](https://github.com/MangoestMango) is pony town's **Falsity**.ᐟ
 
+${\color{#BF2A24}಄}$ [mortisfication](https://github.com/mortisfication) is pony town's **Chris Redfield** (Resident Evil ).ᐟ
+
+${\color{#BF2A24}಄}$ [meichuu](https://github.com/meichuu) is pony town's **Newt** (Maze Runner).ᐟ
+
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [nnyanruto](https://github.com/nnyanruto) is pony town's **Naruto Uzumaki**.ᐟ
@@ -376,6 +382,8 @@ ${\color{#BF2A24}಄}$ [S9okeishere](https://github.com/S9okeishere) is pony tow
 
 ${\color{#BF2A24}಄}$ [sextaping](https://github.com/sextaping) is pony town's **Joey Jordison** (Slipknot Band).ᐟ
 
+${\color{#BF2A24}಄}$ [saucebxsss](https://github.com/saucebxsss) is pony town's **Katie B** (QSMP).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
@@ -397,6 +405,8 @@ ${\color{#BF2A24}಄}$ [Trickzterrr](https://github.com/Trickzterrr) is pony tow
 ${\color{#BF2A24}಄}$ [thatorangecatt](https://github.com/thatorangecatt) is pony town's **Shion Tatsunami** (Saihate Station).ᐟ
 
 ${\color{#BF2A24}಄}$ [t0uchtonetelephone](https://github.com/t0uchtonetelephone) is pony town's **Cesar Torres** (Mandela Catalogue).ᐟ
+
+${\color{#BF2A24}಄}$ [twhiddleston](https://github.com/twhiddleston) is pony town's **Thomas Sharpe** (Crimson Peak).ᐟ
 
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
@@ -511,6 +521,8 @@ ${\color{#689031}಄}$ [MangoestMango](https://github.com/MangoestMango) fictkin
 
 ${\color{#689031}಄}$ [MissingTextuer](https://github.com/MissingTextuer) fictkin/heavykins's **Fangsworth** (Regretevator).ᐟ
 
+${\color{#689031}಄}$ [meichuu](https://github.com/meichuu) fictkin/heavykins's **Newt** (Maze Runner).ᐟ
+
 ${\color{#689031}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) fictkin/heavykins's **Natural Harmonia Gropius** (Pokémon).ᐟ
 
 ${\color{#689031}಄}$ [NariTheMakoSh4rk](https://github.com/NariTheMakoSh4rk) fictkin/heavykins's **Contractee**.ᐟ
@@ -541,7 +553,11 @@ ${\color{#689031}಄}$ [saezushi](https://github.com/saezushi) fictkin/heavykins
 
 ${\color{#689031}಄}$ [S9okeishere](https://github.com/S9okeishere) fictkin/heavykins's **Commander** (UUSMP).ᐟ
 
+${\color{#689031}಄}$ [sanguinesilence](https://github.com/sanguinesilence) fictkin/heavykins's **Blot The Ink Blob** (Dandy's World).ᐟ
+
 ${\color{#689031}಄}$ [T0R4X](https://github.com/T0R4X) fictkin/heavykins's **Medic** (TF2).ᐟ
+
+${\color{#689031}಄}$ [twhiddleston](https://github.com/twhiddleston) fictkin/heavykins's **Thomas Sharpe** (Crimson Peak).ᐟ
 
 ${\color{#689031}಄}$ [vraxyn](https://github.com/vraxyn) fictkin/heavykins's **Matsukaze Tenma** (Inazuma Eleven).ᐟ
 
@@ -604,6 +620,8 @@ ${\color{#CC9543}಄}$ [Iwasbehindit](https://github.com/Iwasbehindit) is **Khon
 
 ${\color{#CC9543}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) is **Demoman's** (Team Fortress 2) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [meichuu](https://github.com/meichuu) is **Fred Weasley's** (HP) yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) is **Natural Harmonia Gropius's** (Pokémon) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
@@ -650,11 +668,13 @@ ${\color{#FF3060}಄}$ [dyletiming](https://github.com/dyletiming) N.1 **Timekni
 
 ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
 
-${\color{#FF3060}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) N.1 **Sakusuorei** (Windbreaker) shipper.ᐟ
+${\color{#FF3060}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) N.1 **Avpol** (JJBA) shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [mydad-is-myhero](https://github.com/mydad-is-myhero) N.1 **Batarou** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [MothlightSys](https://github.com/MothlightSys) N.1 **Biohazard** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [meichuu](https://github.com/meichuu) N.1 **Minewt** (Minho x Newt Maze Runner) shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [nxvocaine](https://github.com/nxvocaine) N.1 **Kiribaku** shipper.ᐟ
 
