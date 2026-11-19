@@ -270,6 +270,8 @@ ${\color{#BF2A24}಄}$ [mortisfication](https://github.com/mortisfication) is po
 
 ${\color{#BF2A24}಄}$ [meichuu](https://github.com/meichuu) is pony town's **Newt** (Maze Runner).ᐟ
 
+${\color{#BF2A24}಄}$ [MxPuzzles](https://github.com/MxPuzzles) is pony town's **Mr. Puzzles** (Calling All Villains/SMG4).ᐟ
+
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [nnyanruto](https://github.com/nnyanruto) is pony town's **Naruto Uzumaki**.ᐟ
