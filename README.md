@@ -42,7 +42,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [50Ocigarettes](https://github.com/50Ocigarettes) ⸝ [purefatal](https://github.com/purefatal)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy) ⸝ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) ⸝ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy) ⸝ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) ⸝ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) ⸝ [doomedsoda](https://github.com/doomedsoda) ⸝ [ihatevines](https://github.com/ihatevines)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper)
 
@@ -200,6 +200,8 @@ ${\color{#BF2A24}಄}$ [Fleta-Z](https://github.com/Fleta-Z) is pony town's **Fl
 
 ${\color{#BF2A24}಄}$ [flaskofvodka](https://github.com/flaskofvodka) is pony town's **Tom** (Eddsworld).ᐟ
 
+${\color{#BF2A24}಄}$ [firepupp](https://github.com/Firepupp) is pony town's **Marshall The Firepup** (Paw Patrol).ᐟ
+
 ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is pony town's **Loki Laufeyson** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony town's **Mapicc**.ᐟ
@@ -215,6 +217,10 @@ ${\color{#BF2A24}಄}$ [heavenslapdog](https://github.com/heavenslapdog) is pony
 ${\color{#BF2A24}಄}$ [haloed-heathen](https://github.com/haloed-heathen) is pony town's **Good/Hot** (Object Cringe).ᐟ
 
 ${\color{#BF2A24}಄}$ [hauntedarchives](https://github.com/hauntedarchives) is pony town's **Brandon6875935** (Brandon Works).ᐟ
+
+${\color{#BF2A24}಄}$ [Heart0fGold](https://github.com/Heart0fGold) is pony town's **Karl** (Guts & Blackpowder).ᐟ
+
+${\color{#BF2A24}಄}$ [hamfoolish](https://github.com/hamfoolish) is pony town's **Hal Jordan**.ᐟ
 
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
@@ -288,6 +294,8 @@ ${\color{#BF2A24}಄}$ [N0VALIT3](https://github.com/N0VALIT3) is pony town's **
 
 ${\color{#BF2A24}಄}$ [NaidenLove](https://github.com/NaidenLove) is pony town's **Dirk Strider** (Homestuck).ᐟ
 
+${\color{#BF2A24}಄}$ [nexxiro](https://github.com/nexxiro) is pony town's **RoadHog** (Overwatch).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) is pony town's **GroxMC** (MCYT).ᐟ
@@ -315,6 +323,8 @@ ${\color{#BF2A24}಄}$ [PinkiePieExplosion](https://github.com/PinkiePieExplosio
 ${\color{#BF2A24}಄}$ [perishallmortals](https://github.com/perishallmortals) is pony town's **Beelzebub** (Helluva Boss).ᐟ
 
 ${\color{#BF2A24}಄}$ [PandemoniumParty](https://github.com/PandemoniumParty) is pony town's **Uzuki** (Under Night In-Birth II).ᐟ
+
+${\color{#BF2A24}಄}$ [PPolarity](https://github.com/PPolarity) is pony town's **Lelouch** (Code Geass).ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
@@ -385,6 +395,10 @@ ${\color{#BF2A24}಄}$ [S9okeishere](https://github.com/S9okeishere) is pony tow
 ${\color{#BF2A24}಄}$ [sextaping](https://github.com/sextaping) is pony town's **Joey Jordison** (Slipknot Band).ᐟ
 
 ${\color{#BF2A24}಄}$ [saucebxsss](https://github.com/saucebxsss) is pony town's **Katie B** (QSMP).ᐟ
+
+${\color{#BF2A24}಄}$ [ShinyAbolish](https://github.com/ShinyAbolish) is pony town's **Abolish Regret**.ᐟ
+
+${\color{#BF2A24}಄}$ [Starweaverr](https://github.com/Starweaverr) is pony town's **Uki Violeta** (Nijisanji EN).ᐟ
 
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
@@ -502,6 +516,8 @@ ${\color{#689031}಄}$ [Gatita-here](https://github.com/Gatita-here) fictkin/hea
 ${\color{#689031}಄}$ [hopeIesslydevoted](https://github.com/hopeIesslydevoted) fictkin/heavykins's **Mizuki akiyama**.ᐟ
 
 ${\color{#689031}಄}$ [hauntedarchives](https://github.com/hauntedarchives) fictkin/heavykins's **Brandon6875935** (Brandon Works).ᐟ
+
+${\color{#689031}಄}$ [Heart0fGold](https://github.com/Heart0fGold) fictkin/heavykins's **Ethan** (Pokémon).ᐟ
 
 ${\color{#689031}಄}$ [itrap-2245](https://github.com/itrap-2245) fictkin/heavykins's **Itrapped**.ᐟ
 
@@ -732,6 +748,8 @@ ${\color{#00B47E}಄}$ [fuwafuransu](https://github.com/fuwafuransu) & [ajthepea
 
 ${\color{#00B47E}಄}$ [god-of-stories](https://github.com/god-of-stories) & [mydigitalescape](https://github.com/mydigitalescape) as pony town's **Brodinsons**  (Thor and Loki from Marvel) familial.ᐟ
 
+${\color{#00B47E}಄}$ [Heart0fGold](https://github.com/Heart0fGold) & [Ham-milton](https://github.com/Ham-milton) as pony town's **Michel Ney & Jean Lannes** duo.ᐟ
+
 ${\color{#00B47E}಄}$ [itrap-2245](https://github.com/itrap-2245) & [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) as pony town's **Frozendebt** couple.ᐟ
 
 ${\color{#00B47E}಄}$ [L0VES1CKK](https://github.com/L0VES1CKK) & [inf3ct3dd](https://github.com/inf3ct3dd) as pony town's **Pokerface** (chance x noli eni au) couple.ᐟ 
@@ -741,6 +759,8 @@ ${\color{#00B47E}಄}$ [mikethebrave](https://github.com/mikethebrave) & [Append
 ${\color{#00B47E}಄}$ [nnyanruto](https://github.com/nnyanruto) & [sasukyo](https://github.com/sasukyo) as pony town's **Naruto Uzumaki & Sasuke Uchiha** couple.ᐟ
 
 ${\color{#00B47E}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) & [hollylace](https://github.com/hollylace) as pony town's **Christmasshow** (Bobette x Vee) couple.ᐟ
+
+${\color{#00B47E}಄}$ [N0VALIT3](https://github.com/N0VALIT3) & [ss0rucr](https://github.com/ss0rucr) as pony town's **Kim & Dyso** (Roblox YouTubers) couple.ᐟ
 
 ${\color{#00B47E}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) & [MangoestMango](https://github.com/MangoestMango) as pony town's **Xqree & Falsity** duo.ᐟ
 
@@ -789,6 +809,10 @@ ${\color{#CDD537}಄}$ [dyletiming](https://github.com/dyletiming) is pony town'
 
 ${\color{#CDD537}಄}$ [kiwiconiccc](https://github.com/kiwiconiccc) is pony town's **Kiwi**.ᐟ
 
+${\color{#CDD537}಄}$ [KETCHUP-CFSR](https://github.com/KETCHUP-CFSR) is pony town's **Ketchup**.ᐟ
+
+${\color{#CDD537}಄}$ [MUSTARD-CFSR](https://github.com/MUSTARD-CFSR) is pony town's **Mustard**.ᐟ
+
 ${\color{#CDD537}಄}$ [pwppy](https://github.com/pwppy) is pony town's **Puppy**.ᐟ
 
 ${\color{#CDD537}಄}$ [PixieStixxPT](https://github.com/PixieStixxPT) is pony town's **Silliest Clown / SillyString**.ᐟ
@@ -800,5 +824,7 @@ ${\color{#CDD537}಄}$ [pur3lies](https://github.com/pur3lies) is pony town's **
 ${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
 ${\color{#CDD537}಄}$ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) is pony town's **Cat Shark**.ᐟ
+
+${\color{#CDD537}಄}$ [WASABI-CFSR](https://github.com/WASABI-CFSR) is pony town's **Wasabi**.ᐟ
 
 ![](https://files.catbox.moe/x3ev40.png)
