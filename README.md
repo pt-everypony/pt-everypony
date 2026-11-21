@@ -483,8 +483,6 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ 
 
 ${\color{#689031}಄}$ [AppleBurst](https://github.com/AppleBurst) fictkin/heavykins's **AndreW2002** (Collinlock16 Continuity).ᐟ
 
-${\color{#689031}಄}$ [Aminafklol](https://github.com/Aminafklol) fictkin/heavykins's **Nitram** (Homestuck).ᐟ
-
 ${\color{#689031}಄}$ [BluuJayymes](https://github.com/BluuJayymes) fictkin/heavykins's **Leon Kennedy** (Resident evil).ᐟ
 
 ${\color{#689031}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) fictkin/heavykins's **Aubree**.ᐟ
