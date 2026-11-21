@@ -174,6 +174,8 @@ ${\color{#BF2A24}಄}$ [Davelowkey](https://github.com/Davelowkey) is pony town'
 
 ${\color{#BF2A24}಄}$ [doomedsoda](https://github.com/doomedsoda) is pony town's **Mafuyu**.ᐟ
 
+${\color{#BF2A24}಄}$ [DreamsAndRJX](https://github.com/DreamsAndRJX) is pony town's **Marcelo** (Bridge Mankind Collapse).ᐟ
+
 ${\color{#BF2A24}಄}$ [Enveiled](https://github.com/Enveiled) is pony town's **Ghostface** (Dead by Daylight).ᐟ
 
 ${\color{#BF2A24}಄}$ [Epaxialfx](https://github.com/Epaxialfx) is pony town's **Epaxialfx** (MCYT).ᐟ
@@ -208,6 +210,8 @@ ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony tow
 
 ${\color{#BF2A24}಄}$ [greggingit](https://github.com/greggingit) is pony town's **Adler Hoffman** (Reverse 1999).ᐟ
 
+${\color{#BF2A24}಄}$ [G0reology](https://github.com/G0reology) is pony town's **Alucard** (Hellsing Ultimate).ᐟ
+
 ${\color{#BF2A24}಄}$ [hood-net](https://github.com/hood-net) is pony town's **Jason Todd** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [holl0wpvrple](https://github.com/holl0wpvrple) is pony town's **Satoru Gojo**.ᐟ
@@ -221,6 +225,8 @@ ${\color{#BF2A24}಄}$ [hauntedarchives](https://github.com/hauntedarchives) is 
 ${\color{#BF2A24}಄}$ [Heart0fGold](https://github.com/Heart0fGold) is pony town's **Karl** (Guts & Blackpowder).ᐟ
 
 ${\color{#BF2A24}಄}$ [hamfoolish](https://github.com/hamfoolish) is pony town's **Hal Jordan**.ᐟ
+
+${\color{#BF2A24}಄}$ [Ham-milton](https://github.com/Ham-milton) is pony town's **Scared French Soldier** (Guts and Blackpowder).ᐟ
 
 ${\color{#BF2A24}಄}$ [itrap-2245](https://github.com/itrap-2245) is pony town's **Itrapped** .ᐟ
 
@@ -293,6 +299,8 @@ ${\color{#BF2A24}಄}$ [null-leader](https://github.com/null-leader) is pony tow
 ${\color{#BF2A24}಄}$ [N0VALIT3](https://github.com/N0VALIT3) is pony town's **Medkit** (Phighting).ᐟ
 
 ${\color{#BF2A24}಄}$ [NaidenLove](https://github.com/NaidenLove) is pony town's **Dirk Strider** (Homestuck).ᐟ
+
+${\color{#BF2A24}಄}$ [NaneBlue](https://github.com/NaneBlue) is pony town's **Coldified** (MCYT).ᐟ
 
 ${\color{#BF2A24}಄}$ [nexxiro](https://github.com/nexxiro) is pony town's **RoadHog** (Overwatch).ᐟ
 
@@ -423,6 +431,8 @@ ${\color{#BF2A24}಄}$ [thatorangecatt](https://github.com/thatorangecatt) is po
 ${\color{#BF2A24}಄}$ [t0uchtonetelephone](https://github.com/t0uchtonetelephone) is pony town's **Cesar Torres** (Mandela Catalogue).ᐟ
 
 ${\color{#BF2A24}಄}$ [twhiddleston](https://github.com/twhiddleston) is pony town's **Thomas Sharpe** (Crimson Peak).ᐟ
+
+${\color{#BF2A24}಄}$ [tillallareloved](https://github.com/tillallareloved) is pony town's **Jocasta** (MCU/Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
