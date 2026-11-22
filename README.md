@@ -408,6 +408,8 @@ ${\color{#BF2A24}಄}$ [speedystayer](https://github.com/speedystayer) is pony t
 
 ${\color{#BF2A24}಄}$ [solomonsassistant](https://github.com/solomonsassistant) is pony town's **Solomon** (Obey Me).ᐟ
 
+${\color{#BF2A24}಄}$ [silencedlove](https://github.com/silencedlove) is pony town's **Shuichi Saihara** (Danganronpa).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
