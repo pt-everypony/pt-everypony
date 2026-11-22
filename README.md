@@ -408,6 +408,10 @@ ${\color{#BF2A24}಄}$ [ShinyAbolish](https://github.com/ShinyAbolish) is pony t
 
 ${\color{#BF2A24}಄}$ [Starweaverr](https://github.com/Starweaverr) is pony town's **Uki Violeta** (Nijisanji EN).ᐟ
 
+${\color{#BF2A24}಄}$ [speedystayer](https://github.com/speedystayer) is pony town's **Super Creek** (Umamusume).ᐟ
+
+${\color{#BF2A24}಄}$ [solomonsassistant](https://github.com/solomonsassistant) is pony town's **Solomon** (Obey Me).ᐟ
+
 ${\color{#BF2A24}಄}$ [toyayagi](https://github.com/toyayagi) is pony town's **Aoyagi Toya** (PJSK).ᐟ
 
 ${\color{#BF2A24}಄}$ [ThatPaperCat](https://github.com/ThatPaperCat) is pony town's **Scraps** (Dandy's World).ᐟ
