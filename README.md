@@ -76,8 +76,6 @@ ${\color{#BF2A24}಄}$ [astrobarrage](https://github.com/astrobarrage) is pony t
 
 ${\color{#BF2A24}಄}$ [Aspenolia](https://github.com/Aspenolia) is pony town's **Azurewrath/Aspen**.ᐟ
 
-${\color{#BF2A24}಄}$ [ajthepeach](https://github.com/ajthepeach) is pony town's **Arthur Kirkland** (Hetalia).ᐟ
-
 ${\color{#BF2A24}಄}$ [applemorph](https://github.com/applemorph) is pony town's **Kim Dokja**.ᐟ
 
 ${\color{#BF2A24}಄}$ [andreslopper](https://github.com/andreslopper) is pony town's **Opera** (Mairimashita Iruma Kun).ᐟ
@@ -191,8 +189,6 @@ ${\color{#BF2A24}಄}$ [elli0tthec00ll](https://github.com/elli0tthec00ll) is po
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
-
-${\color{#BF2A24}಄}$ [fuwafuransu](https://github.com/fuwafuransu) is pony town's **Francis Bonnefoy** (Hetalia).ᐟ
 
 ${\color{#BF2A24}಄}$ [fragileflaw](https://github.com/fragileflaw) is pony town's **Zodiac** (Moon Knight).ᐟ
 
@@ -515,8 +511,6 @@ ${\color{#689031}಄}$ [dyletiming](https://github.com/dyletiming) fictkin/heavy
 
 ${\color{#689031}಄}$ [doomedsoda](https://github.com/doomedsoda) fictkin/heavykins's **Mafuyu**.ᐟ
 
-${\color{#689031}಄}$ [fuwafuransu](https://github.com/fuwafuransu) fictkin/heavykins's **Francis Bonnefoy** (Hetalia).ᐟ
-
 ${\color{#689031}಄}$ [forgedshadows](https://github.com/forgedshadows) fictkin/heavykins's **Rumia** (Touhou Project).ᐟ
 
 ${\color{#689031}಄}$ [FORENSIC-AUTOPSY](https://github.com/FORENSIC-AUTOPSY) fictkin/heavykins's **Boothill** (Honkai Star Rail).ᐟ
@@ -757,8 +751,6 @@ ${\color{#00B47E}಄}$ [Ddeaniebeanie](https://github.com/Ddeaniebeanie) & [ssam
 ${\color{#00B47E}಄}$ [decayingcorpses](https://github.com/decayingcorpses) & [promiseduo](https://github.com/promiseduo) as pony town's **patchbreakers** (UUSMP) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [emojaymerrick](https://github.com/emojaymerrick) & [winterf0gg](https://github.com/winterf0gg) as pony town's **Davekat** (Dave x Karkat) couple.ᐟ
-
-${\color{#00B47E}಄}$ [fuwafuransu](https://github.com/fuwafuransu) & [ajthepeach](https://github.com/ajthepeach) as pony town's **Fruk/Ukfr** (Hetalia) platonic duo.ᐟ
 
 ${\color{#00B47E}಄}$ [god-of-stories](https://github.com/god-of-stories) & [mydigitalescape](https://github.com/mydigitalescape) as pony town's **Brodinsons**  (Thor and Loki from Marvel) familial.ᐟ
 
