@@ -501,6 +501,8 @@ ${\color{#689031}಄}$ [CosmeticStar](https://github.com/CosmeticStar) fictkin/h
 
 ${\color{#689031}಄}$ [Crazybloxer](https://github.com/Crazybloxer) fictkin/heavykins's **Crazyblox** (Roblox/Floodescape).ᐟ
 
+${\color{#BF2A24}಄}$ [ClubPentagon](https://github.com/ClubPentagon) is pony town's **Nam-Gyu** (Squid Game).ᐟ
+
 ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
 ${\color{#689031}಄}$ [disorderlyfashion](https://github.com/disorderlyfashion) fictkin/heavykins's **Blitz** (Helluva Boss).ᐟ
