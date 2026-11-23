@@ -82,8 +82,6 @@ ${\color{#BF2A24}಄}$ [andreslopper](https://github.com/andreslopper) is pony t
 
 ${\color{#BF2A24}಄}$ [AntoneIIi](https://github.com/AntoneIIi) is pony town's **Kimi Antonelli**.ᐟ
 
-${\color{#BF2A24}಄}$ [amechanirl](https://github.com/amechanirl) is pony town's **Ame-Chan/Kangel** (Needy Streamer Overdose).ᐟ
-
 ${\color{#BF2A24}಄}$ [Atychiphxbia](https://github.com/Atychiphxbia) is pony town's **Predisaster Medkit** (Phighting).ᐟ
 
 ${\color{#BF2A24}಄}$ [abyssegoistT](https://github.com/abyssegoistT) is pony town's **X** (To Be Hero X).ᐟ
