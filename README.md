@@ -42,7 +42,7 @@ ${\color{#505050}to\ submit\ yourself\ for\ the\ "prettiest\ github"\ I\ will\ b
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](https://github.com/denguemon) ⸝ [poisonedritual](https://github.com/poisonedritual) ⸝ [vatrinyasin](https://github.com/vatrinyasin) ⸝ [chick-habit](https://github.com/chick-habit) ⸝ [yaoiautism](https://github.com/yaoiautism) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [dr-vanta](https://github.com/dr-vanta) ⸝ [hood-net](https://github.com/hood-net) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [50Ocigarettes](https://github.com/50Ocigarettes) ⸝ [purefatal](https://github.com/purefatal)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy) ⸝ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) ⸝ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) ⸝ [doomedsoda](https://github.com/doomedsoda) ⸝ [ihatevines](https://github.com/ihatevines)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy) ⸝ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) ⸝ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) ⸝ [doomedsoda](https://github.com/doomedsoda) ⸝ [ihatevines](https://github.com/ihatevines) ⸝ [perishallmortals](https://github.com/perishallmortals)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper)
 
@@ -435,6 +435,8 @@ ${\color{#BF2A24}಄}$ [t0uchtonetelephone](https://github.com/t0uchtonetelephon
 ${\color{#BF2A24}಄}$ [twhiddleston](https://github.com/twhiddleston) is pony town's **Thomas Sharpe** (Crimson Peak).ᐟ
 
 ${\color{#BF2A24}಄}$ [tillallareloved](https://github.com/tillallareloved) is pony town's **Jocasta** (MCU/Marvel).ᐟ
+
+${\color{#BF2A24}಄}$ [Tfpknockout](https://github.com/Tfpknockout) is pony town's **Knockout** (Transformers Prime).ᐟ
 
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
