@@ -48,7 +48,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart) ⸝ [sketchyremorse](https://github.com/sketchyremorse) ⸝ [buncest](https://github.com/buncest)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) ⸝ [Chemicalshot](https://github.com/Chemicalshot)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [puppyfes](https://github.com/PUPPYFES)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK) ⸝ [lonesomestreet](https://github.com/lonesomestreet) ⸝ [MangoestMango](https://github.com/MangoestMango)
 
@@ -329,6 +329,8 @@ ${\color{#BF2A24}಄}$ [perishallmortals](https://github.com/perishallmortals) i
 ${\color{#BF2A24}಄}$ [PandemoniumParty](https://github.com/PandemoniumParty) is pony town's **Uzuki** (Under Night In-Birth II).ᐟ
 
 ${\color{#BF2A24}಄}$ [PPolarity](https://github.com/PPolarity) is pony town's **Lelouch** (Code Geass).ᐟ
+
+${\color{#BF2A24}಄}$ [puppyfes](https://github.com/PUPPYFES) is pony town's **Rui Kamishiro**.ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
