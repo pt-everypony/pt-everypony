@@ -637,7 +637,7 @@ ${\color{#CC9543}಄}$ [act-of-love](https://github.com/act-of-love) is **Arthur
 
 ${\color{#CC9543}಄}$ [ayatosbathwater](https://github.com/ayatosbathwater) is **Kamisato Ayato's** yumeshipper.ᐟ
 
-${\color{S9okeisher}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
+${\color{#CC9543}಄}$ [Cuddling-Encouraged-heavily-Dnc](https://github.com/Cuddling-Encouraged-heavily-Dnc) is **1x1x1x1's** yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [camycatyy](https://github.com/camycatyy) is **Link's** (The Legend of Zelda) yumeshipper.ᐟ
 
