@@ -44,7 +44,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Well-known\ Players:}$ [denguemon](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Common\ Docks\ Dweller:}$ [teufeI](https://github.com/teufeI) ⸝ [swoocket](https://github.com/swoocket) ⸝ [buildermonyaoi](https://github.com/buildermonyaoi) ⸝ [pawfectangel](https://github.com/pawfectangel) ⸝ [pwppy](https://github.com/pwppy) ⸝ [PinkiePieExplosion](https://github.com/PinkiePieExplosion) ⸝ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) ⸝ [doomedsoda](https://github.com/doomedsoda) ⸝ [ihatevines](https://github.com/ihatevines) ⸝ [perishallmortals](https://github.com/perishallmortals)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](https://github.com/dearvoidstar) ⸝ [wifiesh](https://github.com/wifiesh) ⸝ [spam-tune](https://github.com/spam-tune) ⸝ [andreslopper](https://github.com/andreslopper) ⸝ [Ghxzt13](https://github.com/Ghxzt13)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart) ⸝ [sketchyremorse](https://github.com/sketchyremorse) ⸝ [buncest](https://github.com/buncest)
 
@@ -142,6 +142,8 @@ ${\color{#BF2A24}಄}$ [Crazybloxer](https://github.com/Crazybloxer) is pony tow
 
 ${\color{#BF2A24}಄}$ [coinsflips](https://github.com/coinsflips) is pony town's **Chance** (Forsaken).ᐟ
 
+${\color{#BF2A24}಄}$ [corruptedscall](https://github.com/corruptedscall) is pony town's **Venomshank** (Phighting).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -184,6 +186,8 @@ ${\color{#BF2A24}಄}$ [erisolsprites](https://github.com/erisolsprites) is pony
 
 ${\color{#BF2A24}಄}$ [elli0tthec00ll](https://github.com/elli0tthec00ll) is pony town's **Alyssa** (Letters From Sixteen).ᐟ
 
+${\color{#BF2A24}಄}$ [erIkonig](https://github.com/erIkonig) is pony town's **Heathcliff**.ᐟ
+
 ${\color{#BF2A24}಄}$ [fukounagirl](https://github.com/fukounagirl) is pony town's **Kaveh** (Genshin Impact).ᐟ
 
 ${\color{#BF2A24}಄}$ [freakedoutboy](https://github.com/freakedoutboy) is pony town's **Michelangelo** (TMNT 2012).ᐟ
@@ -205,6 +209,8 @@ ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony tow
 ${\color{#BF2A24}಄}$ [greggingit](https://github.com/greggingit) is pony town's **Adler Hoffman** (Reverse 1999).ᐟ
 
 ${\color{#BF2A24}಄}$ [G0reology](https://github.com/G0reology) is pony town's **Alucard** (Hellsing Ultimate).ᐟ
+
+${\color{#BF2A24}಄}$ [glitterdagger](https://github.com/glitterdagger) is pony town's **White Peach Cookie** (Cookie Run Ovenbreak).ᐟ
 
 ${\color{#BF2A24}಄}$ [hood-net](https://github.com/hood-net) is pony town's **Jason Todd** (DC).ᐟ
 
@@ -278,6 +284,8 @@ ${\color{#BF2A24}಄}$ [meichuu](https://github.com/meichuu) is pony town's **Ne
 
 ${\color{#BF2A24}಄}$ [MxPuzzles](https://github.com/MxPuzzles) is pony town's **Mr. Puzzles** (Calling All Villains/SMG4).ᐟ
 
+${\color{#BF2A24}಄}$ [minidizky](https://github.com/minidizky) is pony town's **MiniDisky** (Animatic Battle).ᐟ
+
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
 ${\color{#BF2A24}಄}$ [nnyanruto](https://github.com/nnyanruto) is pony town's **Naruto Uzumaki**.ᐟ
@@ -329,6 +337,8 @@ ${\color{#BF2A24}಄}$ [PandemoniumParty](https://github.com/PandemoniumParty) i
 ${\color{#BF2A24}಄}$ [PPolarity](https://github.com/PPolarity) is pony town's **Lelouch** (Code Geass).ᐟ
 
 ${\color{#BF2A24}಄}$ [puppyfes](https://github.com/PUPPYFES) is pony town's **Rui Kamishiro**.ᐟ
+
+${\color{#BF2A24}಄}$ [pupvalite](https://github.com/pupvalite) is pony town's **Astro Novalite** (Dandys World).ᐟ
 
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
@@ -438,6 +448,8 @@ ${\color{#BF2A24}಄}$ [tillallareloved](https://github.com/tillallareloved) is 
 
 ${\color{#BF2A24}಄}$ [Tfpknockout](https://github.com/Tfpknockout) is pony town's **Knockout** (Transformers Prime).ᐟ
 
+${\color{#BF2A24}಄}$ [TheSpoiledRiches](https://github.com/TheSpoiledRiches) is pony town's **Adam Murray** (Mandela Catalogue).ᐟ
+
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
@@ -486,6 +498,8 @@ $${\color{#87896A}Example\ for\ this\ category:\ @username\ fictkin/heavykin's\ 
 </details>
 
 ${\color{#689031}಄}$ [AppleBurst](https://github.com/AppleBurst) fictkin/heavykins's **AndreW2002** (Collinlock16 Continuity).ᐟ
+
+${\color{#689031}಄}$ [amechanirl](https://github.com/amechanirl) fictkin/heavykins's **Ame-chan/Kangel** (Needy Streamer Overload).ᐟ
 
 ${\color{#689031}಄}$ [BluuJayymes](https://github.com/BluuJayymes) fictkin/heavykins's **Leon Kennedy** (Resident evil).ᐟ
 
@@ -599,6 +613,8 @@ ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's
 
 ${\color{#689031}಄}$ [witheringpetals](https://github.com/witheringpetals) fictkin/heavykins's **Azurewrath**.ᐟ
 
+${\color{#689031}಄}$ [z4warud0](https://github.com/z4warud0) fictkin/heavykins's **Josuke Higashikata** (JJBA).ᐟ
+
 ${\color{#689031}಄}$ [5P-25](https://github.com/5P-25) fictkin/heavykins's **Five Pebbles** (Rain World).ᐟ
 
 ${\color{#689031}಄}$ [0SEVN7](https://github.com/0SEVN7) fictkin/heavykins's **007n7** (Roblox/Forsaken).ᐟ
@@ -676,6 +692,8 @@ ${\color{#CC9543}಄}$ [velvettoru](https://github.com/velvettoru) is **Satoru G
 
 ${\color{#CC9543}಄}$ [witheringpetals](https://github.com/witheringpetals) is hyper-sharing **Two Time's** yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [z4warud0](https://github.com/z4warud0) is **Josuke Higashikata's** (JJBA) yumeshipper.ᐟ
+
 ![](https://files.catbox.moe/iagaj1.png)
 
 **${\color{#B4002A}‿  ◟ \space \color{#CE0030}S \color{#FF003B}H \color{#FF3060}I \color{#FF2256}P \color{#CE0030}S \color{#B4002A} ◞  ‿}$**
@@ -695,6 +713,8 @@ ${\color{#FF3060}಄}$ [abyssegoistT](https://github.com/abyssegoistT) N.1 **Sha
 ${\color{#FF3060}಄}$ [dandypilled](https://github.com/dandypilled) N.1 **flowerberry** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [dyletiming](https://github.com/dyletiming) N.1 **Timeknight/soulvester x dyle** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [infextion](https://github.com/infextion) N.1 **weskri** (Albert Wesker x Chris Redfield From Resident Evil) shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [Jeverus](https://github.com/Jeverus) N.1 **Slasher1337** shipper.ᐟ
 
@@ -744,9 +764,13 @@ $${\color{#87896A}+\ you\ can\ put\ the\ duo's\ name\ instead\ of\ the\ characte
 
 </details>
 
+${\color{#00B47E}಄}$ [amechanirl](https://github.com/amechanirl) & [erIkonig](https://github.com/erIkonig) as pony town's **Nursefather & Apprentice Respectively** (Limbus Company) duo.ᐟ
+
 ${\color{#00B47E}಄}$ [CloveredFields](https://github.com/Cloveredfields) & [MaceGrounds](https://github.com/MaceGrounds) as pony town's **odyssey** (UUSMP) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [casino-flush](https://github.com/casino-flush) & [prizeflush](https://github.com/prizeflush) as pony town's **Doublefedora** couple.ᐟ
+
+${\color{#00B47E}಄}$ [cloveredfields](https://github.com/cloveredfields) & [tfpknockout](https://github.com/tfpknockout) as pony town's **Airstrike** (Theobaldthebird & Shoebilly) duo.ᐟ
 
 ${\color{#00B47E}಄}$ [denguemon](https://github.com/denguemon) & [pawzu](https://github.com/pawzu) as pony town's **Lee Namyi & Shin Joong Hyun** duo.ᐟ
 
