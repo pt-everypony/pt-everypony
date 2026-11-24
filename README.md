@@ -98,6 +98,8 @@ ${\color{#BF2A24}಄}$ [Aminafklol](https://github.com/Aminafklol) is pony town'
 
 ${\color{#BF2A24}಄}$ [aeszz](https://github.com/aeszz) is pony town's **Ludwig Beilschmidt** (Hetalia).ᐟ
 
+${\color{#BF2A24}಄}$ [AEDD0](https://github.com/AEDD0) is pony town's **Hohenheim** (Limbus Company).ᐟ
+
 ${\color{#BF2A24}಄}$ [Bigguykoi](https://github.com/BIGGUYKOI) is pony town's **Tony Stark** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [blindidolworship](https://github.com/blindidolworship) is pony town's **Wallter Brickstone** (Regretevator).ᐟ
