@@ -144,6 +144,8 @@ ${\color{#BF2A24}಄}$ [coinsflips](https://github.com/coinsflips) is pony town'
 
 ${\color{#BF2A24}಄}$ [corruptedscall](https://github.com/corruptedscall) is pony town's **Venomshank** (Phighting).ᐟ
 
+${\color{#BF2A24}಄}$ [chromisawakening](https://github.com/chromisawakening) is pony town's **Chrom Fire** (Emblem Awakening).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
