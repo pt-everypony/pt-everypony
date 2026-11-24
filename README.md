@@ -146,6 +146,8 @@ ${\color{#BF2A24}಄}$ [corruptedscall](https://github.com/corruptedscall) is po
 
 ${\color{#BF2A24}಄}$ [chromisawakening](https://github.com/chromisawakening) is pony town's **Chrom Fire** (Emblem Awakening).ᐟ
 
+${\color{#BF2A24}಄}$ [ClubPentagon](https://github.com/ClubPentagon) is pony town's **Nam-Gyu** (Squid Game).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -516,8 +518,6 @@ ${\color{#689031}಄}$ [casino-flush](https://github.com/casino-flush) fictkin/h
 ${\color{#689031}಄}$ [CosmeticStar](https://github.com/CosmeticStar) fictkin/heavykins's **Mommy Mearest** (Friday Night Funkin).ᐟ
 
 ${\color{#689031}಄}$ [Crazybloxer](https://github.com/Crazybloxer) fictkin/heavykins's **Crazyblox** (Roblox/Floodescape).ᐟ
-
-${\color{#BF2A24}಄}$ [ClubPentagon](https://github.com/ClubPentagon) is pony town's **Nam-Gyu** (Squid Game).ᐟ
 
 ${\color{#689031}಄}$ [DANZNC](https://github.com/DANZNC) fictkin/heavykins's **Travis Rapid** (The Moon I Rot Behind).ᐟ
 
