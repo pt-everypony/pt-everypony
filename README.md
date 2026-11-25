@@ -152,6 +152,8 @@ ${\color{#BF2A24}಄}$ [chromisawakening](https://github.com/chromisawakening) i
 
 ${\color{#BF2A24}಄}$ [ClubPentagon](https://github.com/ClubPentagon) is pony town's **Nam-Gyu** (Squid Game).ᐟ
 
+${\color{#BF2A24}಄}$ [cosmooirl](https://github.com/cosmooirl) is pony town's **Curse the Hedgehog** (Curse Of X).ᐟ
+
 ${\color{#BF2A24}಄}$ [duckseatbreads](https://github.com/duckseatbreads) is pony town's **John Constantine** (DC).ᐟ
 
 ${\color{#BF2A24}಄}$ [decayingcrow](https://github.com/decayingcrow) is pony town's **Davesprite** (Homestuck).ᐟ
@@ -209,6 +211,8 @@ ${\color{#BF2A24}಄}$ [Fleta-Z](https://github.com/Fleta-Z) is pony town's **Fl
 ${\color{#BF2A24}಄}$ [flaskofvodka](https://github.com/flaskofvodka) is pony town's **Tom** (Eddsworld).ᐟ
 
 ${\color{#BF2A24}಄}$ [firepupp](https://github.com/Firepupp) is pony town's **Marshall The Firepup** (Paw Patrol).ᐟ
+
+${\color{#BF2A24}಄}$ [f1refist](https://github.com/f1refist) is pony town's **Portgas D Ace** (One Piece).ᐟ
 
 ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is pony town's **Loki Laufeyson** (Marvel).ᐟ
 
@@ -270,6 +274,8 @@ ${\color{#BF2A24}಄}$ [Iwasbehindit](https://github.com/Iwasbehindit) is pony t
 
 ${\color{#BF2A24}಄}$ [lilwaynxz](https://github.com/lilwaynxz) is pony town's **Captain America/Steve Rogers** (Marvel).ᐟ
 
+${\color{#BF2A24}಄}$ [literallyharkness](https://github.com/literallyharkness) is pony town's **agatha harkness** (Marvel).ᐟ
+
 ${\color{#BF2A24}಄}$ [MASTEROFMETAL](https://github.com/MASTEROFMETAL) is pony town's **Draco** (Brawl Stars).ᐟ
 
 ${\color{#BF2A24}಄}$ [MaceGrounds](https://github.com/MaceGrounds) is pony town's **Parrotx2**.ᐟ
@@ -293,6 +299,8 @@ ${\color{#BF2A24}಄}$ [meichuu](https://github.com/meichuu) is pony town's **Ne
 ${\color{#BF2A24}಄}$ [MxPuzzles](https://github.com/MxPuzzles) is pony town's **Mr. Puzzles** (Calling All Villains/SMG4).ᐟ
 
 ${\color{#BF2A24}಄}$ [minidizky](https://github.com/minidizky) is pony town's **MiniDisky** (Animatic Battle).ᐟ
+
+${\color{#BF2A24}಄}$ [MYBRIGHTESTST4R](https://github.com/MYBRIGHTESTST4R) is pony town's **Haebeom Kwon** (Our Sunny Days).ᐟ
 
 ${\color{#BF2A24}಄}$ [NocturnalWhisper](https://github.com/NocturnalWhisper) is pony town's **Skid's Dad** (Spooky Month).ᐟ
 
@@ -472,6 +480,8 @@ ${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is po
 
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
+${\color{#BF2A24}಄}$ [XNPXO](https://github.com/XNPXO) is pony town's **Pantalone** (Genshin Impact).ᐟ
+
 ${\color{#BF2A24}಄}$ [yubelsrevenge](https://github.com/yubelsrevenge) is pony town's **Judai Yuki** (Yugioh GX).ᐟ
 
 ${\color{#BF2A24}಄}$ [yurinpd](https://github.com/yurinpd) is pony town's **Sancho** (Limbus Company).ᐟ
@@ -618,6 +628,8 @@ ${\color{#689031}಄}$ [voidpup](https://github.com/voidpup) fictkin/heavykins's
 ${\color{#689031}಄}$ [wifiesh](https://github.com/wifiesh) fictkin/heavykins's **Wifies**.ᐟ
 
 ${\color{#689031}಄}$ [witheringpetals](https://github.com/witheringpetals) fictkin/heavykins's **Azurewrath**.ᐟ
+
+${\color{#689031}಄}$ [XNPXO](https://github.com/XNPXO) fictkin/heavykins's **Pantalone** (Genshin Impact).ᐟ
 
 ${\color{#689031}಄}$ [z4warud0](https://github.com/z4warud0) fictkin/heavykins's **Josuke Higashikata** (JJBA).ᐟ
 
