@@ -48,7 +48,7 @@ ${\color{#C78057} ִ ✦\ \color{#FFB97C}Awesome\ Sauces:}$ [dearvo idstar](http
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Github:}$ [KayleighJudas](https://github.com/KayleighJudas) ⸝ [fukounagirl](https://github.com/fukounagirl) ⸝ [ch3shyre](https://github.com/ch3shyre) ⸝ [BadlyAddicted](https://github.com/BadlyAddicted) ⸝ [final-delivery](https://github.com/final-delivery) ⸝ [itadork](https://github.com/itadork) ⸝ [hood-net](https://github.com/hood-net) ⸝ [yvoisen](https://github.com/yvoisen) ⸝ [5metersapart](https://github.com/5metersapart) ⸝ [sketchyremorse](https://github.com/sketchyremorse) ⸝ [buncest](https://github.com/buncest)
 
-${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [puppyfes](https://github.com/PUPPYFES)
+${\color{#C78057} ִ ✦\ \color{#FFB97C}Prettiest\ Ponies:}$ [heartofhope](https://github.com/heartofhope) ⸝ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) ⸝ [Chemicalshot](https://github.com/Chemicalshot) ⸝ [puppyfes](https://github.com/PUPPYFES) ⸝ [rosesnchampagne](https://github.com/rosesnchampagne)
 
 ${\color{#C78057} ִ ✦\ \color{#FFB97C}Cutiest\ Ponies:}$ [sl4shingutz](https://github.com/sl4shingutz) ⸝ [pupfies](https://github.com/pupfies) ⸝ [constrz](https://github.com/constrz) ⸝ [V0RTlGERN](https://github.com/V0RTlGERN) ⸝ [ashulynnx](https://github.com/ashulynnx) ⸝ [LAVIEDOTOK](https://github.com/LAVIEDOTOK) ⸝ [lonesomestreet](https://github.com/lonesomestreet) ⸝ [MangoestMango](https://github.com/MangoestMango)
 
@@ -214,6 +214,8 @@ ${\color{#BF2A24}಄}$ [firepupp](https://github.com/Firepupp) is pony town's **
 
 ${\color{#BF2A24}಄}$ [f1refist](https://github.com/f1refist) is pony town's **Portgas D Ace** (One Piece).ᐟ
 
+${\color{#BF2A24}಄}$ [freelance-surgeon](https://github.com/freelance-surgeon) is pony town's **Freelance Surgeon** (Endacopia).ᐟ
+
 ${\color{#BF2A24}಄}$ [god-of-stories](https://github.com/god-of-stories) is pony town's **Loki Laufeyson** (Marvel).ᐟ
 
 ${\color{#BF2A24}಄}$ [Gatita-here](https://github.com/Gatita-here) is pony town's **Mapicc**.ᐟ
@@ -322,6 +324,10 @@ ${\color{#BF2A24}಄}$ [NaneBlue](https://github.com/NaneBlue) is pony town's **
 
 ${\color{#BF2A24}಄}$ [nexxiro](https://github.com/nexxiro) is pony town's **RoadHog** (Overwatch).ᐟ
 
+${\color{#BF2A24}಄}$ [n2vein3](https://github.com/n2vein3) is pony town's **Sorrow** (Grace).ᐟ
+
+${\color{#BF2A24}಄}$ [nerdyflowx](https://github.com/nerdyflowx) is pony town's **Tweek Tweak** (South Park).ᐟ
+
 ${\color{#BF2A24}಄}$ [On-the-Heights](https://github.com/On-the-Heights) is pony town's **Waxwell**.ᐟ
 
 ${\color{#BF2A24}಄}$ [OHBUNNYBUNNY1](https://github.com/OHBUNNYBUNNY1) is pony town's **GroxMC** (MCYT).ᐟ
@@ -380,6 +386,8 @@ ${\color{#BF2A24}಄}$ [R0TT3NB3RRY](https://github.com/R0TT3NB3RRY) is pony tow
 
 ${\color{#BF2A24}಄}$ [r0wlys](https://github.com/r0wlys) is pony town's **Link** (BOTW).ᐟ
 
+${\color{#BF2A24}಄}$ [rosesnchampagne](https://github.com/rosesnchampagne) is pony town's **Rantaro Amami** (Danganronpa).ᐟ
+
 ${\color{#BF2A24}಄}$ [SillyRynz](https://github.com/SillyRynz) is pony town's **Red Velvet Cookie** (CRK).ᐟ
 
 ${\color{#BF2A24}಄}$ [Sxarixiez](https://github.com/Sxarixiez) is pony town's **Subspace Tripmine** (Phighting).ᐟ
@@ -407,8 +415,6 @@ ${\color{#BF2A24}಄}$ [sasukyo](https://github.com/sasukyo) is pony town's **Sa
 ${\color{#BF2A24}಄}$ [starfollower](https://github.com/starfollower) is pony town's **Rocket** (Phighting!).ᐟ
 
 ${\color{#BF2A24}಄}$ [smith-kingsley](https://github.com/smith-kingsley) is pony town's **Ollie Plimsolls** (league of gentlemen).ᐟ
-
-${\color{#BF2A24}಄}$ [sxphyrin](https://github.com/sxphyrin) is pony town's **Lilia Vanrouge** (Disney Twisted Wonderland).ᐟ
 
 ${\color{#BF2A24}಄}$ [spam-tune](https://github.com/spam-tune) is pony town's **Tenna** (Deltarune).ᐟ
 
@@ -466,6 +472,8 @@ ${\color{#BF2A24}಄}$ [Tfpknockout](https://github.com/Tfpknockout) is pony tow
 
 ${\color{#BF2A24}಄}$ [TheSpoiledRiches](https://github.com/TheSpoiledRiches) is pony town's **Adam Murray** (Mandela Catalogue).ᐟ
 
+${\color{#BF2A24}಄}$ [THE-DREAMENDING](https://github.com/THE-DREAMENDING) is pony town's **Don Quixote** (Limbus Company).ᐟ
+
 ${\color{#BF2A24}಄}$ [UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pony town's **Noli** (ROBLOX, any/all iterations).ᐟ
 
 ${\color{#BF2A24}಄}$ [V0RTlGERN](https://github.com/V0RTlGERN) is pony town's **Oberon Vortigern** (Fate/Grand order).ᐟ
@@ -478,9 +486,13 @@ ${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **
 
 ${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal** (Pokémon).ᐟ
 
+${\color{#BF2A24}಄}$ [WhenTheSUNdreams](https://github.com/WhenTheSUNdreams) is pony town's **Gebura** (Project Moon).ᐟ
+
 ${\color{#BF2A24}಄}$ [xxjardxgalf-yaoi69xx](https://github.com/xxjardxgalf-yaoi69xx) is pony town's **Jard** (Evade).ᐟ
 
 ${\color{#BF2A24}಄}$ [XNPXO](https://github.com/XNPXO) is pony town's **Pantalone** (Genshin Impact).ᐟ
+
+${\color{#BF2A24}಄}$ [xyrvielle](https://github.com/xyrvielle) is pony town's **Lilia Vanrouge** (Disney Twisted Wonderland).ᐟ
 
 ${\color{#BF2A24}಄}$ [yubelsrevenge](https://github.com/yubelsrevenge) is pony town's **Judai Yuki** (Yugioh GX).ᐟ
 
@@ -686,6 +698,8 @@ ${\color{#CC9543}಄}$ [mydearmeIancholy](https://github.com/mydearmeIancholy) i
 
 ${\color{#CC9543}಄}$ [meichuu](https://github.com/meichuu) is **Fred Weasley's** (HP) yumeshipper.ᐟ
 
+${\color{#CC9543}಄}$ [mandela-net](https://github.com/mandela-net) is **Guest 1337's** yumeshipper.ᐟ
+
 ${\color{#CC9543}಄}$ [naturalharmoniaa](https://github.com/naturalharmoniaa) is **Natural Harmonia Gropius's** (Pokémon) yumeshipper.ᐟ
 
 ${\color{#CC9543}಄}$ [Purzuer](https://github.com/Purzuer) is **Artful's** yumeshipper.ᐟ
@@ -745,6 +759,8 @@ ${\color{#FF3060}಄}$ [MothlightSys](https://github.com/MothlightSys) N.1 **Bio
 ${\color{#FF3060}಄}$ [meichuu](https://github.com/meichuu) N.1 **Minewt** (Minho x Newt Maze Runner) shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [MxPuzzles](https://github.com/MxPuzzles) N.1 **Gunshow** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [mandela-net](https://github.com/mandela-net) N.1 **ToughLuck** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [nxvocaine](https://github.com/nxvocaine) N.1 **Kiribaku** shipper.ᐟ
 
