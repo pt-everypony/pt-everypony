@@ -891,6 +891,8 @@ ${\color{#CDD537}಄}$ [pur3lies](https://github.com/pur3lies) is pony town's **
 
 ${\color{#CDD537}಄}$ [sharpfrostcherv](https://github.com/sharpfrostcherv) is pony town's **Book**.ᐟ
 
+${\color{#CDD537}಄}$ [T0R4X](https://github.com/T0R4X) is pony town's **Syringe**.ᐟ
+
 ${\color{#CDD537}಄}$ [W0unded-Sh0nk](https://github.com/W0unded-Sh0nk) is pony town's **Cat Shark**.ᐟ
 
 ${\color{#CDD537}಄}$ [WASABI-CFSR](https://github.com/WASABI-CFSR) is pony town's **Wasabi**.ᐟ
