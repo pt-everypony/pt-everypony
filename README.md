@@ -484,6 +484,8 @@ ${\color{#BF2A24}಄}$ [virtusimperiums](https://github.com/virtusimperiums) is 
 
 ${\color{#BF2A24}಄}$ [Viinixxs](https://github.com/Viinixxs) is pony town's **Kris Dreemurr** (Deltarune).ᐟ
 
+${\color{#BF2A24}಄}$ [vnPipette](https://github.com/vnPipette) is pony town's **Spinel** (Steven Universe).ᐟ
+
 ${\color{#BF2A24}಄}$ [wonderdream404](https://github.com/wonderdream404) is pony town's **Yveltal** (Pokémon).ᐟ
 
 ${\color{#BF2A24}಄}$ [WhenTheSUNdreams](https://github.com/WhenTheSUNdreams) is pony town's **Gebura** (Project Moon).ᐟ
@@ -767,6 +769,8 @@ ${\color{#FF3060}಄}$ [nxvocaine](https://github.com/nxvocaine) N.1 **Kiribaku*
 ${\color{#FF3060}಄}$ [ThePuppetsHouse](https://github.com/ThePuppetsHouse) N.1 **Sebskully** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [Pixel8tedfaygo](https://github.com/Pixel8tedfaygo) N.1 **Erigam** shipper.ᐟ
+
+${\color{#FF3060}಄}$ [PPolarity](https://github.com/PPolarity) N.1 **Suzalulu** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh** shipper.ᐟ
 
