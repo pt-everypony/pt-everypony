@@ -362,6 +362,8 @@ ${\color{#BF2A24}಄}$ [puppyfes](https://github.com/PUPPYFES) is pony town's **
 
 ${\color{#BF2A24}಄}$ [pupvalite](https://github.com/pupvalite) is pony town's **Astro Novalite** (Dandys World).ᐟ
 
+${\color{#BF2A24}಄}$ [partipoisun](https://github.com/partipoisun) is pony town's **Ellis** (Left 4 Dead 2).ᐟ
+
 ${\color{#BF2A24}಄}$ [radiant-zero](https://github.com/radiant-zero) is pony town's **scarlet** (friday night fever).ᐟ
 
 ${\color{#BF2A24}಄}$ [RE0-MIKAGE](https://github.com/RE0-MIKAGE) is pony town's **Reo Mikage**.ᐟ
@@ -376,7 +378,7 @@ ${\color{#BF2A24}಄}$ [ringodemon](https://github.com/ringodemon) is pony town'
 
 ${\color{#BF2A24}಄}$ [rydenyuri](https://github.com/rydenyuri) is pony town's **Ryan Ross** (Panic At The Disco).ᐟ
 
-${\color{#BF2A24}಄}$ [rainedscythe](https://github.com/rainedscythe) is pony town's **Hugo Vlad** (ZZZ).ᐟ
+${\color{#BF2A24}಄}$ [hug0vlad](https://github.com/hug0vlad) is pony town's **Hugo Vlad** (ZZZ).ᐟ
 
 ${\color{#BF2A24}಄}$ [ReplicaOfAffection](https://github.com/ReplicaOfAffection) is pony town's **Fukua** (Skullgirls).ᐟ
 
