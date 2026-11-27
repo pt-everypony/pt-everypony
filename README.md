@@ -776,6 +776,8 @@ ${\color{#FF3060}಄}$ [r0ttendeer](https://github.com/r0ttendeer) N.1 **Simosh*
 
 ${\color{#FF3060}಄}$ [rydenyuri](https://github.com/rydenyuri) N.1 **Rydens** shipper.ᐟ
 
+${\color{#FF3060}಄}$ [rosesnchampagne](https://github.com/rosesnchampagne) N.1 **Amasai** shipper.ᐟ
+
 ${\color{#FF3060}಄}$ [SephirahMalkuth](https://github.com/SephirahMalkuth) N.1 **Mayabura** shipper.ᐟ
 
 ${\color{#FF3060}಄}$ [ShellzyFossilzianz](https://github.com/ShellzyFossilzianz) N.1 **Moonshell** shipper.ᐟ
@@ -846,9 +848,11 @@ ${\color{#00B47E}಄}$ [sanguinesilence](https://github.com/sanguinesilence) & [
 
 ${\color{#00B47E}಄}$ [S9okeishere](https://github.com/S9okeishere) & [1SPOKEISHERE](https://github.com/1SPOKEISHERE) as pony town's **Unspoken** (UUSMP) duo.ᐟ
 
-${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
-
 ${\color{#00B47E}಄}$ [subsp4ce](https://github.com/subsp4ce) & [cometcarnage](https://github.com/cometcarnage) as pony town's **Subkit** (Subspace and Medkit) duo.ᐟ
+
+${\color{#00B47E}಄}$ [silencedlove](https://github.com/silencedlove) & [rosesnchampagne](https://github.com/rosesnchampagne) as pony town's **Amasai** duo.ᐟ
+
+${\color{#00B47E}಄}$ [turntechDoghead](https://github.com/turntechDoghead) & [pouncedeleon](https://github.com/pouncedeleon) as pony town's **Dave Strider & Nepeta Leijon** duo.ᐟ
 
 ${\color{#00B47E}಄}$ [T0R4X](https://github.com/T0R4X) & [Noctiluvancy](https://github.com/Noctiluvancy) as pony town's **Heavymedic** (TF2) couple.ᐟ
 
